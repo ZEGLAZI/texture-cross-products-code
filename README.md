@@ -8,6 +8,16 @@ article, supplementary document, their LaTeX projects, old draft versions and
 internal submission audits are kept separately. Six one-page numerical plot
 PDFs are included as data visualizations; none is an article or supplement.
 
+## Archived release and citation
+
+Release **1.0.0** is archived on Zenodo and corresponds to the
+[GitHub release v1.0.0](https://github.com/ZEGLAZI/texture-cross-products-code/releases/tag/v1.0.0).
+Please cite the archived version as:
+
+Zeglazi, O., & Rziza, M. (2026). *Texture recognition with cross-products of
+block similarities: code and reproducibility data* (Version 1.0.0)
+[Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.24541280](https://doi.org/10.5281/zenodo.24541280).
+
 ## Start here
 
 Use a checkout of the corrected code repository or extract the complete clean

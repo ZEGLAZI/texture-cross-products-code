@@ -3,6 +3,8 @@ message: "If you use these computational materials, please cite this software re
 type: software
 title: "Texture recognition with cross-products of block similarities: code and reproducibility data"
 version: 1.0.0
+doi: "10.5281/zenodo.24541280"
+date-released: "2026-11-25"
 authors:
   - family-names: Zeglazi
     given-names: Oussama
