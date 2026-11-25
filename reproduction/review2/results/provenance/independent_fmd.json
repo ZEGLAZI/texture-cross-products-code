@@ -1,0 +1,14 @@
+{
+  "test_count": 500,
+  "max_gram_identity_residual": 2.498001805406602e-16,
+  "decision_mismatches": {
+    "fixed_0": 0,
+    "unit_0": 0,
+    "fixed_1": 0,
+    "unit_1": 0,
+    "fixed_2": 0,
+    "unit_2": 0,
+    "fixed_3": 0,
+    "unit_3": 0
+  }
+}

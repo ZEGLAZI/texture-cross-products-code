@@ -1,0 +1,13 @@
+fold,inner,kernel,penalty,macro_recall_pct
+FMD_to_Lytro,0,S,1.0,82.2
+FMD_to_Lytro,0,S,0.1,84.2
+FMD_to_Lytro,0,S,10.0,76.8
+FMD_to_Lytro,0,S,0.01,83.6
+FMD_to_Lytro,0,S,100.0,71.4
+FMD_to_Lytro,0,S,0.001,83.39999999999999
+FMD_to_Lytro,0,Q,1.0,83.0
+FMD_to_Lytro,0,Q,0.1,84.39999999999999
+FMD_to_Lytro,0,Q,10.0,76.8
+FMD_to_Lytro,0,Q,0.01,84.2
+FMD_to_Lytro,0,Q,100.0,71.39999999999999
+FMD_to_Lytro,0,Q,0.001,84.2

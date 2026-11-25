@@ -1,0 +1,13 @@
+{
+  "manifest_sha256": "6597c2f6740c5be220bdcc698a64798d0b0e8773da97af83ab621045bdcec956",
+  "test_evidence_sha256": "60e91696cfff32992b75dd64e03d7f4d1858a7fc93fd6efeb494f115fedca508",
+  "matched_test_products": 654,
+  "status": "passed",
+  "matched_view_decisions": 21275,
+  "test_views": 851,
+  "model_settings": 25,
+  "all_feature_fingerprints_match": true,
+  "all_crops_and_assignments_match": true,
+  "independent_solver_validation_vectors": 60,
+  "independent_solver_test_vectors": 25
+}

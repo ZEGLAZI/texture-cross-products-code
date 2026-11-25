@@ -1,0 +1,20 @@
+{
+  "newly_reextracted_images": 12392,
+  "new_feature_coordinates_recompared": 2342088,
+  "different_feature_coordinates": 0,
+  "predicted_label_comparisons": 1402632,
+  "different_labels": 0,
+  "model_fold_outputs": 1204,
+  "prior_RGB_labels_checked": 24552,
+  "tables_verified": [
+    "by_class.csv",
+    "by_fold.csv",
+    "complementarity.csv",
+    "enriched.csv",
+    "illumination.csv",
+    "lighting_pairs.csv",
+    "matched_illumination.csv",
+    "primary.csv",
+    "scores.csv"
+  ]
+}

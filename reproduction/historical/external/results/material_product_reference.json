@@ -1,0 +1,94 @@
+{
+  "statut": "Exploratoire, après résultats principaux",
+  "sha256_plan": "39a1f31619d69c8f66707345b2b0f69729f87646204501c78d0d751b625ca22a",
+  "regimes": {
+    "trois_vers_un": {
+      "rappels_macro": {
+        "sans_interaction": 69.59175084175082,
+        "un_lien": 69.38131313131312,
+        "sw_seul": 71.63299663299662,
+        "deux_liens": 71.84343434343432
+      },
+      "contrastes": {
+        "deux_liens_moins_sw_seul": {
+          "gain_points": 0.21043771043771026,
+          "ic95_nominal": [
+            -1.5782828282828285,
+            1.9360269360269362
+          ]
+        },
+        "sw_seul_moins_sans_interaction": {
+          "gain_points": 2.0412457912457915,
+          "ic95_nominal": [
+            1.0092936587501424e-15,
+            4.040404040404041
+          ]
+        },
+        "un_lien_moins_sans_interaction": {
+          "gain_points": -0.21043771043771023,
+          "ic95_nominal": [
+            -3.0303030303030307,
+            2.483164983164984
+          ]
+        }
+      },
+      "rappel_sw_seul_par_materiau": {
+        "aluminium_foil": 94.44444444444444,
+        "brown_bread": 81.71296296296295,
+        "corduroy": 25.694444444444443,
+        "cork": 84.72222222222223,
+        "cotton": 28.472222222222225,
+        "cracker": 58.796296296296305,
+        "lettuce_leaf": 98.37962962962963,
+        "linen": 86.80555555555556,
+        "white_bread": 99.07407407407408,
+        "wood": 97.68518518518519,
+        "wool": 32.175925925925924
+      }
+    },
+    "un_vers_trois": {
+      "rappels_macro": {
+        "sans_interaction": 56.846240179573506,
+        "un_lien": 57.0496632996633,
+        "sw_seul": 58.78226711560045,
+        "deux_liens": 59.266273849607174
+      },
+      "contrastes": {
+        "deux_liens_moins_sw_seul": {
+          "gain_points": 0.4840067340067345,
+          "ic95_nominal": [
+            -0.4629629629629657,
+            1.4520202020202075
+          ]
+        },
+        "sw_seul_moins_sans_interaction": {
+          "gain_points": 1.936026936026938,
+          "ic95_nominal": [
+            0.4840067340067345,
+            3.4932659932659957
+          ]
+        },
+        "un_lien_moins_sans_interaction": {
+          "gain_points": 0.20342312008978622,
+          "ic95_nominal": [
+            -1.0311447811447814,
+            1.4520202020202002
+          ]
+        }
+      },
+      "rappel_sw_seul_par_materiau": {
+        "aluminium_foil": 96.45061728395065,
+        "brown_bread": 73.070987654321,
+        "corduroy": 8.410493827160492,
+        "cork": 71.14197530864199,
+        "cotton": 21.91358024691358,
+        "cracker": 30.555555555555568,
+        "lettuce_leaf": 98.07098765432099,
+        "linen": 43.05555555555556,
+        "white_bread": 96.83641975308643,
+        "wood": 92.5925925925926,
+        "wool": 14.506172839506181
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "synthetic_images": 5,
+  "max_direct_reference_error": 1.4224732503009818e-16,
+  "max_continuous_diagonal_gain_error": 8.760353553682876e-16,
+  "max_achromatic_response": 0.0,
+  "max_Lab_against_vectorized_reference": 5.275779813018744e-13,
+  "site_level_marginal_collision": [
+    0.7999999999999999,
+    -0.8
+  ]
+}

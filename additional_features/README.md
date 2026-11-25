@@ -1,0 +1,3 @@
+# Original DINO features for model refitting
+
+Unpack this ZIP directly next to replay_submission.py in the CVIU reviewer package. Each NPZ contains crop identity and pixel fingerprints plus three spatially pooled stage vectors. The arrays named layer2/layer3/layer4 are positional storage keys. They refer to residual stages 2/3/4 for the convolutional model and transformer blocks 3/6/12 for ViT-S/16. Models, checkpoints and the pooling convention are identified in studies/matched_pretraining/. No provider photographs or checkpoints are included. Use python replay_submission.py --mode full for feature-based refitting. See studies/matched_pretraining/README.md for the catalogue reconstruction from its original sources.

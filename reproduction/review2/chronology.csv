@@ -1,0 +1,11 @@
+stage,local_file_timestamp_utc,archived_path,sha256
+Historical DTD test protocol,2026-11-19T05:57:42+00:00,historical/dtd/protocole.json,be3a905353beef7d3a486196722206e5e2ae763858e630fd860af186b98958bb
+Selection grids and flower cohort rules,2026-11-19T07:39:42+00:00,historical/revision/code/protocol.json,52d2542dec12036f08f1c5c529b63f4fa6edb499980dc822d38ee84beff77a66
+2015–17 flower cohort candidate enumeration,2026-11-19T07:47:25+00:00,historical/revision/results/cohort/candidats.csv,63640f5d45e2432a22ebc18c43289bb97d606bd8d994334f87bb4a608252600b
+Selected flower cohort before source-fit evaluation,2026-11-19T07:50:59+00:00,historical/revision/results/cohort/nouveau_manifeste.csv,0aee90bb8c96500bbcbe2d92b34a91f0349d1738ef7aae68d3bc6ed5c95140bd
+First scores for this cohort,2026-11-19T07:52:26+00:00,historical/revision/results/cohort/scores.json,7e89c0c8827e3c17a51cc3a6e976aaf24c1dea91755bac8853ef437ecb6af599
+Clothing repeated partition lock,2026-11-19T09:31:31+00:00,clothing/PROTOCOL.txt,288edfe67b212803a9c96a01888e15919de0c33c64071b81e4824cb1cc83f680
+Clothing repeated partition results,2026-11-19T09:34:21+00:00,clothing/results/summary.json,2e19a08c29e3fd23d624c1a565c9705fd8d1a0de81af189e27bc084d49e352be
+Fixed-coefficient definitions,2026-11-19T10:32:13+00:00,review2/protocol.txt,539ea9ef9df031c40cc63f6054ca248727fd12feba8c4f9e2c8446e4aa29347f
+FMD history discovered and Outex contingency specified,2026-11-19T10:33:59+00:00,review2/amendment.txt,d0011c2c4b14aed9f6ba90def1714eea77130da021f4e5eac7bbbeebf5b1b5de
+First saved new kernel result produced on any corpus,2026-11-19T10:37:13+00:00,review2/results/kernels/DTD_01.npz,e192f8c05c1a0be1a8e5409044b38232a12ffe5c5a12a8b61593cf0cc1549d3e

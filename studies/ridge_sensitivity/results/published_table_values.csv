@@ -1,0 +1,233 @@
+table,row,field,observed,published,decimals,matches_rounding,row_label
+4,H,common_gain,1.4148936170212767,1.41,2,True,Colour–texture
+4,H,six_gain,2.234042553191489,2.23,2,True,Colour–texture
+4,H,squares,41.07978723404255,41.08,2,True,Colour–texture
+4,H,full,42.962765957446805,42.96,2,True,Colour–texture
+4,H,dense_gain,1.8829787234042556,1.88,2,True,Colour–texture
+4,H,low,1.2946808510638301,1.29,2,True,Colour–texture
+4,H,high,2.4710172872340417,2.47,2,True,Colour–texture
+4,R,common_gain,0.8457446808510639,0.85,2,True,Supervised ResNet-50
+4,R,six_gain,0.7180851063829788,0.72,2,True,Supervised ResNet-50
+4,R,squares,77.29255319148936,77.29,2,True,Supervised ResNet-50
+4,R,full,78.01063829787236,78.01,2,True,Supervised ResNet-50
+4,R,dense_gain,0.7180851063829788,0.72,2,True,Supervised ResNet-50
+4,R,low,0.47952127659574484,0.48,2,True,Supervised ResNet-50
+4,R,high,0.9537234042553193,0.95,2,True,Supervised ResNet-50
+4,DR,common_gain,0.5212765957446809,0.52,2,True,DINO ResNet-50
+4,DR,six_gain,0.20744680851063826,0.21,2,True,DINO ResNet-50
+4,DR,squares,78.43617021276596,78.44,2,True,DINO ResNet-50
+4,DR,full,78.7287234042553,78.73,2,True,DINO ResNet-50
+4,DR,dense_gain,0.2925531914893617,0.29,2,True,DINO ResNet-50
+4,DR,low,0.053989361702127675,0.05,2,True,DINO ResNet-50
+4,DR,high,0.5327127659574469,0.53,2,True,DINO ResNet-50
+4,DV,common_gain,1.351063829787234,1.35,2,True,DINO ViT-S/16
+4,DV,six_gain,-0.21276595744680857,-0.21,2,True,DINO ViT-S/16
+4,DV,squares,76.39893617021276,76.4,2,True,DINO ViT-S/16
+4,DV,full,76.27659574468086,76.28,2,True,DINO ViT-S/16
+4,DV,dense_gain,-0.1223404255319149,-0.12,2,True,DINO ViT-S/16
+4,DV,low,-0.39335106382978724,-0.39,2,True,DINO ViT-S/16
+4,DV,high,0.14920212765957444,0.15,2,True,DINO ViT-S/16
+4,D,common_gain,0.9308510638297873,0.93,2,True,DINOv2 ViT-S/14
+4,D,six_gain,-0.04787234042553198,-0.05,2,True,DINOv2 ViT-S/14
+4,D,squares,82.30851063829788,82.31,2,True,DINOv2 ViT-S/14
+4,D,full,82.15425531914893,82.15,2,True,DINOv2 ViT-S/14
+4,D,dense_gain,-0.15425531914893617,-0.15,2,True,DINOv2 ViT-S/14
+4,D,low,-0.4617021276595745,-0.46,2,True,DINOv2 ViT-S/14
+4,D,high,0.15132978723404253,0.15,2,True,DINOv2 ViT-S/14
+S38,DTD_01,H_S,-0.5,-0.5,2,True,DTD 01
+S38,DTD_01,H_Q,-0.5,-0.5,2,True,DTD 01
+S38,DTD_01,R_S,-0.25,-0.25,2,True,DTD 01
+S38,DTD_01,R_Q,-2.0,-2.0,2,True,DTD 01
+S38,DTD_01,DR_S,-0.75,-0.75,2,True,DTD 01
+S38,DTD_01,DR_Q,-1.5,-1.5,2,True,DTD 01
+S38,DTD_01,DV_S,-2.25,-2.25,2,True,DTD 01
+S38,DTD_01,DV_Q,-1.0,-1.0,2,True,DTD 01
+S38,DTD_01,D_S,-1.25,-1.25,2,True,DTD 01
+S38,DTD_01,D_Q,-0.25,-0.25,2,True,DTD 01
+S38,DTD_02,H_S,-0.75,-0.75,2,True,DTD 02
+S38,DTD_02,H_Q,-0.5,-0.5,2,True,DTD 02
+S38,DTD_02,R_S,-1.0,-1.0,2,True,DTD 02
+S38,DTD_02,R_Q,-1.25,-1.25,2,True,DTD 02
+S38,DTD_02,DR_S,-0.75,-0.75,2,True,DTD 02
+S38,DTD_02,DR_Q,-1.0,-1.0,2,True,DTD 02
+S38,DTD_02,DV_S,-1.25,-1.25,2,True,DTD 02
+S38,DTD_02,DV_Q,-1.25,-1.25,2,True,DTD 02
+S38,DTD_02,D_S,-1.25,-1.25,2,True,DTD 02
+S38,DTD_02,D_Q,-1.25,-1.25,2,True,DTD 02
+S38,DTD_03,H_S,-0.5,-0.5,2,True,DTD 03
+S38,DTD_03,H_Q,-0.5,-0.5,2,True,DTD 03
+S38,DTD_03,R_S,-1.0,-1.0,2,True,DTD 03
+S38,DTD_03,R_Q,-1.0,-1.0,2,True,DTD 03
+S38,DTD_03,DR_S,-1.5,-1.5,2,True,DTD 03
+S38,DTD_03,DR_Q,-1.0,-1.0,2,True,DTD 03
+S38,DTD_03,DV_S,-1.25,-1.25,2,True,DTD 03
+S38,DTD_03,DV_Q,-1.25,-1.25,2,True,DTD 03
+S38,DTD_03,D_S,-1.0,-1.0,2,True,DTD 03
+S38,DTD_03,D_Q,-0.75,-0.75,2,True,DTD 03
+S38,DTD_04,H_S,-0.25,-0.25,2,True,DTD 04
+S38,DTD_04,H_Q,-0.5,-0.5,2,True,DTD 04
+S38,DTD_04,R_S,-0.5,-0.5,2,True,DTD 04
+S38,DTD_04,R_Q,-0.5,-0.5,2,True,DTD 04
+S38,DTD_04,DR_S,-0.75,-0.75,2,True,DTD 04
+S38,DTD_04,DR_Q,-0.75,-0.75,2,True,DTD 04
+S38,DTD_04,DV_S,-1.75,-1.75,2,True,DTD 04
+S38,DTD_04,DV_Q,-1.5,-1.5,2,True,DTD 04
+S38,DTD_04,D_S,-1.75,-1.75,2,True,DTD 04
+S38,DTD_04,D_Q,-0.75,-0.75,2,True,DTD 04
+S38,DTD_05,H_S,-0.5,-0.5,2,True,DTD 05
+S38,DTD_05,H_Q,-0.75,-0.75,2,True,DTD 05
+S38,DTD_05,R_S,-0.75,-0.75,2,True,DTD 05
+S38,DTD_05,R_Q,-1.0,-1.0,2,True,DTD 05
+S38,DTD_05,DR_S,-1.0,-1.0,2,True,DTD 05
+S38,DTD_05,DR_Q,-1.25,-1.25,2,True,DTD 05
+S38,DTD_05,DV_S,-1.0,-1.0,2,True,DTD 05
+S38,DTD_05,DV_Q,-1.0,-1.0,2,True,DTD 05
+S38,DTD_05,D_S,-2.5,-2.5,2,True,DTD 05
+S38,DTD_05,D_Q,-1.0,-1.0,2,True,DTD 05
+S38,DTD_06,H_S,-0.5,-0.5,2,True,DTD 06
+S38,DTD_06,H_Q,-1.0,-1.0,2,True,DTD 06
+S38,DTD_06,R_S,-0.75,-0.75,2,True,DTD 06
+S38,DTD_06,R_Q,-0.5,-0.5,2,True,DTD 06
+S38,DTD_06,DR_S,-1.5,-1.5,2,True,DTD 06
+S38,DTD_06,DR_Q,-2.5,-2.5,2,True,DTD 06
+S38,DTD_06,DV_S,-1.5,-1.5,2,True,DTD 06
+S38,DTD_06,DV_Q,-1.5,-1.5,2,True,DTD 06
+S38,DTD_06,D_S,-1.25,-1.25,2,True,DTD 06
+S38,DTD_06,D_Q,-1.75,-1.75,2,True,DTD 06
+S38,DTD_07,H_S,-0.75,-0.75,2,True,DTD 07
+S38,DTD_07,H_Q,-0.5,-0.5,2,True,DTD 07
+S38,DTD_07,R_S,-0.5,-0.5,2,True,DTD 07
+S38,DTD_07,R_Q,-0.5,-0.5,2,True,DTD 07
+S38,DTD_07,DR_S,-1.0,-1.0,2,True,DTD 07
+S38,DTD_07,DR_Q,-1.5,-1.5,2,True,DTD 07
+S38,DTD_07,DV_S,-0.75,-0.75,2,True,DTD 07
+S38,DTD_07,DV_Q,-0.5,-0.5,2,True,DTD 07
+S38,DTD_07,D_S,-1.0,-1.0,2,True,DTD 07
+S38,DTD_07,D_Q,-0.75,-0.75,2,True,DTD 07
+S38,DTD_08,H_S,-0.25,-0.25,2,True,DTD 08
+S38,DTD_08,H_Q,-0.25,-0.25,2,True,DTD 08
+S38,DTD_08,R_S,-0.75,-0.75,2,True,DTD 08
+S38,DTD_08,R_Q,-0.75,-0.75,2,True,DTD 08
+S38,DTD_08,DR_S,-2.0,-2.0,2,True,DTD 08
+S38,DTD_08,DR_Q,-1.25,-1.25,2,True,DTD 08
+S38,DTD_08,DV_S,-1.25,-1.25,2,True,DTD 08
+S38,DTD_08,DV_Q,-3.0,-3.0,2,True,DTD 08
+S38,DTD_08,D_S,-2.5,-2.5,2,True,DTD 08
+S38,DTD_08,D_Q,-2.0,-2.0,2,True,DTD 08
+S38,DTD_09,H_S,-0.25,-0.25,2,True,DTD 09
+S38,DTD_09,H_Q,-0.75,-0.75,2,True,DTD 09
+S38,DTD_09,R_S,-0.5,-0.5,2,True,DTD 09
+S38,DTD_09,R_Q,-1.25,-1.25,2,True,DTD 09
+S38,DTD_09,DR_S,-1.0,-1.0,2,True,DTD 09
+S38,DTD_09,DR_Q,-2.25,-2.25,2,True,DTD 09
+S38,DTD_09,DV_S,-1.75,-1.75,2,True,DTD 09
+S38,DTD_09,DV_Q,-1.5,-1.5,2,True,DTD 09
+S38,DTD_09,D_S,-0.75,-0.75,2,True,DTD 09
+S38,DTD_09,D_Q,-0.5,-0.5,2,True,DTD 09
+S38,DTD_10,H_S,-0.25,-0.25,2,True,DTD 10
+S38,DTD_10,H_Q,-0.25,-0.25,2,True,DTD 10
+S38,DTD_10,R_S,-1.25,-1.25,2,True,DTD 10
+S38,DTD_10,R_Q,-1.0,-1.0,2,True,DTD 10
+S38,DTD_10,DR_S,-1.0,-1.0,2,True,DTD 10
+S38,DTD_10,DR_Q,-1.0,-1.0,2,True,DTD 10
+S38,DTD_10,DV_S,-1.75,-1.75,2,True,DTD 10
+S38,DTD_10,DV_Q,-1.0,-1.0,2,True,DTD 10
+S38,DTD_10,D_S,-1.0,-1.0,2,True,DTD 10
+S38,DTD_10,D_Q,-4.0,-4.0,2,True,DTD 10
+S39,DINO pair 0.1,six,0.48404255319148937,0.48,2,True,DINO pair 0.1
+S39,DINO pair 0.1,six_low,0.09654255319148936,0.1,2,True,DINO pair 0.1
+S39,DINO pair 0.1,six_high,0.8746018949468054,0.87,2,True,DINO pair 0.1
+S39,DINO pair 0.1,dense,0.4787234042553191,0.48,2,True,DINO pair 0.1
+S39,DINO pair 0.1,dense_low,0.042287234042553135,0.04,2,True,DINO pair 0.1
+S39,DINO pair 0.1,dense_high,0.9156914893617021,0.92,2,True,DINO pair 0.1
+S39,DINO pair 1,six,1.25,1.25,2,True,DINO pair 1
+S39,DINO pair 1,six_low,0.6107704454787234,0.61,2,True,DINO pair 1
+S39,DINO pair 1,six_high,1.8973420877659513,1.9,2,True,DINO pair 1
+S39,DINO pair 1,dense,1.2446808510638296,1.24,2,True,DINO pair 1
+S39,DINO pair 1,dense_low,0.6029255319148935,0.6,2,True,DINO pair 1
+S39,DINO pair 1,dense_high,1.879787234042553,1.88,2,True,DINO pair 1
+S39,DINO pair 10,six,1.1914893617021276,1.19,2,True,DINO pair 10
+S39,DINO pair 10,six_low,0.5776579122340425,0.58,2,True,DINO pair 10
+S39,DINO pair 10,six_high,1.8143617021276595,1.81,2,True,DINO pair 10
+S39,DINO pair 10,dense,1.1861702127659575,1.19,2,True,DINO pair 10
+S39,DINO pair 10,dense_low,0.5916215093085107,0.59,2,True,DINO pair 10
+S39,DINO pair 10,dense_high,1.798404255319149,1.8,2,True,DINO pair 10
+S39,ResNet pair 0.1,six,-0.09574468085106383,-0.1,2,True,ResNet pair 0.1
+S39,ResNet pair 0.1,six_low,-0.35585106382978726,-0.36,2,True,ResNet pair 0.1
+S39,ResNet pair 0.1,six_high,0.16316572473403948,0.16,2,True,ResNet pair 0.1
+S39,ResNet pair 0.1,dense,-0.010638297872340403,-0.01,2,True,ResNet pair 0.1
+S39,ResNet pair 0.1,dense_low,-0.3852401928191489,-0.39,2,True,ResNet pair 0.1
+S39,ResNet pair 0.1,dense_high,0.37074634308510024,0.37,2,True,ResNet pair 0.1
+S39,ResNet pair 1,six,-0.18617021276595744,-0.19,2,True,ResNet pair 1
+S39,ResNet pair 1,six_low,-0.7150274268617022,-0.72,2,True,ResNet pair 1
+S39,ResNet pair 1,six_high,0.3393617021276596,0.34,2,True,ResNet pair 1
+S39,ResNet pair 1,dense,-0.101063829787234,-0.1,2,True,ResNet pair 1
+S39,ResNet pair 1,dense_low,-0.6410912566489362,-0.64,2,True,ResNet pair 1
+S39,ResNet pair 1,dense_high,0.4428191489361703,0.44,2,True,ResNet pair 1
+S39,ResNet pair 10,six,-0.28723404255319146,-0.29,2,True,ResNet pair 10
+S39,ResNet pair 10,six_low,-0.8381657247340426,-0.84,2,True,ResNet pair 10
+S39,ResNet pair 10,six_high,0.25904255319148944,0.26,2,True,ResNet pair 10
+S39,ResNet pair 10,dense,-0.20212765957446813,-0.2,2,True,ResNet pair 10
+S39,ResNet pair 10,dense_low,-0.7444165558510638,-0.74,2,True,ResNet pair 10
+S39,ResNet pair 10,dense_high,0.3424210438829756,0.34,2,True,ResNet pair 10
+S39,Supervised / DINOv2 0.1,six,0.36702127659574474,0.37,2,True,Supervised / DINOv2 0.1
+S39,Supervised / DINOv2 0.1,six_low,0.04547872340425535,0.05,2,True,Supervised / DINOv2 0.1
+S39,Supervised / DINOv2 0.1,six_high,0.685904255319149,0.69,2,True,Supervised / DINOv2 0.1
+S39,Supervised / DINOv2 0.1,dense,0.4734042553191489,0.47,2,True,Supervised / DINOv2 0.1
+S39,Supervised / DINOv2 0.1,dense_low,0.0625,0.06,2,True,Supervised / DINOv2 0.1
+S39,Supervised / DINOv2 0.1,dense_high,0.8819148936170212,0.88,2,True,Supervised / DINOv2 0.1
+S39,Supervised / DINOv2 1,six,0.851063829787234,0.85,2,True,Supervised / DINOv2 1
+S39,Supervised / DINOv2 1,six_low,0.3037234042553192,0.3,2,True,Supervised / DINOv2 1
+S39,Supervised / DINOv2 1,six_high,1.3965425531914892,1.4,2,True,Supervised / DINOv2 1
+S39,Supervised / DINOv2 1,dense,0.9574468085106382,0.96,2,True,Supervised / DINOv2 1
+S39,Supervised / DINOv2 1,dense_low,0.39609707446808506,0.4,2,True,Supervised / DINOv2 1
+S39,Supervised / DINOv2 1,dense_high,1.5186170212765957,1.52,2,True,Supervised / DINOv2 1
+S39,Supervised / DINOv2 10,six,0.8244680851063829,0.82,2,True,Supervised / DINOv2 10
+S39,Supervised / DINOv2 10,six_low,0.25531914893617014,0.26,2,True,Supervised / DINOv2 10
+S39,Supervised / DINOv2 10,six_high,1.3935305851063837,1.39,2,True,Supervised / DINOv2 10
+S39,Supervised / DINOv2 10,dense,0.9308510638297873,0.93,2,True,Supervised / DINOv2 10
+S39,Supervised / DINOv2 10,dense_low,0.3595744680851065,0.36,2,True,Supervised / DINOv2 10
+S39,Supervised / DINOv2 10,dense_high,1.5057646276595753,1.51,2,True,Supervised / DINOv2 10
+S40,H,native_S,251.3509384517626,251.4,1,True,Colour–texture
+S40,H,native_Q,367.84665970317093,367.8,1,True,Colour–texture
+S40,H,matched_Q,324.4332069136307,324.4,1,True,Colour–texture
+S40,H,extended_S,0.0,0.0,0,True,Colour–texture
+S40,H,extended_Q,0.0,0.0,0,True,Colour–texture
+S40,H,cap_tied_S,0.0,0.0,0,True,Colour–texture
+S40,H,cap_tied_Q,0.0,0.0,0,True,Colour–texture
+S40,R,native_S,454.31583700814156,454.3,1,True,Supervised ResNet-50
+S40,R,native_Q,581.2271821898885,581.2,1,True,Supervised ResNet-50
+S40,R,matched_Q,515.5712741561531,515.6,1,True,Supervised ResNet-50
+S40,R,extended_S,0.0,0.0,0,True,Supervised ResNet-50
+S40,R,extended_Q,0.0,0.0,0,True,Supervised ResNet-50
+S40,R,cap_tied_S,0.0,0.0,0,True,Supervised ResNet-50
+S40,R,cap_tied_Q,0.0,0.0,0,True,Supervised ResNet-50
+S40,DR,native_S,423.48154045163056,423.5,1,True,DINO ResNet-50
+S40,DR,native_Q,550.9080069343115,550.9,1,True,DINO ResNet-50
+S40,DR,matched_Q,488.5461768452077,488.5,1,True,DINO ResNet-50
+S40,DR,extended_S,0.0,0.0,0,True,DINO ResNet-50
+S40,DR,extended_Q,1.0,1.0,0,True,DINO ResNet-50
+S40,DR,cap_tied_S,0.0,0.0,0,True,DINO ResNet-50
+S40,DR,cap_tied_Q,1.0,1.0,0,True,DINO ResNet-50
+S40,DV,native_S,330.47597657075005,330.5,1,True,DINO ViT-S/16
+S40,DV,native_Q,471.11979629684754,471.1,1,True,DINO ViT-S/16
+S40,DV,matched_Q,418.4875630774462,418.5,1,True,DINO ViT-S/16
+S40,DV,extended_S,0.0,0.0,0,True,DINO ViT-S/16
+S40,DV,extended_Q,1.0,1.0,0,True,DINO ViT-S/16
+S40,DV,cap_tied_S,0.0,0.0,0,True,DINO ViT-S/16
+S40,DV,cap_tied_Q,0.0,0.0,0,True,DINO ViT-S/16
+S40,D,native_S,315.51470263236286,315.5,1,True,DINOv2 ViT-S/14
+S40,D,native_Q,452.35506379096586,452.4,1,True,DINOv2 ViT-S/14
+S40,D,matched_Q,401.65083880320844,401.7,1,True,DINOv2 ViT-S/14
+S40,D,extended_S,0.0,0.0,0,True,DINOv2 ViT-S/14
+S40,D,extended_Q,1.0,1.0,0,True,DINOv2 ViT-S/14
+S40,D,cap_tied_S,0.0,0.0,0,True,DINOv2 ViT-S/14
+S40,D,cap_tied_Q,1.0,1.0,0,True,DINOv2 ViT-S/14
+S41,Earlier r4,lambda_0.1_pct,36.284389369495756,36.2844,4,True,Earlier r4
+S41,Earlier r4,lambda_1_pct,36.37206764866339,36.3721,4,True,Earlier r4
+S41,Earlier r4,margin_pp,-0.08767827916763005,-0.0877,4,True,Earlier r4
+S41,Earlier r4,selected_lambda,1.0,1.0,1,True,Earlier r4
+S41,Reference,lambda_0.1_pct,36.39077234821916,36.3908,4,True,Reference
+S41,Reference,lambda_1_pct,36.37206764866339,36.3721,4,True,Reference
+S41,Reference,margin_pp,0.018704699555771587,0.0187,4,True,Reference
+S41,Reference,selected_lambda,0.1,0.1,1,True,Reference

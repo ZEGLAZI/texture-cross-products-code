@@ -1,0 +1,131 @@
+{
+  "original_archive": "reproduction/historical/revision/provenance/plantnet/instantane_gbif.zip",
+  "archive_sha256": "f8d058d182730c43808f70d471a67851893c9dd81ecbfa6d4af01f2769b0f69b",
+  "members": [
+    {
+      "path": "daisy_0.json",
+      "bytes": 239229,
+      "sha256": "1a274ade67ffef2abf5bda3ab9022caf70da5934a372511411932f91598de7ed"
+    },
+    {
+      "path": "daisy_300.json",
+      "bytes": 229837,
+      "sha256": "e593e061b658b3cf71771f93df0085b3ecfeb399c6fa508e0c8cf0107213294b"
+    },
+    {
+      "path": "daisy_600.json",
+      "bytes": 233753,
+      "sha256": "4de674186852e99ebfba7250f0c286336660ad6a6476b5257150b99250a78c4b"
+    },
+    {
+      "path": "daisy_900.json",
+      "bytes": 216337,
+      "sha256": "f96fbc123fce69457724eea4b63c06282d70c770a19b1c1521c634e95503336a"
+    },
+    {
+      "path": "daisy_1200.json",
+      "bytes": 215232,
+      "sha256": "587bdd929056eadb01c3e688b466132c2934087a333365cba8f846d1c568b4ab"
+    },
+    {
+      "path": "daisy_1500.json",
+      "bytes": 207222,
+      "sha256": "1b6ef18214a37a52818c714ad8861434a531ba2a3d01d9cc8f5e4bc226863c6b"
+    },
+    {
+      "path": "daisy_1800.json",
+      "bytes": 208787,
+      "sha256": "128d160f82efb9409fe4083d0a3d906e2c29022ac813fcc1629e40b604626e0d"
+    },
+    {
+      "path": "daisy_2100.json",
+      "bytes": 211890,
+      "sha256": "b3672033303b5aa97d03248e60f79a1459a9e4e9e9f4b3ec4d75b41902d08fc9"
+    },
+    {
+      "path": "daisy_2400.json",
+      "bytes": 205117,
+      "sha256": "f93f76655a26e8924f5904619b2371e9b06f2d6c29fe78b88e91c7f22ae41e57"
+    },
+    {
+      "path": "daisy_2700.json",
+      "bytes": 206675,
+      "sha256": "3cc93ffb1585a94a4659a11a0dcc7704dc85dfc414bf69b15bb5ec65d7eccff0"
+    },
+    {
+      "path": "daisy_3000.json",
+      "bytes": 208323,
+      "sha256": "980d348acacec1ecb272e3f17503a91e21f1fcd52deaafd0362ce5cc4da1496b"
+    },
+    {
+      "path": "daisy_3300.json",
+      "bytes": 13926,
+      "sha256": "c0e0c9dfbec50575347414ebcd2242e3c6b1f518a12116cc297d3dd6a76af704"
+    },
+    {
+      "path": "sunflower_0.json",
+      "bytes": 226889,
+      "sha256": "f9d4f9eaebc6df5c1cfb8c28e12cc864ef06125fbec1fb90f986b2dfb94c23c2"
+    },
+    {
+      "path": "sunflower_300.json",
+      "bytes": 220712,
+      "sha256": "067692c69d900bc6c7ac1c890843067bd835e338342dd82fea40fb3433583d63"
+    },
+    {
+      "path": "sunflower_600.json",
+      "bytes": 214126,
+      "sha256": "83a1fc58475fdbb8ee22417cdd09e663fd22527f0c9258123b03e0fe42fbfa1a"
+    },
+    {
+      "path": "sunflower_900.json",
+      "bytes": 208615,
+      "sha256": "3f188a6f57a6a34a66e1c7cd7daa49569c961eff142fa9b705398858ef56c253"
+    },
+    {
+      "path": "sunflower_1200.json",
+      "bytes": 208747,
+      "sha256": "4c69c37a3a0eb373aba7cd1e45a76a59887c41a15981ca4488cf6d9e680ce399"
+    },
+    {
+      "path": "sunflower_1500.json",
+      "bytes": 62895,
+      "sha256": "69f87fb6412dec32c514d4162216f6cc1394c78f4ca630f9ccaad6052d0c0ea9"
+    },
+    {
+      "path": "dandelion_text_0.json",
+      "bytes": 230172,
+      "sha256": "cbba5c7df105a8a82cc19afdfe4fb9dc9073ce636d92f48b7237da0e3a474958"
+    },
+    {
+      "path": "dandelion_text_300.json",
+      "bytes": 237350,
+      "sha256": "509826cedc4cb55ebd12fff97f7adf794f040279f57a948f052dc568e0497e9d"
+    },
+    {
+      "path": "dandelion_text_600.json",
+      "bytes": 232627,
+      "sha256": "0f0c074372aee7fbc3cede4418719ecf91935c67be8cd54d35a0a510db0b60f1"
+    },
+    {
+      "path": "dandelion_text_900.json",
+      "bytes": 223715,
+      "sha256": "e3c6213c58bbc30aeaf398296112da256a6141ad7c45eb3d5442594fa00b4d98"
+    },
+    {
+      "path": "dandelion_section_0.json",
+      "bytes": 226730,
+      "sha256": "bfdfa871bb0e8d46d6f7e23705a8a484679ceb8870a715570e56fdbe4194a710"
+    },
+    {
+      "path": "dandelion_section_300.json",
+      "bytes": 117720,
+      "sha256": "7a609c422abfa471c291c1e1656ca0380a6d939fa70535db16332e463edd9359"
+    },
+    {
+      "path": "dandelion_species_0.json",
+      "bytes": 5856,
+      "sha256": "58dacac4b8d5bacea616ffe991aacfbd23df4aeec11da136f0c08399590796eb"
+    }
+  ]
+}

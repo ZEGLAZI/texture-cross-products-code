@@ -1,0 +1,31 @@
+{
+  "dataset": "KTH",
+  "images": 4752,
+  "checkpoint_sha256": "11ad3fa62ca79e40addfd354a8ec4b7c75143b3038b8d2a807fbc68deab379ca",
+  "stages": [
+    "layer2",
+    "layer3",
+    "layer4"
+  ],
+  "channels": [
+    512,
+    1024,
+    2048
+  ],
+  "pooled_arrays_sha256": [
+    "4f96ff37ff637806d8e5ed478a3f6736b155bc1c65a22367493098b77d878750",
+    "1b0bb4324b26ba98a65493be3476975e24c48c6b2101d701d3b7d31cc1c5d7f8",
+    "f45c6569120669fe987d80c10afe0613a8cda598f6d48be85bd9310c46f7cf45"
+  ],
+  "torch": "2.5.1+cpu",
+  "torchvision": "0.20.1+cpu",
+  "Pillow": "13.0.0",
+  "numpy": "2.3.5",
+  "batch": 16,
+  "threads": 6,
+  "device": "cpu",
+  "dtype": "float32",
+  "file_sha_checks": 4752,
+  "pixel_sha_checks": 4752,
+  "classification_head_check": "passed"
+}

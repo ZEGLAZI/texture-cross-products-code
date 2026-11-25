@@ -1,0 +1,86 @@
+{
+  "classes": [
+    "fabric",
+    "foliage",
+    "glass",
+    "leather",
+    "metal",
+    "paper",
+    "plastic",
+    "stone",
+    "water",
+    "wood"
+  ],
+  "source_all": 1000,
+  "source_fit": 500,
+  "source_val": 500,
+  "source_refit": 1000,
+  "target": 1000,
+  "target_unique_hash": 1000,
+  "native_target_sizes": [
+    [
+      541,
+      376
+    ]
+  ],
+  "penalties": [
+    1.0,
+    0.1,
+    10.0,
+    0.01,
+    100.0,
+    0.001
+  ],
+  "families": {
+    "H": {
+      "S": {
+        "inner_recall_pct": [
+          44.2,
+          41.400000000000006,
+          41.0,
+          39.0,
+          37.4,
+          38.6
+        ],
+        "lambda": 1.0
+      },
+      "Q": {
+        "inner_recall_pct": [
+          45.0,
+          42.2,
+          42.00000000000001,
+          42.6,
+          37.6,
+          42.2
+        ],
+        "lambda": 1.0
+      },
+      "matched_scale": 0.818181818181818
+    },
+    "D": {
+      "S": {
+        "inner_recall_pct": [
+          90.99999999999999,
+          90.8,
+          85.4,
+          89.60000000000001,
+          79.8,
+          88.80000000000001
+        ],
+        "lambda": 1.0
+      },
+      "Q": {
+        "inner_recall_pct": [
+          90.8,
+          90.60000000000001,
+          85.0,
+          90.39999999999999,
+          79.8,
+          90.39999999999999
+        ],
+        "lambda": 1.0
+      },
+      "matched_scale": 0.818181818181818
+    }
+  }
+}

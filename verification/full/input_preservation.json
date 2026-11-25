@@ -1,0 +1,105 @@
+{
+  "status": "passed",
+  "retained_original_numerical_files_verified": 952,
+  "counts_by_extension": {
+    ".json": 233,
+    ".npz": 578,
+    ".csv": 141
+  },
+  "differences": [],
+  "note": "All retained original NPZ, NPY, CSV and JSON files compared byte-for-byte. Additional feature arrays are checked separately by their supplied SHA256SUMS and provenance verifier.",
+  "algorithm_sources_unchanged": {
+    "independent_refit.py": {
+      "original_sha256": "f333c5214f6b9325fb677f33cf063ccc9766f05af6595bd16a28bddc63dd6d8f",
+      "public_sha256": "f333c5214f6b9325fb677f33cf063ccc9766f05af6595bd16a28bddc63dd6d8f"
+    },
+    "block_subsets.py": {
+      "original_sha256": "bf3faf853aac0fa512ac424f4315ad5ba9b97fed87fc1d37c95c6ee976565aca",
+      "public_sha256": "bf3faf853aac0fa512ac424f4315ad5ba9b97fed87fc1d37c95c6ee976565aca"
+    },
+    "primary_tables.py": {
+      "original_sha256": "7b3e4fd34e8b040298814a8125f7259e4cde9ab404542fd0a5acc06f72443f13",
+      "public_sha256": "7b3e4fd34e8b040298814a8125f7259e4cde9ab404542fd0a5acc06f72443f13"
+    },
+    "summarize_pixel_check.py": {
+      "original_sha256": "6c4af106daec4d92024ce4b1687c7d98d694fbcd2109b3235ee45ca6e7b60160",
+      "public_sha256": "6c4af106daec4d92024ce4b1687c7d98d694fbcd2109b3235ee45ca6e7b60160"
+    },
+    "check_reference.py": {
+      "original_sha256": "5264847d6b40047fd319dc940c943405fb15a342bbe1817dbdf4f15d0f441357",
+      "public_sha256": "5264847d6b40047fd319dc940c943405fb15a342bbe1817dbdf4f15d0f441357"
+    },
+    "check_block_dual.py": {
+      "original_sha256": "fb0bcda964019f7655eb16f12c98f375f665a105da6d86b2a6526041afc88f7a",
+      "public_sha256": "fb0bcda964019f7655eb16f12c98f375f665a105da6d86b2a6526041afc88f7a"
+    },
+    "verify_legacy.py": {
+      "original_sha256": "633b8ee5c725d417fdbf587617fea26c9c45f277439aeb124cb7fdb538a7ab06",
+      "public_sha256": "633b8ee5c725d417fdbf587617fea26c9c45f277439aeb124cb7fdb538a7ab06"
+    },
+    "studies/ridge_sensitivity/replay.py": {
+      "original_sha256": "067d3589cead4acfe992ea79f71e33f72facc314a2814ef973a5e45cb03232da",
+      "public_sha256": "067d3589cead4acfe992ea79f71e33f72facc314a2814ef973a5e45cb03232da"
+    },
+    "studies/CVIU_Experience_couleur/code/fit.py": {
+      "original_sha256": "04a51f9b2157e7865abb700a77c1cce6b66424be41dddf13f4ad54cb18bd9a58",
+      "public_sha256": "04a51f9b2157e7865abb700a77c1cce6b66424be41dddf13f4ad54cb18bd9a58"
+    },
+    "studies/CVIU_Experience_couleur/code/analyse.py": {
+      "original_sha256": "4a5e98107f8c3d1fac538fc52f8e37ff5a22cc09cdb512b2cb485ada475c01be",
+      "public_sha256": "4a5e98107f8c3d1fac538fc52f8e37ff5a22cc09cdb512b2cb485ada475c01be"
+    },
+    "studies/CVIU_Experience_couleur/code/spatial.py": {
+      "original_sha256": "2cdbb8aa69b13a6b1aaaf8c7a55d13997e52f2304c560d5f874ffeef7e4b5e97",
+      "public_sha256": "2cdbb8aa69b13a6b1aaaf8c7a55d13997e52f2304c560d5f874ffeef7e4b5e97"
+    },
+    "studies/CVIU_Dependances_chromatiques/code/fit.py": {
+      "original_sha256": "d8f2d8046a0e6feb821ff3d498906c2b1c44d6ce21d523f8fc54eeea6dc4cd96",
+      "public_sha256": "d8f2d8046a0e6feb821ff3d498906c2b1c44d6ce21d523f8fc54eeea6dc4cd96"
+    },
+    "studies/CVIU_Dependances_chromatiques/code/stats.py": {
+      "original_sha256": "f2b0040e858224b16c992961209ebd20717181aa48bbbefc30b1b86611b92ed4",
+      "public_sha256": "f2b0040e858224b16c992961209ebd20717181aa48bbbefc30b1b86611b92ed4"
+    },
+    "studies/CVIU_Dependances_chromatiques/code/lighting_pairs.py": {
+      "original_sha256": "faa01e2be1a31ee96b1b38d9a250a9859bf51f9d96fbc8541c078c3b56c317c9",
+      "public_sha256": "faa01e2be1a31ee96b1b38d9a250a9859bf51f9d96fbc8541c078c3b56c317c9"
+    },
+    "studies/source_refit/refit.py": {
+      "original_sha256": "5eec87a1d9a3666bfebd28090ba245b57b176ca460ced880517bbc110c8d9f66",
+      "public_sha256": "5eec87a1d9a3666bfebd28090ba245b57b176ca460ced880517bbc110c8d9f66"
+    },
+    "studies/resnet50/independent.py": {
+      "original_sha256": "6c6eb37ba33e58ee21f1ebc88228cad55ba9401fafa6eec12ae77213c53769f6",
+      "public_sha256": "6c6eb37ba33e58ee21f1ebc88228cad55ba9401fafa6eec12ae77213c53769f6"
+    },
+    "studies/resnet50/refit_transfer.py": {
+      "original_sha256": "5c7d9aadcba8cd15e5bfb5bff4cea9cc10db4c340910c85955efffce8b2aed7c",
+      "public_sha256": "5c7d9aadcba8cd15e5bfb5bff4cea9cc10db4c340910c85955efffce8b2aed7c"
+    },
+    "studies/matched_pretraining/check_fits.py": {
+      "original_sha256": "3082b373f53e0c2101f5f540299e27d79f4bea7a6e2c4aefeaceef5c240cb71f",
+      "public_sha256": "3082b373f53e0c2101f5f540299e27d79f4bea7a6e2c4aefeaceef5c240cb71f"
+    },
+    "studies/matched_pretraining/analyse_extension.py": {
+      "original_sha256": "4d794178390fcb2122d69b19aca0851631b4f672f4db305831b157cb59b0b09f",
+      "public_sha256": "4d794178390fcb2122d69b19aca0851631b4f672f4db305831b157cb59b0b09f"
+    },
+    "studies/matched_pretraining/retrospective.py": {
+      "original_sha256": "09a875126900545d7b50ba68d87c6831b07485f754d11d520e3f0838716ee099",
+      "public_sha256": "09a875126900545d7b50ba68d87c6831b07485f754d11d520e3f0838716ee099"
+    }
+  },
+  "cnn_math_functions_ast_identical": [
+    "load_npz",
+    "acquisition",
+    "kernels",
+    "macro",
+    "classify",
+    "validation",
+    "choose",
+    "save_csv",
+    "fit_task"
+  ],
+  "cnn_transport_function_adapted": "load_task"
+}

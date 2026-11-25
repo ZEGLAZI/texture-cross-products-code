@@ -1,0 +1,21 @@
+{
+  "corpus": "FMD",
+  "images": 1000,
+  "blocks": {
+    "F7": {
+      "coordinates": 945000,
+      "different": 0,
+      "max_abs": 0.0
+    },
+    "F8": {
+      "coordinates": 504000,
+      "different": 0,
+      "max_abs": 0.0
+    },
+    "rgb": {
+      "coordinates": 64000,
+      "different": 0,
+      "max_abs": 0.0
+    }
+  }
+}

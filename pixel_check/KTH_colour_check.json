@@ -1,0 +1,32 @@
+{
+  "corpus": "KTH",
+  "images": 4752,
+  "verified_pixel_hashes": 4752,
+  "blocks": {
+    "F7": {
+      "coordinates": 4490640,
+      "different": 41306,
+      "max_absolute": 0.002197265625,
+      "mean_absolute": 1.0035045422002926e-06,
+      "differing_images": 4744
+    },
+    "F8": {
+      "coordinates": 2395008,
+      "different": 8898,
+      "max_absolute": 0.015625,
+      "mean_absolute": 2.3684039274736802e-07,
+      "differing_images": 3338
+    },
+    "rgb": {
+      "coordinates": 304128,
+      "different": 0,
+      "max_absolute": 0.0,
+      "mean_absolute": 0.0,
+      "differing_images": 0
+    }
+  },
+  "torch": "2.5.1+cpu",
+  "threads": 2,
+  "batch": 8,
+  "cpu_kernels": "AVX2"
+}

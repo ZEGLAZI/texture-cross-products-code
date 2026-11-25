@@ -1,0 +1,36 @@
+{
+  "original_archive": "reproduction/historical/revision/results/cohort/instantane_inaturalist.zip",
+  "archive_sha256": "b59761f05d3bd2fc648aed7c97535341866a95e7cfdac70094cefc1a0185d6e6",
+  "members": [
+    {
+      "path": "57983_1.json",
+      "bytes": 133354,
+      "sha256": "63c11b210bcef0a5fcd4e0b7c7542580e18ebbeb04d5d281218ae012005d6308"
+    },
+    {
+      "path": "967514_1.json",
+      "bytes": 168476,
+      "sha256": "e7bebdbbb899fdd1a8fb7ddd73f3c23d8003f3ef17e0a6f2267837e5d6aff01e"
+    },
+    {
+      "path": "967514_2.json",
+      "bytes": 163036,
+      "sha256": "7bc061021d3df18e296526d7cc8cbb1e900d97927b1800800c144e938d3fa7f0"
+    },
+    {
+      "path": "55563_1.json",
+      "bytes": 166307,
+      "sha256": "5a808cbddddf92f272e558100039b8396122248e061d08cfffa35e7c46ca4224"
+    },
+    {
+      "path": "55563_2.json",
+      "bytes": 178414,
+      "sha256": "552355fdc830185c7c1fe34116360a92f64ac801390b96405d9a253677314f14"
+    },
+    {
+      "path": "55563_3.json",
+      "bytes": 24563,
+      "sha256": "ea966817be0b6d38b415b9b73cff79ebeff6ae6f264f89ffb702750a7fafb036"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "eligible_crop_sha256": "2514191b7d31ea6fe13c5ed2ba233395a4e422a25ba43d54d96466c47ef762d0",
+  "previous_pixels_available": {
+    "FMD": 1000,
+    "Lytro": 1000,
+    "DTD": 5640,
+    "KTH": 4752,
+    "Clothing": 194
+  },
+  "historical_matches": {},
+  "prior_exact_keys": 12585,
+  "excluded_crop_hashes": []
+}

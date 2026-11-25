@@ -1,0 +1,21 @@
+{
+  "corpus": "KTH",
+  "images": 4752,
+  "blocks": {
+    "F7": {
+      "coordinates": 4490640,
+      "different": 0,
+      "max_abs": 0.0
+    },
+    "F8": {
+      "coordinates": 2395008,
+      "different": 0,
+      "max_abs": 0.0
+    },
+    "rgb": {
+      "coordinates": 304128,
+      "different": 0,
+      "max_abs": 0.0
+    }
+  }
+}

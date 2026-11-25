@@ -1,0 +1,20 @@
+{
+  "corpus": "KTH",
+  "source": "209c4f04fb0d63a869f7ea5c18d61dc7d8196c88cb1cb4a53bf3b0607146685c",
+  "weights": "b938bf1bc15cd2ec0feacfe3a1bb553fe8ea9ca46a7e1d8d00217f29aef60cd9",
+  "commit": "e1277af2ba9496fbadf7aec6eba56e8d882d1e35",
+  "device": "cpu",
+  "torch": "2.5.1+cpu",
+  "pillow": "13.0.0",
+  "numpy": "2.3.5",
+  "layers": [
+    2,
+    5,
+    11
+  ],
+  "fp32": true,
+  "script": "e692a7d1c2301f02ae16556697f1e728e963f729d455ae4d716782cf146a764a",
+  "manifest": "7c47e19e791ce42881ceac2d1561b8d5ad86b6e1a0702458382a8afe5e5d03d6",
+  "images": 4752,
+  "output_sha256": "e186b876f5a866204fd61585b99e7dc09a7cc969d7190dd4b93bfde2e611a361"
+}

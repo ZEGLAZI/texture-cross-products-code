@@ -1,0 +1,8779 @@
+{
+  "total": 1213,
+  "page": 3,
+  "records": [
+    {
+      "id": 352164590,
+      "date": "2026-04-22",
+      "compte": 1552160,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 642750141,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/642750141/square.jpg",
+          "attribution": "(c) Оlga Сhernyagina, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352224018,
+      "date": "2026-04-23",
+      "compte": 9859269,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 642870276,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/642870276/square.jpg",
+          "attribution": "(c) Lee Lockhart, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352229608,
+      "date": "2026-04-23",
+      "compte": 10415560,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          39
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 642876858,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/642876858/square.jpg",
+          "attribution": "(c) Demir Kaan Mursaloğlu, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352269472,
+      "date": "2026-04-17",
+      "compte": 10144808,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 642948708,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/642948708/square.jpg",
+          "attribution": "(c) anonymous_naturist, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352278148,
+      "date": "2026-04-23",
+      "compte": 7158797,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 642963843,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/642963843/square.jpg",
+          "attribution": "(c) Mia Lisa Huolman, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 642963879,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/642963879/square.jpg",
+          "attribution": "(c) Mia Lisa Huolman, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 642963914,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/642963914/square.jpg",
+          "attribution": "(c) Mia Lisa Huolman, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 642964363,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/642964363/square.jpg",
+          "attribution": "(c) Mia Lisa Huolman, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352278456,
+      "date": "2026-04-23",
+      "compte": 7158797,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 642964435,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/642964435/square.jpg",
+          "attribution": "(c) Mia Lisa Huolman, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 642964486,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/642964486/square.jpg",
+          "attribution": "(c) Mia Lisa Huolman, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 642964533,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/642964533/square.jpg",
+          "attribution": "(c) Mia Lisa Huolman, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 642964575,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/642964575/square.jpg",
+          "attribution": "(c) Mia Lisa Huolman, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352340829,
+      "date": "2026-04-17",
+      "compte": 1003761,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643079645,
+          "license_code": "cc0",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643079645/square.jpg",
+          "attribution": "no rights reserved"
+        }
+      ]
+    },
+    {
+      "id": 352397981,
+      "date": "2026-04-23",
+      "compte": 7597065,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          14
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643189575,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643189575/square.jpg",
+          "attribution": "(c) david_guo618, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352457801,
+      "date": "2026-04-24",
+      "compte": 1363605,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643301281,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643301281/square.jpg",
+          "attribution": "(c) Star Richens, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352488141,
+      "date": "2026-04-24",
+      "compte": 7985421,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643358881,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643358881/square.jpg",
+          "attribution": "(c) zuzka_cakanova, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352512762,
+      "date": "2026-04-24",
+      "compte": 6600564,
+      "statut": "research",
+      "annotations": [
+        [
+          9,
+          20
+        ],
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 967514,
+      "nom_taxon": "Taraxacum",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514
+      ],
+      "photos": [
+        {
+          "id": 643397845,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643397845/square.jpg",
+          "attribution": "(c) Alejandro Rodríguez Zapata, some rights reserved (CC BY)"
+        },
+        {
+          "id": 643397923,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643397923/square.jpg",
+          "attribution": "(c) Alejandro Rodríguez Zapata, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 352550081,
+      "date": "2026-04-24",
+      "compte": 4096792,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643447609,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643447609/square.jpg",
+          "attribution": "(c) cotton, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 643447608,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643447608/square.jpg",
+          "attribution": "(c) cotton, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352562223,
+      "date": "2026-04-24",
+      "compte": 10408904,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643463421,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643463421/square.jpg",
+          "attribution": "(c) karelsikora, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352597833,
+      "date": "2026-04-24",
+      "compte": 10432993,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643510581,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643510581/square.jpg",
+          "attribution": "(c) dejvidseal, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352600953,
+      "date": "2026-04-24",
+      "compte": 1199785,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643515111,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643515111/square.jpg",
+          "attribution": "(c) Ioana-Noemy Toma, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352608047,
+      "date": "2026-04-24",
+      "compte": 2490088,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643531346,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643531346/square.jpg",
+          "attribution": "(c) Pinar Saglav, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352617804,
+      "date": "2026-04-24",
+      "compte": 10435568,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643539233,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643539233/square.jpg",
+          "attribution": "(c) mkata, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352618997,
+      "date": "2026-04-24",
+      "compte": 811473,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643541058,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643541058/square.jpg",
+          "attribution": "(c) Piotr Panek, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 352627544,
+      "date": "2026-04-24",
+      "compte": 811473,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643553882,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643553882/square.jpg",
+          "attribution": "(c) Piotr Panek, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 352638404,
+      "date": "2026-04-24",
+      "compte": 9192429,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643569761,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643569761/square.jpg",
+          "attribution": "(c) adelaskupnikova, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352650549,
+      "date": "2026-04-24",
+      "compte": 10377371,
+      "statut": "research",
+      "annotations": [
+        [
+          9,
+          20
+        ],
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 967514,
+      "nom_taxon": "Taraxacum",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514
+      ],
+      "photos": [
+        {
+          "id": 643587469,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643587469/square.jpg",
+          "attribution": "(c) Matyáš Tomeček, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352653884,
+      "date": "2026-04-24",
+      "compte": 9192429,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643592847,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643592847/square.jpg",
+          "attribution": "(c) adelaskupnikova, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352657328,
+      "date": "2026-04-24",
+      "compte": 9197116,
+      "statut": "research",
+      "annotations": [
+        [
+          9,
+          20
+        ],
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 967514,
+      "nom_taxon": "Taraxacum",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514
+      ],
+      "photos": [
+        {
+          "id": 643598416,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643598416/square.jpg",
+          "attribution": "(c) Valentýna Bol, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352660403,
+      "date": "2026-04-24",
+      "compte": 9194282,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643602791,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643602791/square.jpg",
+          "attribution": "(c) Tereza Schuhova, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352668738,
+      "date": "2026-04-24",
+      "compte": 9218709,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643613052,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643613052/square.jpg",
+          "attribution": "(c) dandyrangeshiker, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352675276,
+      "date": "2026-04-24",
+      "compte": 10436754,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643632250,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643632250/square.jpg",
+          "attribution": "(c) szsw, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352687458,
+      "date": "2026-04-24",
+      "compte": 811473,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          14
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643644339,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643644339/square.jpg",
+          "attribution": "(c) Piotr Panek, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 352692909,
+      "date": "2026-04-24",
+      "compte": 8046232,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643653009,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643653009/square.jpg",
+          "attribution": "(c) pegaska, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352699341,
+      "date": "2026-04-24",
+      "compte": 5866007,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643657731,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643657731/square.jpg",
+          "attribution": "(c) ktbday, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 643657773,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643657773/square.jpg",
+          "attribution": "(c) ktbday, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 643657791,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643657791/square.jpg",
+          "attribution": "(c) ktbday, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352706961,
+      "date": "2026-04-24",
+      "compte": 10377371,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643675591,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643675591/square.jpg",
+          "attribution": "(c) Matyáš Tomeček, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352711134,
+      "date": "2026-04-24",
+      "compte": 9565107,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 967514,
+      "nom_taxon": "Taraxacum",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514
+      ],
+      "photos": [
+        {
+          "id": 643682009,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643682009/square.jpg",
+          "attribution": "(c) Mateusz Bronikowski, some rights reserved (CC BY)"
+        },
+        {
+          "id": 643682115,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643682115/square.jpg",
+          "attribution": "(c) Mateusz Bronikowski, some rights reserved (CC BY)"
+        },
+        {
+          "id": 643682230,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643682230/square.jpg",
+          "attribution": "(c) Mateusz Bronikowski, some rights reserved (CC BY)"
+        },
+        {
+          "id": 643682351,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643682351/square.jpg",
+          "attribution": "(c) Mateusz Bronikowski, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 352711404,
+      "date": "2026-04-24",
+      "compte": 4313659,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643682527,
+          "license_code": "cc0",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643682527/square.jpg",
+          "attribution": "no rights reserved"
+        }
+      ]
+    },
+    {
+      "id": 352723425,
+      "date": "2026-04-24",
+      "compte": 10434398,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 967514,
+      "nom_taxon": "Taraxacum",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514
+      ],
+      "photos": [
+        {
+          "id": 643701116,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643701116/square.jpg",
+          "attribution": "(c) Stanisław Sikorski, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352725932,
+      "date": "2026-04-24",
+      "compte": 10372986,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643705361,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643705361/square.jpg",
+          "attribution": "(c) Ondřej Musil, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352731834,
+      "date": "2026-04-24",
+      "compte": 6448816,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 967514,
+      "nom_taxon": "Taraxacum",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514
+      ],
+      "photos": [
+        {
+          "id": 643714386,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643714386/square.jpg",
+          "attribution": "(c) Tomasz Wilk, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352766040,
+      "date": "2026-04-24",
+      "compte": 2908023,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643767529,
+          "license_code": "cc-by-sa",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643767529/square.jpg",
+          "attribution": "(c) Carlo Brescia, some rights reserved (CC BY-SA)"
+        }
+      ]
+    },
+    {
+      "id": 352771210,
+      "date": "2026-04-24",
+      "compte": 523529,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643775135,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643775135/square.jpg",
+          "attribution": "(c) mrbirder98, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352779065,
+      "date": "2026-04-24",
+      "compte": 8413753,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643787261,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643787261/square.jpg",
+          "attribution": "(c) cprofct, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352779632,
+      "date": "2026-04-24",
+      "compte": 10431520,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643788360,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643788360/square.jpg",
+          "attribution": "(c) Edward Paúl Vilca Coila, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352813408,
+      "date": "2026-04-24",
+      "compte": 164185,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643839922,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643839922/square.jpg",
+          "attribution": "(c) Charlie Paterson, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352815470,
+      "date": "2026-04-24",
+      "compte": 1846932,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643843123,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643843123/square.jpg",
+          "attribution": "(c) Jacqueline Worthington, some rights reserved (CC BY)"
+        },
+        {
+          "id": 643843226,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643843226/square.jpg",
+          "attribution": "(c) Jacqueline Worthington, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 352838103,
+      "date": "2026-04-24",
+      "compte": 911720,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643879226,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643879226/square.jpg",
+          "attribution": "(c) Lissa Martinez, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 643879160,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643879160/square.jpg",
+          "attribution": "(c) Lissa Martinez, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352839510,
+      "date": "2026-04-15",
+      "compte": 7416341,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643821464,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643821464/square.jpg",
+          "attribution": "(c) Andra Temruk, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 643821576,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643821576/square.jpg",
+          "attribution": "(c) Andra Temruk, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 643822038,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643822038/square.jpg",
+          "attribution": "(c) Andra Temruk, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352844624,
+      "date": "2026-04-24",
+      "compte": 76502,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643889152,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643889152/square.jpg",
+          "attribution": "(c) karorem, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352886946,
+      "date": "2026-04-24",
+      "compte": 6684432,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643958885,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643958885/square.jpg",
+          "attribution": "(c) Caroline Lightowler, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352890319,
+      "date": "2026-04-24",
+      "compte": 7905041,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643964062,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643964062/square.jpg",
+          "attribution": "(c) Szabolcs Márton, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352893032,
+      "date": "2026-04-24",
+      "compte": 9618341,
+      "statut": "research",
+      "annotations": [
+        [
+          9,
+          20
+        ],
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643968580,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643968580/square.jpg",
+          "attribution": "(c) nhfrommn66, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352904884,
+      "date": "2026-04-24",
+      "compte": 7905041,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643987657,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643987657/square.jpg",
+          "attribution": "(c) Szabolcs Márton, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352906744,
+      "date": "2026-04-24",
+      "compte": 258625,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643990728,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643990728/square.jpg",
+          "attribution": "(c) J. Scott, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352912040,
+      "date": "2026-04-24",
+      "compte": 10356412,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 643999125,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643999125/square.jpg",
+          "attribution": "(c) vesnas, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352915338,
+      "date": "2026-04-24",
+      "compte": 501773,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 644004261,
+          "license_code": "cc0",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644004261/square.jpg",
+          "attribution": "no rights reserved"
+        }
+      ]
+    },
+    {
+      "id": 352928931,
+      "date": "2026-04-24",
+      "compte": 1269836,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 644026833,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644026833/square.jpg",
+          "attribution": "(c) Joseph Langlois, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352935164,
+      "date": "2026-04-24",
+      "compte": 9016,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 644036622,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644036622/square.jpg",
+          "attribution": "(c) Mike G. Rutherford, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352968525,
+      "date": "2026-04-24",
+      "compte": 10379106,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 644094698,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644094698/square.jpg",
+          "attribution": "(c) Steffen Borchert, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352984699,
+      "date": "2026-04-24",
+      "compte": 2772975,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 644122232,
+          "license_code": "cc0",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644122232/square.jpg",
+          "attribution": "no rights reserved"
+        }
+      ]
+    },
+    {
+      "id": 353002998,
+      "date": "2026-04-24",
+      "compte": 4725019,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          14
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 967514,
+      "nom_taxon": "Taraxacum",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514
+      ],
+      "photos": [
+        {
+          "id": 644127160,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644127160/square.jpg",
+          "attribution": "(c) adinie, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353005313,
+      "date": "2026-04-22",
+      "compte": 1434599,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 644155963,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644155963/square.jpg",
+          "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)"
+        },
+        {
+          "id": 644157477,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644157477/square.jpg",
+          "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 353023352,
+      "date": "2026-04-24",
+      "compte": 9166933,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 644187096,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644187096/square.jpg",
+          "attribution": "(c) Porzeczka, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353028549,
+      "date": "2026-04-24",
+      "compte": 9166933,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 644195985,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644195985/square.jpg",
+          "attribution": "(c) Porzeczka, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 644196134,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644196134/square.jpg",
+          "attribution": "(c) Porzeczka, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353047126,
+      "date": "2026-04-24",
+      "compte": 2438113,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 967514,
+      "nom_taxon": "Taraxacum",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514
+      ],
+      "photos": [
+        {
+          "id": 644211735,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644211735/square.jpg",
+          "attribution": "(c) Patrick Hacker, some rights reserved (CC BY)"
+        },
+        {
+          "id": 644211740,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644211740/square.jpg",
+          "attribution": "(c) Patrick Hacker, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 353047477,
+      "date": "2026-04-24",
+      "compte": 1079644,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 644230890,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644230890/square.jpg",
+          "attribution": "(c) Alissa Iverson, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 353064325,
+      "date": "2026-04-24",
+      "compte": 9166933,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 644259520,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644259520/square.jpg",
+          "attribution": "(c) Porzeczka, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353067191,
+      "date": "2026-04-24",
+      "compte": 9166933,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 644264827,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644264827/square.jpg",
+          "attribution": "(c) Porzeczka, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353076865,
+      "date": "2026-04-24",
+      "compte": 1149563,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 644276737,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644276737/square.jpg",
+          "attribution": "(c) Christa Wise, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353078398,
+      "date": "2026-04-24",
+      "compte": 8287646,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 644268727,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644268727/square.jpg",
+          "attribution": "(c) J. Jefferys, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353083469,
+      "date": "2026-04-24",
+      "compte": 3254292,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 644294233,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644294233/square.jpg",
+          "attribution": "(c) Seprűs Péter, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353088190,
+      "date": "2026-04-24",
+      "compte": 949372,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 644302164,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644302164/square.jpg",
+          "attribution": "(c) Laurel J. Ramseyer, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353101238,
+      "date": "2026-04-24",
+      "compte": 10314424,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 644324533,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644324533/square.jpg",
+          "attribution": "(c) Lucas Gluesenkamp, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353133652,
+      "date": "2026-04-24",
+      "compte": 8631782,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 644382860,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644382860/square.jpg",
+          "attribution": "(c) krbeucler, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353145742,
+      "date": "2026-04-24",
+      "compte": 2753477,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 644403662,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644403662/square.jpg",
+          "attribution": "(c) chummymeg, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353172051,
+      "date": "2026-04-24",
+      "compte": 6394047,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 644451411,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644451411/square.jpg",
+          "attribution": "(c) Ian A, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353228915,
+      "date": "2026-04-24",
+      "compte": 9079068,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 644551685,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644551685/square.jpg",
+          "attribution": "(c) drbeucler, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353252756,
+      "date": "2026-04-24",
+      "compte": 152362,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 644593355,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644593355/square.jpg",
+          "attribution": "(c) Chris G Earley, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353258284,
+      "date": "2026-04-24",
+      "compte": 6114174,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          14
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 644602513,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644602513/square.jpg",
+          "attribution": "(c) Jared Lincenberg, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 353289539,
+      "date": "2026-04-24",
+      "compte": 1481478,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 644656074,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644656074/square.jpg",
+          "attribution": "(c) mattcolo26, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353341470,
+      "date": "2026-04-25",
+      "compte": 9009067,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 644741774,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644741774/square.jpg",
+          "attribution": "(c) reystill, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 644741884,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644741884/square.jpg",
+          "attribution": "(c) reystill, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353354980,
+      "date": "2026-04-25",
+      "compte": 10393518,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 644763106,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644763106/square.jpg",
+          "attribution": "(c) Ronel Roscher, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 644763486,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644763486/square.jpg",
+          "attribution": "(c) Ronel Roscher, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353364979,
+      "date": "2026-04-25",
+      "compte": 10409460,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 644778031,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644778031/square.jpg",
+          "attribution": "(c) Daleen Visser, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353373728,
+      "date": "2026-04-25",
+      "compte": 8738327,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 644791203,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644791203/square.jpg",
+          "attribution": "(c) attilaattila, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353459256,
+      "date": "2026-04-24",
+      "compte": 6813315,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          14
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 644924375,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644924375/square.jpg",
+          "attribution": "(c) Laura, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 644924760,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644924760/square.jpg",
+          "attribution": "(c) Laura, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 644924804,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644924804/square.jpg",
+          "attribution": "(c) Laura, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353459761,
+      "date": "2026-04-25",
+      "compte": 10434367,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 644925326,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644925326/square.jpg",
+          "attribution": "(c) James Swarts, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353464532,
+      "date": "2026-04-25",
+      "compte": 10412970,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 644933938,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644933938/square.jpg",
+          "attribution": "(c) michalkaz, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353586612,
+      "date": "2026-04-25",
+      "compte": 5990690,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645126224,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645126224/square.jpg",
+          "attribution": "(c) mhbastian, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353586975,
+      "date": "2026-04-25",
+      "compte": 5990690,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645126782,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645126782/square.jpg",
+          "attribution": "(c) mhbastian, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353603499,
+      "date": "2026-04-25",
+      "compte": 4313659,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645153088,
+          "license_code": "cc0",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645153088/square.jpg",
+          "attribution": "no rights reserved"
+        }
+      ]
+    },
+    {
+      "id": 353616894,
+      "date": "2026-04-24",
+      "compte": 4947972,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645174240,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645174240/square.jpg",
+          "attribution": "(c) megger, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353617340,
+      "date": "2026-04-25",
+      "compte": 4313659,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          14
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645175131,
+          "license_code": "cc0",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645175131/square.jpg",
+          "attribution": "no rights reserved"
+        }
+      ]
+    },
+    {
+      "id": 353656018,
+      "date": "2026-04-24",
+      "compte": 631781,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645238427,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645238427/square.jpg",
+          "attribution": "(c) Devon Cummings, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 645238414,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645238414/square.jpg",
+          "attribution": "(c) Devon Cummings, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 645238399,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645238399/square.jpg",
+          "attribution": "(c) Devon Cummings, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 645238495,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645238495/square.jpg",
+          "attribution": "(c) Devon Cummings, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353658447,
+      "date": "2026-04-24",
+      "compte": 631781,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          14
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645242189,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645242189/square.jpg",
+          "attribution": "(c) Devon Cummings, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 645242195,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645242195/square.jpg",
+          "attribution": "(c) Devon Cummings, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 645242178,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645242178/square.jpg",
+          "attribution": "(c) Devon Cummings, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 645242364,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645242364/square.jpg",
+          "attribution": "(c) Devon Cummings, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 645242323,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645242323/square.jpg",
+          "attribution": "(c) Devon Cummings, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 645242347,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645242347/square.jpg",
+          "attribution": "(c) Devon Cummings, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353660373,
+      "date": "2026-04-25",
+      "compte": 8588769,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645245643,
+          "license_code": "cc0",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645245643/square.jpg",
+          "attribution": "no rights reserved"
+        },
+        {
+          "id": 645245774,
+          "license_code": "cc0",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645245774/square.jpg",
+          "attribution": "no rights reserved"
+        },
+        {
+          "id": 645245886,
+          "license_code": "cc0",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645245886/square.jpg",
+          "attribution": "no rights reserved"
+        },
+        {
+          "id": 645245987,
+          "license_code": "cc0",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645245987/square.jpg",
+          "attribution": "no rights reserved"
+        },
+        {
+          "id": 645246141,
+          "license_code": "cc0",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645246141/square.jpg",
+          "attribution": "no rights reserved"
+        }
+      ]
+    },
+    {
+      "id": 353672496,
+      "date": "2026-04-25",
+      "compte": 9167971,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645265818,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645265818/square.jpg",
+          "attribution": "(c) Bethany Kilcrease, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353685165,
+      "date": "2026-04-25",
+      "compte": 332568,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645287415,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645287415/square.jpg",
+          "attribution": "(c) Bridget Cervero, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 645287190,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645287190/square.jpg",
+          "attribution": "(c) Bridget Cervero, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353696134,
+      "date": "2026-04-25",
+      "compte": 793323,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645516600,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645516600/square.jpg",
+          "attribution": "(c) Heather Mazzaccaro, some rights reserved (CC BY)"
+        },
+        {
+          "id": 645307106,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645307106/square.jpg",
+          "attribution": "(c) Heather Mazzaccaro, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 353712072,
+      "date": "2026-04-25",
+      "compte": 2772975,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          14
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645333206,
+          "license_code": "cc0",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645333206/square.jpg",
+          "attribution": "no rights reserved"
+        }
+      ]
+    },
+    {
+      "id": 353726644,
+      "date": "2026-04-25",
+      "compte": 6722315,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645356672,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645356672/square.jpg",
+          "attribution": "(c) lynnbeun, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353742366,
+      "date": "2026-04-24",
+      "compte": 4212520,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645383344,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645383344/square.jpg",
+          "attribution": "(c) alexfamilyteam, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 645383673,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645383673/square.jpg",
+          "attribution": "(c) alexfamilyteam, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353751201,
+      "date": "2026-04-25",
+      "compte": 2615935,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645399726,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645399726/square.jpg",
+          "attribution": "(c) Alice Moore, some rights reserved (CC BY)"
+        },
+        {
+          "id": 645400520,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645400520/square.jpg",
+          "attribution": "(c) Alice Moore, some rights reserved (CC BY)"
+        },
+        {
+          "id": 645400684,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645400684/square.jpg",
+          "attribution": "(c) Alice Moore, some rights reserved (CC BY)"
+        },
+        {
+          "id": 645400831,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645400831/square.jpg",
+          "attribution": "(c) Alice Moore, some rights reserved (CC BY)"
+        },
+        {
+          "id": 645401024,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645401024/square.jpg",
+          "attribution": "(c) Alice Moore, some rights reserved (CC BY)"
+        },
+        {
+          "id": 645401168,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645401168/square.jpg",
+          "attribution": "(c) Alice Moore, some rights reserved (CC BY)"
+        },
+        {
+          "id": 645402964,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645402964/square.jpg",
+          "attribution": "(c) Alice Moore, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 353800904,
+      "date": "2026-04-25",
+      "compte": 9659378,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          14
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645486506,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645486506/square.jpg",
+          "attribution": "(c) Britta Shurtleff, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 645486654,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645486654/square.jpg",
+          "attribution": "(c) Britta Shurtleff, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353823201,
+      "date": "2026-04-25",
+      "compte": 375342,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645521553,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645521553/square.jpg",
+          "attribution": "(c) Martin Kalfatovic, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 353833449,
+      "date": "2026-04-25",
+      "compte": 3895145,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645541069,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645541069/square.jpg",
+          "attribution": "(c) Sergey Elmanov, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353841310,
+      "date": "2026-04-25",
+      "compte": 3254292,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645557684,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645557684/square.jpg",
+          "attribution": "(c) Seprűs Péter, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353849658,
+      "date": "2026-04-25",
+      "compte": 10452870,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645571784,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645571784/square.jpg",
+          "attribution": "(c) guillecruz123, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353850185,
+      "date": "2026-04-25",
+      "compte": 7526666,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645572351,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645572351/square.jpg",
+          "attribution": "(c) Mrs Wild About Huntingdon, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353854003,
+      "date": "2026-04-24",
+      "compte": 6499561,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645580079,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645580079/square.jpg",
+          "attribution": "(c) kaballard, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353869310,
+      "date": "2026-04-25",
+      "compte": 3370081,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645583054,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645583054/square.jpg",
+          "attribution": "(c) aleksandra_a_shirokova, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353870736,
+      "date": "2026-04-25",
+      "compte": 3254292,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645609164,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645609164/square.jpg",
+          "attribution": "(c) Seprűs Péter, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353880313,
+      "date": "2026-04-25",
+      "compte": 10452335,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645627147,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645627147/square.jpg",
+          "attribution": "(c) antonina61, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353893235,
+      "date": "2026-04-19",
+      "compte": 4086255,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645637804,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645637804/square.jpg",
+          "attribution": "(c) gilbertj, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353914063,
+      "date": "2026-04-25",
+      "compte": 2753477,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645688494,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645688494/square.jpg",
+          "attribution": "(c) chummymeg, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353953900,
+      "date": "2026-04-25",
+      "compte": 425769,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645761985,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645761985/square.jpg",
+          "attribution": "(c) Laura Steadman, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 353964231,
+      "date": "2026-04-25",
+      "compte": 10390313,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645780527,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645780527/square.jpg",
+          "attribution": "(c) raniafathi12, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354030108,
+      "date": "2026-04-24",
+      "compte": 7636233,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645887166,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645887166/square.jpg",
+          "attribution": "(c) Naelin, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 354030154,
+      "date": "2026-04-24",
+      "compte": 7636233,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645892830,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645892830/square.jpg",
+          "attribution": "(c) Naelin, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 354040659,
+      "date": "2026-04-25",
+      "compte": 10027908,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645918659,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645918659/square.jpg",
+          "attribution": "(c) evie94278, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354097325,
+      "date": "2026-04-24",
+      "compte": 670899,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645995197,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645995197/square.jpg",
+          "attribution": "(c) Gerry Bates, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354097539,
+      "date": "2026-04-24",
+      "compte": 670899,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          14
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645997609,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645997609/square.jpg",
+          "attribution": "(c) Gerry Bates, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354097540,
+      "date": "2026-04-24",
+      "compte": 670899,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 645997611,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645997611/square.jpg",
+          "attribution": "(c) Gerry Bates, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354183449,
+      "date": "2026-04-24",
+      "compte": 4724645,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 967514,
+      "nom_taxon": "Taraxacum",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514
+      ],
+      "photos": [
+        {
+          "id": 646171818,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646171818/square.jpg",
+          "attribution": "(c) lastovka, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354301286,
+      "date": "2026-04-26",
+      "compte": 5706917,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 646358811,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646358811/square.jpg",
+          "attribution": "(c) Engin Bacak, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354348875,
+      "date": "2026-04-26",
+      "compte": 10351668,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 646436721,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646436721/square.jpg",
+          "attribution": "(c) Hanna Maciejewska, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354361811,
+      "date": "2026-04-26",
+      "compte": 10457543,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 646457458,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646457458/square.jpg",
+          "attribution": "(c) H N, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354370044,
+      "date": "2026-04-26",
+      "compte": 10450254,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 646470907,
+          "license_code": "cc0",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646470907/square.jpg",
+          "attribution": "no rights reserved"
+        },
+        {
+          "id": 646471035,
+          "license_code": "cc0",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646471035/square.jpg",
+          "attribution": "no rights reserved"
+        }
+      ]
+    },
+    {
+      "id": 354379727,
+      "date": "2026-04-26",
+      "compte": 10377371,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 646486793,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646486793/square.jpg",
+          "attribution": "(c) Matyáš Tomeček, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354434581,
+      "date": "2026-04-26",
+      "compte": 4313659,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          14
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 646575180,
+          "license_code": "cc0",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646575180/square.jpg",
+          "attribution": "no rights reserved"
+        }
+      ]
+    },
+    {
+      "id": 354492478,
+      "date": "2026-04-26",
+      "compte": 9622759,
+      "statut": "research",
+      "annotations": [
+        [
+          9,
+          20
+        ],
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 646670541,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646670541/square.jpg",
+          "attribution": "(c) Victoria M. ☆, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354497134,
+      "date": "2026-04-26",
+      "compte": 9622759,
+      "statut": "research",
+      "annotations": [
+        [
+          9,
+          20
+        ],
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 646678405,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646678405/square.jpg",
+          "attribution": "(c) Victoria M. ☆, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354540805,
+      "date": "2026-04-26",
+      "compte": 8772093,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          14
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 646749932,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646749932/square.jpg",
+          "attribution": "(c) Sinclair Laing, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 354542225,
+      "date": "2026-04-25",
+      "compte": 9477872,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 646746853,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646746853/square.jpg",
+          "attribution": "(c) dmitrokyiv, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 646753298,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646753298/square.jpg",
+          "attribution": "(c) dmitrokyiv, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 646754213,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646754213/square.jpg",
+          "attribution": "(c) dmitrokyiv, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354571778,
+      "date": "2026-04-26",
+      "compte": 5714633,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 646799926,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646799926/square.jpg",
+          "attribution": "(c) dgreen126, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354580825,
+      "date": "2026-04-26",
+      "compte": 4834289,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 646819593,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646819593/square.jpg",
+          "attribution": "(c) Frank Andresen, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354586981,
+      "date": "2026-04-26",
+      "compte": 10356772,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 646825793,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646825793/square.jpg",
+          "attribution": "(c) jocephine, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354633795,
+      "date": "2026-04-26",
+      "compte": 10413339,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 646904159,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646904159/square.jpg",
+          "attribution": "(c) Megan Bodin, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354634034,
+      "date": "2026-04-26",
+      "compte": 10413339,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 646904617,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646904617/square.jpg",
+          "attribution": "(c) Megan Bodin, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354650220,
+      "date": "2026-04-26",
+      "compte": 8673834,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 646932673,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646932673/square.jpg",
+          "attribution": "(c) Alexander Pohle, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 354712132,
+      "date": "2026-04-25",
+      "compte": 1434599,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 647040040,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647040040/square.jpg",
+          "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 354717926,
+      "date": "2026-04-26",
+      "compte": 10427721,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 647051963,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647051963/square.jpg",
+          "attribution": "(c) maurohenriqueffreitas, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 647052519,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647052519/square.jpg",
+          "attribution": "(c) maurohenriqueffreitas, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354749431,
+      "date": "2026-04-26",
+      "compte": 4791873,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 647107291,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647107291/square.jpg",
+          "attribution": "(c) Bill Gaw, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 647108918,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647108918/square.jpg",
+          "attribution": "(c) Bill Gaw, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 647109448,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647109448/square.jpg",
+          "attribution": "(c) Bill Gaw, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354792530,
+      "date": "2026-04-25",
+      "compte": 1434599,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 647184052,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647184052/square.jpg",
+          "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)"
+        },
+        {
+          "id": 647185690,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647185690/square.jpg",
+          "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 354863438,
+      "date": "2026-04-26",
+      "compte": 3991662,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 647266040,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647266040/square.jpg",
+          "attribution": "(c) Gabriel Magnus, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354880552,
+      "date": "2026-04-26",
+      "compte": 10165368,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 647337528,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647337528/square.jpg",
+          "attribution": "(c) guillermo_lopez01, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 647337597,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647337597/square.jpg",
+          "attribution": "(c) guillermo_lopez01, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 647337516,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647337516/square.jpg",
+          "attribution": "(c) guillermo_lopez01, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 647337615,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647337615/square.jpg",
+          "attribution": "(c) guillermo_lopez01, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 647337553,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647337553/square.jpg",
+          "attribution": "(c) guillermo_lopez01, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 647337588,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647337588/square.jpg",
+          "attribution": "(c) guillermo_lopez01, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 647337676,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647337676/square.jpg",
+          "attribution": "(c) guillermo_lopez01, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354887110,
+      "date": "2026-04-26",
+      "compte": 10069602,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 647349962,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647349962/square.jpg",
+          "attribution": "(c) keeganhennessy, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 647349951,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647349951/square.jpg",
+          "attribution": "(c) keeganhennessy, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 647349982,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647349982/square.jpg",
+          "attribution": "(c) keeganhennessy, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 647349979,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647349979/square.jpg",
+          "attribution": "(c) keeganhennessy, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354950947,
+      "date": "2026-04-26",
+      "compte": 114362,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 647462680,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647462680/square.jpg",
+          "attribution": "(c) Kelly Pennypacker, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354998328,
+      "date": "2026-04-26",
+      "compte": 6114174,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 647548250,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647548250/square.jpg",
+          "attribution": "(c) Jared Lincenberg, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 355026267,
+      "date": "2026-04-26",
+      "compte": 6114174,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 647599486,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647599486/square.jpg",
+          "attribution": "(c) Jared Lincenberg, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 355061414,
+      "date": "2026-04-25",
+      "compte": 491170,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 647659251,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647659251/square.jpg",
+          "attribution": "(c) Jared Shorma, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 355102321,
+      "date": "2026-04-27",
+      "compte": 10463477,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 647723518,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647723518/square.jpg",
+          "attribution": "(c) Irena Czerwińska, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355126820,
+      "date": "2026-04-27",
+      "compte": 9192359,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 647760833,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647760833/square.jpg",
+          "attribution": "(c) Maxim Tymoc, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355138128,
+      "date": "2026-04-27",
+      "compte": 10463536,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 647776388,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647776388/square.jpg",
+          "attribution": "(c) Mehul, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355162413,
+      "date": "2026-04-27",
+      "compte": 9192439,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 647811166,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647811166/square.jpg",
+          "attribution": "(c) vojtech_zouhar, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355165458,
+      "date": "2026-04-27",
+      "compte": 10464252,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 967514,
+      "nom_taxon": "Taraxacum",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514
+      ],
+      "photos": [
+        {
+          "id": 647815461,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647815461/square.jpg",
+          "attribution": "(c) Ewa Bielecka, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355169673,
+      "date": "2026-04-26",
+      "compte": 10458773,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          14
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 647821689,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647821689/square.jpg",
+          "attribution": "(c) ericka-4_b, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 647821762,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647821762/square.jpg",
+          "attribution": "(c) ericka-4_b, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 647855336,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647855336/square.jpg",
+          "attribution": "(c) ericka-4_b, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 647855420,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647855420/square.jpg",
+          "attribution": "(c) ericka-4_b, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 647892410,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647892410/square.jpg",
+          "attribution": "(c) ericka-4_b, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355174110,
+      "date": "2026-04-27",
+      "compte": 9192175,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 647827858,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647827858/square.jpg",
+          "attribution": "(c) diddydejvicek, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355182298,
+      "date": "2026-04-27",
+      "compte": 4118353,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 647840114,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647840114/square.jpg",
+          "attribution": "(c) this-kid-is-not-alright, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355202784,
+      "date": "2026-04-27",
+      "compte": 10435892,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 647871876,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647871876/square.jpg",
+          "attribution": "(c) Máté Szabó, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355218902,
+      "date": "2026-04-27",
+      "compte": 9195750,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 647896034,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647896034/square.jpg",
+          "attribution": "(c) Petr Káňa, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355218965,
+      "date": "2026-04-27",
+      "compte": 9195750,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 647896093,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647896093/square.jpg",
+          "attribution": "(c) Petr Káňa, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355219020,
+      "date": "2026-04-27",
+      "compte": 9195750,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 647896206,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647896206/square.jpg",
+          "attribution": "(c) Petr Káňa, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355222611,
+      "date": "2026-04-27",
+      "compte": 10427280,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 647900976,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647900976/square.jpg",
+          "attribution": "(c) Khadija Eyvazova, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355272148,
+      "date": "2026-04-27",
+      "compte": 10453277,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 647975758,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647975758/square.jpg",
+          "attribution": "(c) ian3065, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355286571,
+      "date": "2026-04-27",
+      "compte": 9192429,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 647997004,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647997004/square.jpg",
+          "attribution": "(c) adelaskupnikova, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355287462,
+      "date": "2026-04-27",
+      "compte": 9192429,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 647998435,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647998435/square.jpg",
+          "attribution": "(c) adelaskupnikova, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355331644,
+      "date": "2026-04-27",
+      "compte": 3254292,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 648066801,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648066801/square.jpg",
+          "attribution": "(c) Seprűs Péter, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355352663,
+      "date": "2026-04-25",
+      "compte": 6689290,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 648097135,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648097135/square.jpg",
+          "attribution": "(c) Kevin Merrell, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355352678,
+      "date": "2026-04-25",
+      "compte": 6689290,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 648097192,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648097192/square.jpg",
+          "attribution": "(c) Kevin Merrell, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355356404,
+      "date": "2026-04-27",
+      "compte": 4313659,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 648102870,
+          "license_code": "cc0",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648102870/square.jpg",
+          "attribution": "no rights reserved"
+        }
+      ]
+    },
+    {
+      "id": 355373812,
+      "date": "2026-04-27",
+      "compte": 9217052,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 648129634,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648129634/square.jpg",
+          "attribution": "(c) petvaldskam, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355387132,
+      "date": "2026-04-27",
+      "compte": 9183436,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 648150908,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648150908/square.jpg",
+          "attribution": "(c) Gábina Byrtusová, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355392903,
+      "date": "2026-04-27",
+      "compte": 10170717,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 648160707,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648160707/square.jpg",
+          "attribution": "(c) theanimatedpeter, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355419699,
+      "date": "2026-04-27",
+      "compte": 9183436,
+      "statut": "research",
+      "annotations": [
+        [
+          9,
+          20
+        ],
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 648202822,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648202822/square.jpg",
+          "attribution": "(c) Gábina Byrtusová, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355419756,
+      "date": "2026-04-27",
+      "compte": 8342014,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 648202882,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648202882/square.jpg",
+          "attribution": "(c) Johnny C, some rights reserved (CC BY)"
+        },
+        {
+          "id": 648203025,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648203025/square.jpg",
+          "attribution": "(c) Johnny C, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 355423454,
+      "date": "2026-04-27",
+      "compte": 2138871,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 648201288,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648201288/square.jpg",
+          "attribution": "(c) jennifer_clifford, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 648201280,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648201280/square.jpg",
+          "attribution": "(c) jennifer_clifford, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 648201264,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648201264/square.jpg",
+          "attribution": "(c) jennifer_clifford, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355424389,
+      "date": "2026-04-27",
+      "compte": 1434599,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 648209444,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648209444/square.jpg",
+          "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)"
+        },
+        {
+          "id": 648209938,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648209938/square.jpg",
+          "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 355428939,
+      "date": "2026-04-27",
+      "compte": 19767,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 648216595,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648216595/square.jpg",
+          "attribution": "(c) Bart Wursten, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355433530,
+      "date": "2026-04-27",
+      "compte": 18303,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 648223798,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648223798/square.jpg",
+          "attribution": "(c) Marv Elliott, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355460541,
+      "date": "2026-04-27",
+      "compte": 10344186,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 648265986,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648265986/square.jpg",
+          "attribution": "(c) lindsay_melia, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355544773,
+      "date": "2026-04-27",
+      "compte": 4673325,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 648400772,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648400772/square.jpg",
+          "attribution": "(c) feathervet, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355549162,
+      "date": "2026-04-25",
+      "compte": 4725019,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          14
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 967514,
+      "nom_taxon": "Taraxacum",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514
+      ],
+      "photos": [
+        {
+          "id": 648393287,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648393287/square.jpg",
+          "attribution": "(c) adinie, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355562793,
+      "date": "2026-04-24",
+      "compte": 3325109,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 648392251,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648392251/square.jpg",
+          "attribution": "(c) Lexi Destria, some rights reserved (CC BY)"
+        },
+        {
+          "id": 648392300,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648392300/square.jpg",
+          "attribution": "(c) Lexi Destria, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 355607418,
+      "date": "2026-04-26",
+      "compte": 1882608,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 648507765,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648507765/square.jpg",
+          "attribution": "(c) lizzyt, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355613244,
+      "date": "2026-04-27",
+      "compte": 7665223,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 648505543,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648505543/square.jpg",
+          "attribution": "(c) napporaivo, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 648505510,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648505510/square.jpg",
+          "attribution": "(c) napporaivo, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355613260,
+      "date": "2026-04-27",
+      "compte": 7665223,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 648505917,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648505917/square.jpg",
+          "attribution": "(c) napporaivo, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 648505973,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648505973/square.jpg",
+          "attribution": "(c) napporaivo, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355623366,
+      "date": "2026-04-27",
+      "compte": 8628379,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 648534944,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648534944/square.jpg",
+          "attribution": "(c) Joseph, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355644856,
+      "date": "2026-04-27",
+      "compte": 9649080,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 648573464,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648573464/square.jpg",
+          "attribution": "(c) Joseph Ruggeri, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 648573490,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648573490/square.jpg",
+          "attribution": "(c) Joseph Ruggeri, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 648573438,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648573438/square.jpg",
+          "attribution": "(c) Joseph Ruggeri, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355687000,
+      "date": "2026-04-24",
+      "compte": 9203549,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 648643827,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648643827/square.jpg",
+          "attribution": "(c) sigeonpex, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355689275,
+      "date": "2026-04-24",
+      "compte": 10459149,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 648650492,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648650492/square.jpg",
+          "attribution": "(c) Valentina Dvořáčková, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355692096,
+      "date": "2026-04-27",
+      "compte": 8184695,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 648655663,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648655663/square.jpg",
+          "attribution": "(c) langy01, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355720374,
+      "date": "2026-04-24",
+      "compte": 3918154,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 648705288,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648705288/square.jpg",
+          "attribution": "(c) ellwaters, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355729927,
+      "date": "2026-04-27",
+      "compte": 8628379,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 648722989,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648722989/square.jpg",
+          "attribution": "(c) Joseph, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355838869,
+      "date": "2026-04-27",
+      "compte": 1856753,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 648918441,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648918441/square.jpg",
+          "attribution": "(c) Annelise Rue-Johns, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355910708,
+      "date": "2026-04-25",
+      "compte": 1693650,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 649046207,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649046207/square.jpg",
+          "attribution": "(c) Lisa Stelzner, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355920123,
+      "date": "2026-04-27",
+      "compte": 113689,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 649063807,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649063807/square.jpg",
+          "attribution": "(c) Rupert Clayton, some rights reserved (CC BY)"
+        },
+        {
+          "id": 649064135,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649064135/square.jpg",
+          "attribution": "(c) Rupert Clayton, some rights reserved (CC BY)"
+        },
+        {
+          "id": 649064224,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649064224/square.jpg",
+          "attribution": "(c) Rupert Clayton, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 355965889,
+      "date": "2026-04-25",
+      "compte": 10471629,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 649145389,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649145389/square.jpg",
+          "attribution": "(c) danman2908, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 356124854,
+      "date": "2026-04-27",
+      "compte": 3262402,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          14
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 649431052,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649431052/square.jpg",
+          "attribution": "(c) humon, some rights reserved (CC BY)"
+        },
+        {
+          "id": 649431133,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649431133/square.jpg",
+          "attribution": "(c) humon, some rights reserved (CC BY)"
+        },
+        {
+          "id": 649431192,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649431192/square.jpg",
+          "attribution": "(c) humon, some rights reserved (CC BY)"
+        },
+        {
+          "id": 649431274,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649431274/square.jpg",
+          "attribution": "(c) humon, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 356228048,
+      "date": "2026-04-25",
+      "compte": 2600246,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 649623526,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649623526/square.jpg",
+          "attribution": "(c) Rouxne Botha, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 649623634,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649623634/square.jpg",
+          "attribution": "(c) Rouxne Botha, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 356229632,
+      "date": "2026-04-24",
+      "compte": 2748429,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 649521450,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649521450/square.jpg",
+          "attribution": "(c) mpchady, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 356230980,
+      "date": "2026-04-26",
+      "compte": 10112216,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 649629005,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649629005/square.jpg",
+          "attribution": "(c) husaifa, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 649629001,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649629001/square.jpg",
+          "attribution": "(c) husaifa, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 649629010,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649629010/square.jpg",
+          "attribution": "(c) husaifa, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 356282610,
+      "date": "2026-04-28",
+      "compte": 10161610,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 649721646,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649721646/square.jpg",
+          "attribution": "(c) Tiago Stock, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 356345473,
+      "date": "2026-04-25",
+      "compte": 76502,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 649843804,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649843804/square.jpg",
+          "attribution": "(c) karorem, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 649843867,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649843867/square.jpg",
+          "attribution": "(c) karorem, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 356377643,
+      "date": "2026-04-28",
+      "compte": 9373882,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 649893784,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649893784/square.jpg",
+          "attribution": "(c) oleelamhy, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 356408079,
+      "date": "2026-04-25",
+      "compte": 1241375,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ]
+      ],
+      "taxon": 47602,
+      "nom_taxon": "Taraxacum officinale",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        447425,
+        359450,
+        632701,
+        47603,
+        967514,
+        47602
+      ],
+      "photos": [
+        {
+          "id": 649941691,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649941691/square.jpg",
+          "attribution": "(c) 張哲綸, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 649941649,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649941649/square.jpg",
+          "attribution": "(c) 張哲綸, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 649941588,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649941588/square.jpg",
+          "attribution": "(c) 張哲綸, some rights reserved (CC BY-NC)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "dataset": "Lytro",
+  "images": 1000,
+  "checkpoint_sha256": "11ad3fa62ca79e40addfd354a8ec4b7c75143b3038b8d2a807fbc68deab379ca",
+  "stages": [
+    "layer2",
+    "layer3",
+    "layer4"
+  ],
+  "channels": [
+    512,
+    1024,
+    2048
+  ],
+  "pooled_arrays_sha256": [
+    "d4153a9949a3671bdcf77cbf8138dcbf0950c572d0073bacee03295fa2fc5a4c",
+    "ec3fddba663c23bc9c8f4e98212a4fe42976f8a71def6ce9c8db732478e37243",
+    "81c218f647800264c9a0e7094421e43aac7854a35fdd5616352b4dfdca0d4027"
+  ],
+  "torch": "2.5.1+cpu",
+  "torchvision": "0.20.1+cpu",
+  "Pillow": "13.0.0",
+  "numpy": "2.3.5",
+  "batch": 16,
+  "threads": 6,
+  "device": "cpu",
+  "dtype": "float32",
+  "file_sha_checks": 1000,
+  "pixel_sha_checks": 1000,
+  "classification_head_check": "passed"
+}

@@ -1,0 +1,12 @@
+{
+  "exclude_solid": 5.331528823262454,
+  "exclude_dotted_solid": 3.446020224480362,
+  "share_solid_dotted_pct": 71.47588724063797,
+  "snapshot": {
+    "provider_manifest_sha256": "a94c963f774bbcf448437e2522309120ec6d7fcf9ec3d77a9ff508fc5dbba2c7",
+    "manifest_rows": 2749,
+    "attempts_sha256": "f6cf9318139dc928da5a1ab438a2426a7f872900fef0b586878b0693064c201c",
+    "retained_sources_sha256": "862048fd010b7db6afdb32959c17d3feae2f9d3d913020e6e4dd07c696dd25f6",
+    "snapshot_date": "2026-11-19"
+  }
+}

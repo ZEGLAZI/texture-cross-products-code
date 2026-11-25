@@ -1,0 +1,10 @@
+{
+  "representation": "D",
+  "started_utc": "2026-11-25T07:57:23.111192+00:00",
+  "threads": 2,
+  "choices_sha256": "2dc92adc863bd2d112a6b96ff490adad851c44ec8e51c3412f41109325a35ebc",
+  "input_fingerprint": "ffee16fd1a55eb093fbe071a2b82cf9983cb61d79d8220e058ef100680952b81",
+  "description": "DINOv2 outer fits overlap the same run for H/R/DR/DV after all 100 choices were frozen; identical function, inputs, solver checks, and tolerances.",
+  "finished_utc": "2026-11-25T08:00:03.990734+00:00",
+  "predictions_sha256": "86b6e881e1f5374aa6ab17eb8776df67c20957b6d3073556aee3fdfde48bffa4"
+}

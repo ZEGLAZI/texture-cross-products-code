@@ -1,0 +1,35 @@
+{
+  "newly_reextracted_images": 12392,
+  "new_feature_coordinates_recompared": 2342088,
+  "different_feature_coordinates": 0,
+  "native_coordinates_recompared": 18749096,
+  "predicted_label_comparisons": 1402632,
+  "different_labels": 0,
+  "model_fold_outputs": 1204,
+  "prior_RGB_labels_checked": 24552,
+  "tables_verified": [
+    "by_class.csv",
+    "by_fold.csv",
+    "complementarity.csv",
+    "enriched.csv",
+    "illumination.csv",
+    "lighting_pairs.csv",
+    "matched_illumination.csv",
+    "primary.csv",
+    "scores.csv"
+  ],
+  "independent_acquisition": {
+    "new_pixel_extractions_compared": 3250,
+    "feature_coordinates_compared": 5531500,
+    "different_feature_coordinates": 0,
+    "model_labels_compared": 13500,
+    "different_labels": 0,
+    "held_out_appearances": 2250,
+    "distinct_images": 3250
+  },
+  "weight_control": {
+    "label_comparisons": 27990,
+    "different_labels": 0,
+    "contrasts": 6
+  }
+}

@@ -1,0 +1,570 @@
+{
+  "photos": 4752,
+  "images_distinctes": 4751,
+  "doublon_interne": [
+    "KTH-TIPS2-b/wool/sample_d/22d-scale_2_im_9_col.png",
+    "KTH-TIPS2-b/wool/sample_d/22d-scale_2_im_11_col.png"
+  ],
+  "specimens": 44,
+  "materiaux": [
+    "aluminium_foil",
+    "brown_bread",
+    "corduroy",
+    "cork",
+    "cotton",
+    "cracker",
+    "lettuce_leaf",
+    "linen",
+    "white_bread",
+    "wood",
+    "wool"
+  ],
+  "sha_images": "e4e61b916dde6be1dd9de2711508890e3d405bf285a65f8d6315b714931f0e62",
+  "sha_protocole": "1aab0272dae11ef4317c12872ab72272586c9874c90af45d678cf2af1c1dcc6e",
+  "tirages_bootstrap": 50000,
+  "graine": 20261118,
+  "methodes": [
+    "deux_liens",
+    "un_lien",
+    "additif",
+    "sans_interaction",
+    "clbp_ridge",
+    "clbp_chi2",
+    "oclbp_ridge",
+    "oclbp_l1"
+  ],
+  "regimes": {
+    "trois_vers_un": {
+      "plis": {
+        "a": {
+          "apprentissage": 3564,
+          "test": 1188
+        },
+        "b": {
+          "apprentissage": 3564,
+          "test": 1188
+        },
+        "c": {
+          "apprentissage": 3564,
+          "test": 1188
+        },
+        "d": {
+          "apprentissage": 3564,
+          "test": 1188
+        }
+      },
+      "evaluations": 4752,
+      "moyennes": {
+        "deux_liens": 71.84343434343435,
+        "un_lien": 69.38131313131314,
+        "additif": 69.4023569023569,
+        "sans_interaction": 69.59175084175082,
+        "clbp_ridge": 65.3409090909091,
+        "clbp_chi2": 60.79545454545453,
+        "oclbp_ridge": 56.94444444444445,
+        "oclbp_l1": 64.77272727272727
+      },
+      "rappels_materiau": {
+        "aluminium_foil": {
+          "deux_liens": 95.83333333333333,
+          "un_lien": 95.60185185185185,
+          "additif": 94.67592592592592,
+          "sans_interaction": 95.37037037037037,
+          "clbp_ridge": 98.14814814814815,
+          "clbp_chi2": 96.75925925925925,
+          "oclbp_ridge": 99.53703703703702,
+          "oclbp_l1": 97.45370370370371
+        },
+        "brown_bread": {
+          "deux_liens": 84.49074074074075,
+          "un_lien": 84.9537037037037,
+          "additif": 81.4814814814815,
+          "sans_interaction": 82.17592592592592,
+          "clbp_ridge": 92.82407407407408,
+          "clbp_chi2": 59.25925925925925,
+          "oclbp_ridge": 80.78703703703702,
+          "oclbp_l1": 88.19444444444444
+        },
+        "corduroy": {
+          "deux_liens": 25.0,
+          "un_lien": 23.84259259259259,
+          "additif": 27.77777777777778,
+          "sans_interaction": 26.620370370370374,
+          "clbp_ridge": 11.342592592592593,
+          "clbp_chi2": 25.92592592592593,
+          "oclbp_ridge": 18.51851851851852,
+          "oclbp_l1": 11.342592592592593
+        },
+        "cork": {
+          "deux_liens": 87.03703703703702,
+          "un_lien": 84.49074074074075,
+          "additif": 84.49074074074075,
+          "sans_interaction": 84.72222222222221,
+          "clbp_ridge": 99.07407407407408,
+          "clbp_chi2": 99.07407407407408,
+          "oclbp_ridge": 85.87962962962963,
+          "oclbp_l1": 89.35185185185186
+        },
+        "cotton": {
+          "deux_liens": 31.01851851851852,
+          "un_lien": 33.33333333333333,
+          "additif": 34.9537037037037,
+          "sans_interaction": 31.01851851851852,
+          "clbp_ridge": 34.72222222222223,
+          "clbp_chi2": 26.15740740740741,
+          "oclbp_ridge": 3.2407407407407405,
+          "oclbp_l1": 11.574074074074073
+        },
+        "cracker": {
+          "deux_liens": 59.49074074074075,
+          "un_lien": 56.018518518518526,
+          "additif": 57.17592592592593,
+          "sans_interaction": 54.39814814814815,
+          "clbp_ridge": 59.953703703703695,
+          "clbp_chi2": 29.398148148148152,
+          "oclbp_ridge": 24.76851851851852,
+          "oclbp_l1": 61.57407407407407
+        },
+        "lettuce_leaf": {
+          "deux_liens": 99.07407407407408,
+          "un_lien": 99.30555555555554,
+          "additif": 98.14814814814814,
+          "sans_interaction": 98.6111111111111,
+          "clbp_ridge": 81.71296296296296,
+          "clbp_chi2": 76.62037037037037,
+          "oclbp_ridge": 100.0,
+          "oclbp_l1": 93.28703703703704
+        },
+        "linen": {
+          "deux_liens": 79.16666666666666,
+          "un_lien": 65.97222222222221,
+          "additif": 75.92592592592592,
+          "sans_interaction": 76.85185185185185,
+          "clbp_ridge": 54.861111111111114,
+          "clbp_chi2": 75.23148148148148,
+          "oclbp_ridge": 48.842592592592595,
+          "oclbp_l1": 55.787037037037045
+        },
+        "white_bread": {
+          "deux_liens": 99.07407407407408,
+          "un_lien": 99.53703703703704,
+          "additif": 99.30555555555554,
+          "sans_interaction": 99.30555555555554,
+          "clbp_ridge": 65.50925925925925,
+          "clbp_chi2": 81.01851851851852,
+          "oclbp_ridge": 70.83333333333334,
+          "oclbp_l1": 97.91666666666667
+        },
+        "wood": {
+          "deux_liens": 97.91666666666667,
+          "un_lien": 93.05555555555554,
+          "additif": 96.99074074074075,
+          "sans_interaction": 96.75925925925925,
+          "clbp_ridge": 88.42592592592592,
+          "clbp_chi2": 74.53703703703705,
+          "oclbp_ridge": 93.98148148148148,
+          "oclbp_l1": 93.5185185185185
+        },
+        "wool": {
+          "deux_liens": 32.175925925925924,
+          "un_lien": 27.083333333333332,
+          "additif": 12.499999999999998,
+          "sans_interaction": 19.675925925925924,
+          "clbp_ridge": 32.175925925925924,
+          "clbp_chi2": 24.76851851851852,
+          "oclbp_ridge": 0.0,
+          "oclbp_l1": 12.5
+        }
+      },
+      "ecarts_deux_liens_moins": {
+        "un_lien": {
+          "gain_points": 2.462121212121218,
+          "ic95": [
+            0.7786195286195298,
+            4.271885521885522
+          ],
+          "ic95_simultane_deux_principales": [
+            0.5892255892255891,
+            4.545454545454545
+          ],
+          "materiaux_gagnes": 7,
+          "materiaux_perdus": 4,
+          "materiaux_ex_aequo": 0,
+          "corrigees_et_degradees": [
+            186,
+            69
+          ]
+        },
+        "additif": {
+          "gain_points": 2.4410774410774536,
+          "ic95": [
+            -0.8207070707070705,
+            5.66077441077441
+          ],
+          "ic95_simultane_deux_principales": null,
+          "materiaux_gagnes": 8,
+          "materiaux_perdus": 3,
+          "materiaux_ex_aequo": 0,
+          "corrigees_et_degradees": [
+            282,
+            166
+          ]
+        },
+        "sans_interaction": {
+          "gain_points": 2.25168350168353,
+          "ic95": [
+            -0.3577441077441076,
+            4.734848484848485
+          ],
+          "ic95_simultane_deux_principales": null,
+          "materiaux_gagnes": 8,
+          "materiaux_perdus": 2,
+          "materiaux_ex_aequo": 1,
+          "corrigees_et_degradees": [
+            252,
+            145
+          ]
+        },
+        "clbp_ridge": {
+          "gain_points": 6.50252525252526,
+          "ic95": [
+            -0.25252525252525265,
+            13.089225589225588
+          ],
+          "ic95_simultane_deux_principales": [
+            -1.1994949494949496,
+            13.994107744107744
+          ],
+          "materiaux_gagnes": 5,
+          "materiaux_perdus": 5,
+          "materiaux_ex_aequo": 1,
+          "corrigees_et_degradees": [
+            766,
+            457
+          ]
+        },
+        "clbp_chi2": {
+          "gain_points": 11.04797979797982,
+          "ic95": [
+            5.0710227272727275,
+            17.1506734006734
+          ],
+          "ic95_simultane_deux_principales": null,
+          "materiaux_gagnes": 8,
+          "materiaux_perdus": 3,
+          "materiaux_ex_aequo": 0,
+          "corrigees_et_degradees": [
+            906,
+            381
+          ]
+        },
+        "oclbp_ridge": {
+          "gain_points": 14.898989898989903,
+          "ic95": [
+            9.574915824915825,
+            20.412457912457914
+          ],
+          "ic95_simultane_deux_principales": null,
+          "materiaux_gagnes": 9,
+          "materiaux_perdus": 2,
+          "materiaux_ex_aequo": 0,
+          "corrigees_et_degradees": [
+            905,
+            197
+          ]
+        },
+        "oclbp_l1": {
+          "gain_points": 7.070707070707087,
+          "ic95": [
+            1.9570707070707078,
+            12.626262626262626
+          ],
+          "ic95_simultane_deux_principales": null,
+          "materiaux_gagnes": 7,
+          "materiaux_perdus": 4,
+          "materiaux_ex_aequo": 0,
+          "corrigees_et_degradees": [
+            632,
+            296
+          ]
+        }
+      },
+      "sensibilite_rappel_macro_4751_pixels_uniques_predictions_fixes": {
+        "deux_liens": 71.8502210816596,
+        "un_lien": 69.38702570953151,
+        "additif": 69.40499347691923,
+        "sans_interaction": 69.59590100541377,
+        "clbp_ridge": 65.34769582913434,
+        "clbp_chi2": 60.80067886912435,
+        "oclbp_ridge": 56.94444444444444,
+        "oclbp_l1": 64.7753638472896
+      }
+    },
+    "un_vers_trois": {
+      "plis": {
+        "a": {
+          "apprentissage": 1188,
+          "test": 3564
+        },
+        "b": {
+          "apprentissage": 1188,
+          "test": 3564
+        },
+        "c": {
+          "apprentissage": 1188,
+          "test": 3564
+        },
+        "d": {
+          "apprentissage": 1188,
+          "test": 3564
+        }
+      },
+      "evaluations": 14256,
+      "moyennes": {
+        "deux_liens": 59.26627384960719,
+        "un_lien": 57.04966329966331,
+        "additif": 56.95145903479238,
+        "sans_interaction": 56.84624017957353,
+        "clbp_ridge": 55.520482603815935,
+        "clbp_chi2": 52.46913580246915,
+        "oclbp_ridge": 47.236251402918064,
+        "oclbp_l1": 56.15179573512907
+      },
+      "rappels_materiau": {
+        "aluminium_foil": {
+          "deux_liens": 96.37345679012348,
+          "un_lien": 95.91049382716051,
+          "additif": 95.60185185185188,
+          "sans_interaction": 95.52469135802473,
+          "clbp_ridge": 95.1388888888889,
+          "clbp_chi2": 96.21913580246913,
+          "oclbp_ridge": 94.98456790123458,
+          "oclbp_l1": 98.22530864197532
+        },
+        "brown_bread": {
+          "deux_liens": 78.16358024691358,
+          "un_lien": 77.54629629629632,
+          "additif": 75.23148148148148,
+          "sans_interaction": 76.0030864197531,
+          "clbp_ridge": 68.74999999999997,
+          "clbp_chi2": 33.410493827160494,
+          "oclbp_ridge": 47.76234567901235,
+          "oclbp_l1": 83.33333333333333
+        },
+        "corduroy": {
+          "deux_liens": 9.336419753086421,
+          "un_lien": 8.873456790123461,
+          "additif": 9.490740740740735,
+          "sans_interaction": 9.799382716049376,
+          "clbp_ridge": 9.953703703703708,
+          "clbp_chi2": 14.737654320987644,
+          "oclbp_ridge": 7.793209876543214,
+          "oclbp_l1": 7.40740740740741
+        },
+        "cork": {
+          "deux_liens": 74.30555555555559,
+          "un_lien": 71.68209876543212,
+          "additif": 67.28395061728398,
+          "sans_interaction": 65.43209876543212,
+          "clbp_ridge": 98.07098765432099,
+          "clbp_chi2": 89.58333333333334,
+          "oclbp_ridge": 59.49074074074072,
+          "oclbp_l1": 61.65123456790123
+        },
+        "cotton": {
+          "deux_liens": 25.84876543209877,
+          "un_lien": 27.546296296296298,
+          "additif": 25.54012345679012,
+          "sans_interaction": 24.845679012345677,
+          "clbp_ridge": 30.7098765432099,
+          "clbp_chi2": 28.009259259259267,
+          "oclbp_ridge": 4.475308641975309,
+          "oclbp_l1": 12.422839506172833
+        },
+        "cracker": {
+          "deux_liens": 33.410493827160515,
+          "un_lien": 29.01234567901236,
+          "additif": 25.38580246913581,
+          "sans_interaction": 24.53703703703704,
+          "clbp_ridge": 34.027777777777764,
+          "clbp_chi2": 26.7746913580247,
+          "oclbp_ridge": 21.450617283950603,
+          "oclbp_l1": 32.716049382716044
+        },
+        "lettuce_leaf": {
+          "deux_liens": 98.61111111111111,
+          "un_lien": 98.76543209876543,
+          "additif": 97.91666666666667,
+          "sans_interaction": 98.4567901234568,
+          "clbp_ridge": 63.6574074074074,
+          "clbp_chi2": 59.645061728395056,
+          "oclbp_ridge": 99.92283950617283,
+          "oclbp_l1": 94.21296296296295
+        },
+        "linen": {
+          "deux_liens": 32.947530864197525,
+          "un_lien": 26.774691358024683,
+          "additif": 36.18827160493828,
+          "sans_interaction": 37.3456790123457,
+          "clbp_ridge": 46.45061728395062,
+          "clbp_chi2": 63.65740740740742,
+          "oclbp_ridge": 34.64506172839505,
+          "oclbp_l1": 34.722222222222214
+        },
+        "white_bread": {
+          "deux_liens": 96.91358024691361,
+          "un_lien": 97.91666666666669,
+          "additif": 97.6851851851852,
+          "sans_interaction": 97.76234567901237,
+          "clbp_ridge": 57.56172839506175,
+          "clbp_chi2": 73.4567901234568,
+          "oclbp_ridge": 54.62962962962964,
+          "oclbp_l1": 96.37345679012346
+        },
+        "wood": {
+          "deux_liens": 90.97222222222221,
+          "un_lien": 80.01543209876543,
+          "additif": 84.10493827160492,
+          "sans_interaction": 82.87037037037037,
+          "clbp_ridge": 83.95061728395062,
+          "clbp_chi2": 70.44753086419753,
+          "oclbp_ridge": 89.96913580246913,
+          "oclbp_l1": 84.1820987654321
+        },
+        "wool": {
+          "deux_liens": 15.0462962962963,
+          "un_lien": 13.50308641975309,
+          "additif": 12.037037037037042,
+          "sans_interaction": 12.731481481481488,
+          "clbp_ridge": 22.4537037037037,
+          "clbp_chi2": 21.21913580246912,
+          "oclbp_ridge": 4.4753086419753085,
+          "oclbp_l1": 12.42283950617283
+        }
+      },
+      "ecarts_deux_liens_moins": {
+        "un_lien": {
+          "gain_points": 2.21661054994388,
+          "ic95": [
+            0.9329405162738539,
+            3.6686307519640895
+          ],
+          "ic95_simultane_deux_principales": [
+            0.7716049382716104,
+            3.8720538720538724
+          ],
+          "materiaux_gagnes": 8,
+          "materiaux_perdus": 3,
+          "materiaux_ex_aequo": 0,
+          "corrigees_et_degradees": [
+            495,
+            179
+          ]
+        },
+        "additif": {
+          "gain_points": 2.3148148148148096,
+          "ic95": [
+            0.7996632996633035,
+            3.8790684624018015
+          ],
+          "ic95_simultane_deux_principales": null,
+          "materiaux_gagnes": 8,
+          "materiaux_perdus": 3,
+          "materiaux_ex_aequo": 0,
+          "corrigees_et_degradees": [
+            724,
+            394
+          ]
+        },
+        "sans_interaction": {
+          "gain_points": 2.4200336700336607,
+          "ic95": [
+            0.9259259259259267,
+            4.019360269360267
+          ],
+          "ic95_simultane_deux_principales": null,
+          "materiaux_gagnes": 8,
+          "materiaux_perdus": 3,
+          "materiaux_ex_aequo": 0,
+          "corrigees_et_degradees": [
+            721,
+            376
+          ]
+        },
+        "clbp_ridge": {
+          "gain_points": 3.7457912457912528,
+          "ic95": [
+            -0.610269360269349,
+            7.9335016835017
+          ],
+          "ic95_simultane_deux_principales": [
+            -1.2345679012345576,
+            8.515712682379359
+          ],
+          "materiaux_gagnes": 5,
+          "materiaux_perdus": 6,
+          "materiaux_ex_aequo": 0,
+          "corrigees_et_degradees": [
+            2435,
+            1901
+          ]
+        },
+        "clbp_chi2": {
+          "gain_points": 6.797138047138041,
+          "ic95": [
+            3.2126823793490584,
+            10.24130190796859
+          ],
+          "ic95_simultane_deux_principales": null,
+          "materiaux_gagnes": 6,
+          "materiaux_perdus": 5,
+          "materiaux_ex_aequo": 0,
+          "corrigees_et_degradees": [
+            2725,
+            1756
+          ]
+        },
+        "oclbp_ridge": {
+          "gain_points": 12.030022446689124,
+          "ic95": [
+            8.92957351290686,
+            15.207631874298556
+          ],
+          "ic95_simultane_deux_principales": null,
+          "materiaux_gagnes": 9,
+          "materiaux_perdus": 2,
+          "materiaux_ex_aequo": 0,
+          "corrigees_et_degradees": [
+            2418,
+            703
+          ]
+        },
+        "oclbp_l1": {
+          "gain_points": 3.1144781144781177,
+          "ic95": [
+            0.519079685746364,
+            5.618686868686884
+          ],
+          "ic95_simultane_deux_principales": null,
+          "materiaux_gagnes": 8,
+          "materiaux_perdus": 3,
+          "materiaux_ex_aequo": 0,
+          "corrigees_et_degradees": [
+            1497,
+            1053
+          ]
+        }
+      },
+      "sensibilite_rappel_macro_4751_pixels_uniques_predictions_fixes": {
+        "deux_liens": 59.26241663867343,
+        "un_lien": 57.04548058569714,
+        "additif": 56.94696709294544,
+        "sans_interaction": 56.84189471409118,
+        "clbp_ridge": 55.525218672937136,
+        "clbp_chi2": 52.466580603664895,
+        "oclbp_ridge": 47.23016449621246,
+        "oclbp_l1": 56.14738516904022
+      }
+    }
+  }
+}

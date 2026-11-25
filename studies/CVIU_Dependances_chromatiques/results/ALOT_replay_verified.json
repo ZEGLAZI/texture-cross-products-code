@@ -1,0 +1,9 @@
+{
+  "new_pixel_extractions_compared": 3250,
+  "feature_coordinates_compared": 5531500,
+  "different_feature_coordinates": 0,
+  "model_labels_compared": 13500,
+  "different_labels": 0,
+  "held_out_appearances": 2250,
+  "distinct_images": 3250
+}

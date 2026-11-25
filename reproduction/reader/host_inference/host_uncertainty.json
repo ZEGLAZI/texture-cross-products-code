@@ -1,0 +1,27 @@
+{
+  "method": "paired percentile bootstrap of exact hostnames, conditional on six represented classes and fixed out-of-fold predictions",
+  "seed": 2026111907,
+  "streams": 4,
+  "photos": 211,
+  "hosts": 74,
+  "repeats": 30,
+  "effective_hosts_from_sizes": 14.394115745231167,
+  "attempted": 200000,
+  "retained": 199999,
+  "missing_class_draws": 1,
+  "difference_pp": 5.870520526046731,
+  "percentile95_pp": [
+    2.7762892096525755,
+    9.245757926487094
+  ],
+  "leave_one_host_range_pp": [
+    5.2539149094411135,
+    6.610785244772173
+  ],
+  "delete_two_largest_pp": 6.172343738133213,
+  "jackknife_se_pp": 1.728354055599428,
+  "jackknife_t95_pp": [
+    2.425915860716996,
+    9.315125191376465
+  ]
+}

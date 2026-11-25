@@ -1,0 +1,43 @@
+{
+  "protocol": {
+    "version": "v3-reconstruction-1",
+    "initial_j": [
+      -12,
+      8
+    ],
+    "penalty": "10**(j/4)",
+    "extension_j": 4,
+    "limits_j": [
+      -32,
+      24
+    ],
+    "recall_fraction_tolerance": 1e-13,
+    "dense_tie_break": "minimum (abs(j), j)",
+    "six_order": [
+      1.0,
+      0.1,
+      10.0,
+      0.01,
+      100.0,
+      0.001
+    ],
+    "common_penalties": [
+      0.1,
+      1.0,
+      10.0
+    ],
+    "bootstrap_seed": 19112026,
+    "bootstrap_draws": 100000,
+    "source_of_seed": "unchanged summarize_pixel_check.paired_interval",
+    "uncertainty": "class/split-centred exact-image-group Rademacher multipliers"
+  },
+  "source_sha256": {
+    "data_and_code_r4.zip": "ad1a3c2cda703498ca2bca2e2f5fa6718ad071931a0d5dbd8869c4f46dfbf385",
+    "pixel_check/DTD_colour.npz": "298fbf684ea206606e9f3dcdbf45940a766ffeded5f487efa7aa245f559ae232",
+    "studies/resnet50/data/DTD_stages.npz": "9cf759847d5e538f06af39d9a88d340b1f04c39b798481a1695d2a0038e2cb63",
+    "additional_features/dino_r50/DTD_stages.npz": "641f03248a055b86136933a653596fac716bd7d305f0cab8dffb644242e65780",
+    "additional_features/dino_vits16/DTD_stages.npz": "5bbe3621654780d80e8cba3d067098c3cb0998e588a765c6a4457f162d81bdb9"
+  },
+  "implementation_sha256": "34e240178eca94f874ae6b880502d8c6d281f40fdb44df5624135a01d5c2af02",
+  "fingerprint": "ffee16fd1a55eb093fbe071a2b82cf9983cb61d79d8220e058ef100680952b81"
+}

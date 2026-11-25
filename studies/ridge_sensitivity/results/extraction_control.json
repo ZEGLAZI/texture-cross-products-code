@@ -1,0 +1,26 @@
+{
+  "old_outer_labels_compared": 1880,
+  "old_outer_label_mismatches": 0,
+  "old_vs_reference_selected_labels_changed": 542,
+  "old_vs_reference_common_1_labels_changed": 2,
+  "rows": [
+    {
+      "extraction": "Earlier r4",
+      "lambda_0.1_pct": 36.284389369495756,
+      "lambda_1_pct": 36.37206764866339,
+      "margin_pp": -0.08767827916763005,
+      "selected_lambda": 1.0
+    },
+    {
+      "extraction": "Reference",
+      "lambda_0.1_pct": 36.39077234821916,
+      "lambda_1_pct": 36.37206764866339,
+      "margin_pp": 0.018704699555771587,
+      "selected_lambda": 0.1
+    }
+  ],
+  "earlier_common_1_gain_pp": 1.3936170212765957,
+  "reference_common_1_gain_pp": 1.4148936170212767,
+  "earlier_six_gain_pp": 2.2127659574468086,
+  "reference_six_gain_pp": 2.2340425531914896
+}

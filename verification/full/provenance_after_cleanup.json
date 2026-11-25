@@ -1,0 +1,183 @@
+{
+  "status": "passed",
+  "provenance_rows_checked": 6,
+  "scope": "Released arrays and stored decisions; no fresh pixel extraction in this check.",
+  "historical_numerical_archive_sha256": "ad1a3c2cda703498ca2bca2e2f5fa6718ad071931a0d5dbd8869c4f46dfbf385",
+  "historical_release_verification": {
+    "mode": "public_numerical_subset",
+    "original_manifest_entries": 796,
+    "files_verified": 795,
+    "unchanged_files_verified": 792,
+    "adapted_files_verified": 3,
+    "excluded_publication_files": [
+      "historical/revision/code/displays_revision.py"
+    ],
+    "original_payload_is_complete_and_byte_identical": false,
+    "manifest_sha256": "7fa27470dab59573e0933bf1ade04cea903c04483756e9ab5744022350c03283",
+    "public_change_record_sha256": "522462fcfbad14c6bfbcb3ad8da4a289c8e3df024cef49c99b20e74c90a1781b",
+    "historical_archive_identifier_sha256": "ad1a3c2cda703498ca2bca2e2f5fa6718ad071931a0d5dbd8869c4f46dfbf385",
+    "zip_digest_measured_in_this_check": false
+  },
+  "colour_image_identities": {
+    "DTD": 5640,
+    "KTH": 4752
+  },
+  "dinov2_arrays_matching_reference_extraction": {
+    "DTD": {
+      "ids": "ee801fa5a8b863012f51cda168beaa89d8f50691a6f8b3242ea966547193d627",
+      "patch3": "9188700edec2adec95f1ced94cb6b8a246ea34027112e5c9f75856ed07f39b83",
+      "patch6": "454026fb0afe3f81fb831217b6da7c68879a234bc65c7c1ffc283485d561e2a9",
+      "patch12": "b3da81f3bd17a25b6ad3df1bd5fef27ce895e57067f75dc163048582710775e6",
+      "cls12": "2554ce4d91d6d6b584a4a3deddb99c2d66243ce829dc3ecbb5bf0280d6da53ae"
+    },
+    "KTH": {
+      "ids": "36d88a88308742b3d8e151ab56a1266a47199f9e330047462617d75bc359196e",
+      "patch3": "b74b499fe2a450309264b1f27068c7f35464fa18dc4ceecbfe868af8d15b40c0",
+      "patch6": "05e6f0f8e5773191a41a370607d45ac454faa3e1ccabac166596f3bea2d2f435",
+      "patch12": "8019cd59de627f36c01fb3845bf70a5228fe46a70f150c9986de741303151b9f",
+      "cls12": "f68c766805548abb4b6a2f40a059c39b0480748a8f5434882307f3e3a5874269"
+    }
+  },
+  "stage_sources": {
+    "supervised_resnet50": {
+      "image_identities": 5640,
+      "stage_shapes": {
+        "layer2": [
+          5640,
+          512
+        ],
+        "layer3": [
+          5640,
+          1024
+        ],
+        "layer4": [
+          5640,
+          2048
+        ]
+      },
+      "sha256": "9cf759847d5e538f06af39d9a88d340b1f04c39b798481a1695d2a0038e2cb63"
+    },
+    "dino_resnet50": {
+      "image_identities": 5640,
+      "stage_shapes": {
+        "layer2": [
+          5640,
+          512
+        ],
+        "layer3": [
+          5640,
+          1024
+        ],
+        "layer4": [
+          5640,
+          2048
+        ]
+      },
+      "sha256": "641f03248a055b86136933a653596fac716bd7d305f0cab8dffb644242e65780"
+    },
+    "dino_vits16": {
+      "image_identities": 5640,
+      "stage_shapes": {
+        "layer2": [
+          5640,
+          384
+        ],
+        "layer3": [
+          5640,
+          384
+        ],
+        "layer4": [
+          5640,
+          384
+        ]
+      },
+      "sha256": "5bbe3621654780d80e8cba3d067098c3cb0998e588a765c6a4457f162d81bdb9"
+    }
+  },
+  "companion_feature_files_verified": [
+    "additional_features/dino_r50/DTD_stages.npz",
+    "additional_features/dino_r50/DTD_stages.json",
+    "additional_features/dino_r50/KTH_stages.npz",
+    "additional_features/dino_r50/KTH_stages.json",
+    "additional_features/dino_r50/FMD_stages.npz",
+    "additional_features/dino_r50/FMD_stages.json",
+    "additional_features/dino_r50/Lytro_stages.npz",
+    "additional_features/dino_r50/Lytro_stages.json",
+    "additional_features/dino_vits16/DTD_stages.npz",
+    "additional_features/dino_vits16/DTD_stages.json",
+    "additional_features/dino_vits16/KTH_stages.npz",
+    "additional_features/dino_vits16/KTH_stages.json",
+    "additional_features/dino_vits16/FMD_stages.npz",
+    "additional_features/dino_vits16/FMD_stages.json",
+    "additional_features/dino_vits16/Lytro_stages.npz",
+    "additional_features/dino_vits16/Lytro_stages.json"
+  ],
+  "catalogue": {
+    "products": 654,
+    "views": 851,
+    "motifs": [
+      "colour block",
+      "floral",
+      "graphic",
+      "lattice",
+      "pure colour",
+      "striped"
+    ],
+    "evidence_sha256": "60e91696cfff32992b75dd64e03d7f4d1858a7fc93fd6efeb494f115fedca508"
+  },
+  "s42": {
+    "test_appearances": 18800,
+    "exact_image_groups": 5530,
+    "candidate_counts": {
+      "correction": 251,
+      "new_error": 172
+    },
+    "rows": [
+      {
+        "identifier": "honeycombed/honeycombed_0088.jpg",
+        "filename": "honeycombed_0088.jpg",
+        "split": 1,
+        "attribute": "honeycombed",
+        "squares": "cracked",
+        "full": "honeycombed",
+        "identifier_sha256": "018b0b12c9d3c7ade92b94ad4e73a2c546f905796cde1a3a1742d17e125b6d34",
+        "exact_image_group": 2195,
+        "category": "correction"
+      },
+      {
+        "identifier": "wrinkled/wrinkled_0106.jpg",
+        "filename": "wrinkled_0106.jpg",
+        "split": 3,
+        "attribute": "wrinkled",
+        "squares": "cracked",
+        "full": "wrinkled",
+        "identifier_sha256": "02701fae1d2655949202ca9b29599969a26cc70a39217515e20fd99db482fc8c",
+        "exact_image_group": 5480,
+        "category": "correction"
+      },
+      {
+        "identifier": "pleated/pleated_0063.jpg",
+        "filename": "pleated_0063.jpg",
+        "split": 2,
+        "attribute": "pleated",
+        "squares": "pleated",
+        "full": "gauzy",
+        "identifier_sha256": "03255122546311d967d704d7bb3ebf34674d55fec0e35840a9625278a451caf9",
+        "exact_image_group": 3497,
+        "category": "new_error"
+      },
+      {
+        "identifier": "bubbly/bubbly_0135.jpg",
+        "filename": "bubbly_0135.jpg",
+        "split": 4,
+        "attribute": "bubbly",
+        "squares": "bubbly",
+        "full": "sprinkled",
+        "identifier_sha256": "03f8ffef60d2f939a6482e63daca64b4e5eef94d8cf64c3fa522abe1cb897697",
+        "exact_image_group": 441,
+        "category": "new_error"
+      }
+    ],
+    "rows_checked": 4
+  }
+}

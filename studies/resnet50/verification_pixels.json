@@ -1,0 +1,23 @@
+{
+  "datasets": {
+    "DTD": {
+      "images": 5640,
+      "coordinates": 20213760
+    },
+    "KTH": {
+      "images": 4752,
+      "coordinates": 17031168
+    },
+    "FMD": {
+      "images": 1000,
+      "coordinates": 3584000
+    },
+    "Lytro": {
+      "images": 1000,
+      "coordinates": 3584000
+    }
+  },
+  "images": 12392,
+  "coordinates": 44412928,
+  "differing_coordinates": 0
+}

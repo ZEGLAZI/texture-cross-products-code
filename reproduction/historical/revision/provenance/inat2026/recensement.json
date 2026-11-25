@@ -1,0 +1,18 @@
+{
+  "classes": {
+    "57983": {
+      "observations": 406,
+      "candidats": 406
+    },
+    "967514": {
+      "observations": 1213,
+      "candidats": 1213
+    },
+    "55563": {
+      "observations": 1803,
+      "candidats": 1803
+    }
+  },
+  "pages": 20,
+  "sha_candidats": "4bdbf1e4f89e0d7037ba5e7ed27279fbf9a7ab974a2314427f07ff451f92ff1a"
+}

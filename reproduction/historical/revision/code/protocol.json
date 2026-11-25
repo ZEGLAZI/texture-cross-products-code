@@ -1,0 +1,16 @@
+{
+  "status": "retrospective revision; set before inspecting new scores",
+  "seed": 19112026,
+  "methods": ["Add", "W", "S", "C", "U", "Q"],
+  "profiles": [[0.25,0.25,0.5],[0.3333333333333333,0.3333333333333333,0.3333333333333333],[0.5,0.25,0.25],[0.25,0.5,0.25]],
+  "ridge_grid": [1.0,0.1,10.0,0.01,100.0,0.001],
+  "selection": "maximize mean validation macro recall over inner splits. Resolve ties by order of profile and then penalty in this file.",
+  "DTD": "outer official test unchanged. Select using official train vs official validation after purging outer-test exact groups from both and validation groups from inner train. Refit on the retained union.",
+  "KTH": "for each outer specimen letter, rotate the other three as inner validation; fit on the other two letters. Refit on three letters.",
+  "Flowers": "3 inner source splits. Shuffle integer source credit groups with RNG seed, round-robin split them into three disjoint folds. Fit once on all TF source images and predict both later target collections. No target used for selection.",
+  "Q": "q=p_s*s+p_w*w+p_c*c. Q=(2*q+0.75*q*q)/3.25. For other methods q determines the common linear component. Two-product coefficients remain 0.25 and 0.5; U weights each cross-product 0.25.",
+  "numeric": "DTD all official splits, native squared radii and ordinal ranks as reference. Tie-adjusted midranks with constant zero correlation to other coordinates and unit diagonal; separate always grid beta vs undefined log-beta set to zero at q mean <= 1e-4. Compare diagonal-only scatter retaining original radial/scale, magnitude wavelets, and coordinate-group deletions. Fixed published ridge = 1. Terms and nuisance rules unchanged except named intervention.",
+  "inference": "report exploratory paired conditional CIs for tuned W minus Add,U,Q (Bonferroni family 3 per corpus; DTD exact-group multipliers / flowers images within class / KTH specimens within class); all scores and fold choices retained.",
+  "quantile": "500000 Rademacher draws for DTD reversed-W upper endpoint, five independent batches of 100000 and Monte Carlo rank interval",
+  "prospective_flower_candidate": "independent observations from 2015-01-01 to 2017-12-31 (earliest eligible iNaturalist cohort if reachable); freeze W/S/C/Add/U before collecting/predicting; maximize within predeclared cap 200 per class; all previous photographic identities, accounts and hashes excluded when available; disjoint status to be audited."
+}

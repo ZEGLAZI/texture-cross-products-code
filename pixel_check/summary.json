@@ -1,0 +1,300 @@
+{
+  "DTD": {
+    "released": {
+      "native": {
+        "colour_gain_pp": 1.3936170212765955,
+        "DINO_gain_pp": 0.9308510638297873,
+        "contrast_pp": -0.46276595744680854,
+        "interval_pp": [
+          -1.1457480053191489,
+          0.21436170212765954
+        ]
+      },
+      "matched": {
+        "colour_gain_pp": 0.9840425531914893,
+        "DINO_gain_pp": 0.6276595744680852,
+        "contrast_pp": -0.3563829787234043,
+        "interval_pp": [
+          -1.0122340425531915,
+          0.3061170212765957
+        ]
+      },
+      "selected": {
+        "colour_gain_pp": 2.2127659574468086,
+        "DINO_gain_pp": -0.04787234042553198,
+        "contrast_pp": -2.2606382978723407,
+        "interval_pp": [
+          -2.9215425531914896,
+          -1.5981382978723406
+        ]
+      },
+      "shift": {
+        "estimate_pp": -1.797872340425532,
+        "adjusted_interval_pp": [
+          -2.451595744680851,
+          -1.1406914893617022
+        ]
+      }
+    },
+    "new_pixels": {
+      "native": {
+        "colour_gain_pp": 1.4148936170212767,
+        "DINO_gain_pp": 0.9308510638297873,
+        "contrast_pp": -0.4840425531914893,
+        "interval_pp": [
+          -1.1606382978723404,
+          0.1928224734042585
+        ]
+      },
+      "matched": {
+        "colour_gain_pp": 0.9893617021276595,
+        "DINO_gain_pp": 0.6276595744680852,
+        "contrast_pp": -0.36170212765957455,
+        "interval_pp": [
+          -1.0180851063829788,
+          0.30159574468085104
+        ]
+      },
+      "selected": {
+        "colour_gain_pp": 2.234042553191489,
+        "DINO_gain_pp": -0.04787234042553198,
+        "contrast_pp": -2.2819148936170217,
+        "interval_pp": [
+          -2.930591755319149,
+          -1.63404255319149
+        ]
+      },
+      "shift": {
+        "estimate_pp": -1.797872340425532,
+        "adjusted_interval_pp": [
+          -2.4558510638297872,
+          -1.1388264627659543
+        ]
+      }
+    },
+    "test_appearances": 18800,
+    "test_label_changes": {
+      "H_S": 12,
+      "H_tuned_S": 554,
+      "H_Q": 7,
+      "H_tuned_Q": 18,
+      "H_matched_Q": 3,
+      "D_S": 0,
+      "D_tuned_S": 0,
+      "D_Q": 0,
+      "D_tuned_Q": 0,
+      "D_matched_Q": 0
+    },
+    "transformer_blocks": {
+      "patch3": {
+        "coordinates": 2165760,
+        "different": 0,
+        "max_absolute": 0.0
+      },
+      "patch6": {
+        "coordinates": 2165760,
+        "different": 0,
+        "max_absolute": 0.0
+      },
+      "patch12": {
+        "coordinates": 2165760,
+        "different": 0,
+        "max_absolute": 0.0
+      },
+      "cls12": {
+        "coordinates": 2165760,
+        "different": 0,
+        "max_absolute": 0.0
+      }
+    },
+    "colour_extraction": {
+      "corpus": "DTD",
+      "images": 5640,
+      "verified_pixel_hashes": 5640,
+      "blocks": {
+        "F7": {
+          "coordinates": 5329800,
+          "different": 68855,
+          "max_absolute": 2.83984375,
+          "mean_absolute": 3.465719871921089e-05,
+          "differing_images": 5613
+        },
+        "F8": {
+          "coordinates": 2842560,
+          "different": 19476,
+          "max_absolute": 0.005859375,
+          "mean_absolute": 6.296952382664442e-07,
+          "differing_images": 4208
+        },
+        "rgb": {
+          "coordinates": 360960,
+          "different": 0,
+          "max_absolute": 0.0,
+          "mean_absolute": 0.0,
+          "differing_images": 0
+        }
+      },
+      "torch": "2.5.1+cpu",
+      "threads": 2,
+      "batch": 8,
+      "cpu_kernels": "AVX2",
+      "reference_48": {
+        "F7": {
+          "coordinates": 45360,
+          "different": 2211
+        },
+        "F8": {
+          "coordinates": 24192,
+          "different": 175
+        },
+        "rgb": {
+          "coordinates": 3072,
+          "different": 0
+        }
+      }
+    },
+    "selected_penalties_changed": 1
+  },
+  "KTH": {
+    "released": {
+      "native": {
+        "colour_gain_pp": 0.7996632996632996,
+        "DINO_gain_pp": 0.3156565656565658,
+        "contrast_pp": -0.484006734006734,
+        "interval_pp": [
+          -1.9991582491582491,
+          1.2205387205387208
+        ]
+      },
+      "matched": {
+        "colour_gain_pp": 0.547138047138047,
+        "DINO_gain_pp": 0.3156565656565657,
+        "contrast_pp": -0.23148148148148143,
+        "interval_pp": [
+          -1.7045454545454546,
+          1.4309764309764312
+        ]
+      },
+      "selected": {
+        "colour_gain_pp": -1.325757575757576,
+        "DINO_gain_pp": 0.3787878787878789,
+        "contrast_pp": 1.7045454545454544,
+        "interval_pp": [
+          -0.8207070707070706,
+          4.356060606060609
+        ]
+      },
+      "shift": {
+        "estimate_pp": 2.188552188552188,
+        "adjusted_interval_pp": [
+          -0.10521885521885518,
+          4.60858585858586
+        ]
+      }
+    },
+    "new_pixels": {
+      "native": {
+        "colour_gain_pp": 0.7996632996632996,
+        "DINO_gain_pp": 0.3156565656565658,
+        "contrast_pp": -0.484006734006734,
+        "interval_pp": [
+          -1.9991582491582491,
+          1.2205387205387208
+        ]
+      },
+      "matched": {
+        "colour_gain_pp": 0.547138047138047,
+        "DINO_gain_pp": 0.3156565656565657,
+        "contrast_pp": -0.23148148148148143,
+        "interval_pp": [
+          -1.7045454545454546,
+          1.4309764309764312
+        ]
+      },
+      "selected": {
+        "colour_gain_pp": -1.325757575757576,
+        "DINO_gain_pp": 0.3787878787878789,
+        "contrast_pp": 1.7045454545454544,
+        "interval_pp": [
+          -0.8207070707070706,
+          4.356060606060609
+        ]
+      },
+      "shift": {
+        "estimate_pp": 2.188552188552188,
+        "adjusted_interval_pp": [
+          -0.10521885521885518,
+          4.60858585858586
+        ]
+      }
+    },
+    "test_appearances": 4752,
+    "test_label_changes": {
+      "H_S": 0,
+      "H_tuned_S": 0,
+      "H_Q": 0,
+      "H_tuned_Q": 0,
+      "H_matched_Q": 0,
+      "D_S": 0,
+      "D_tuned_S": 0,
+      "D_Q": 0,
+      "D_tuned_Q": 0,
+      "D_matched_Q": 0
+    },
+    "transformer_blocks": {
+      "patch3": {
+        "coordinates": 1824768,
+        "different": 0,
+        "max_absolute": 0.0
+      },
+      "patch6": {
+        "coordinates": 1824768,
+        "different": 0,
+        "max_absolute": 0.0
+      },
+      "patch12": {
+        "coordinates": 1824768,
+        "different": 0,
+        "max_absolute": 0.0
+      },
+      "cls12": {
+        "coordinates": 1824768,
+        "different": 0,
+        "max_absolute": 0.0
+      }
+    },
+    "colour_extraction": {
+      "corpus": "KTH",
+      "images": 4752,
+      "verified_pixel_hashes": 4752,
+      "blocks": {
+        "F7": {
+          "coordinates": 4490640,
+          "different": 41306,
+          "max_absolute": 0.002197265625,
+          "mean_absolute": 1.0035045422002926e-06,
+          "differing_images": 4744
+        },
+        "F8": {
+          "coordinates": 2395008,
+          "different": 8898,
+          "max_absolute": 0.015625,
+          "mean_absolute": 2.3684039274736802e-07,
+          "differing_images": 3338
+        },
+        "rgb": {
+          "coordinates": 304128,
+          "different": 0,
+          "max_absolute": 0.0,
+          "mean_absolute": 0.0,
+          "differing_images": 0
+        }
+      },
+      "torch": "2.5.1+cpu",
+      "threads": 2,
+      "batch": 8,
+      "cpu_kernels": "AVX2"
+    },
+    "selected_penalties_changed": 0
+  }
+}

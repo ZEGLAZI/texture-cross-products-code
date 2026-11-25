@@ -1,0 +1,11 @@
+{
+  "check": "DTD split 1 classical original profile, refit from archived descriptors",
+  "archive_verified_member_count": 132,
+  "n_test": 1880,
+  "differences": {
+    "linear": 0,
+    "linear_squares": 0,
+    "linear_products": 0,
+    "full_quadratic": 0
+  }
+}

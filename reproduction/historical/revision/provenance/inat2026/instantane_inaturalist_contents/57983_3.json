@@ -1,0 +1,246 @@
+{
+  "total": 406,
+  "page": 3,
+  "records": [
+    {
+      "id": 412711313,
+      "date": "2026-08-30",
+      "compte": 8940798,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 57983,
+      "nom_taxon": "Helianthus annuus",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        605446,
+        901801,
+        56955,
+        57983
+      ],
+      "photos": [
+        {
+          "id": 759462597,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/759462597/square.jpg",
+          "attribution": "(c) Caleb Shirrell, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 413199269,
+      "date": "2026-10-25",
+      "compte": 25863,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 57983,
+      "nom_taxon": "Helianthus annuus",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        605446,
+        901801,
+        56955,
+        57983
+      ],
+      "photos": [
+        {
+          "id": 760434644,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/760434644/square.jpg",
+          "attribution": "(c) Brent Franklin, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 760434658,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/760434658/square.jpg",
+          "attribution": "(c) Brent Franklin, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 413226082,
+      "date": "2026-08-17",
+      "compte": 7266927,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 57983,
+      "nom_taxon": "Helianthus annuus",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        605446,
+        901801,
+        56955,
+        57983
+      ],
+      "photos": [
+        {
+          "id": 760497733,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/760497733/square.jpg",
+          "attribution": "(c) jamesancona, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 413439069,
+      "date": "2026-06-04",
+      "compte": 4550111,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 57983,
+      "nom_taxon": "Helianthus annuus",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        605446,
+        901801,
+        56955,
+        57983
+      ],
+      "photos": [
+        {
+          "id": 760926831,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/760926831/square.jpg",
+          "attribution": "(c) Amy Leigh Steward, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 413481628,
+      "date": "2026-10-28",
+      "compte": 363321,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 57983,
+      "nom_taxon": "Helianthus annuus",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        605446,
+        901801,
+        56955,
+        57983
+      ],
+      "photos": [
+        {
+          "id": 761014342,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/761014342/square.jpg",
+          "attribution": "(c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY)"
+        },
+        {
+          "id": 761014355,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/761014355/square.jpg",
+          "attribution": "(c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 414559637,
+      "date": "2026-09-24",
+      "compte": 10987408,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 57983,
+      "nom_taxon": "Helianthus annuus",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        605446,
+        901801,
+        56955,
+        57983
+      ],
+      "photos": [
+        {
+          "id": 763191815,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/763191815/square.jpg",
+          "attribution": "(c) drunksimon, some rights reserved (CC BY-NC)"
+        }
+      ]
+    }
+  ]
+}

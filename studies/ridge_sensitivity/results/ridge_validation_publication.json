@@ -1,0 +1,8 @@
+{
+  "source": "/workspace/scratch/35bec53822b7/paa_final/repro/studies/ridge_sensitivity/results/choices_frozen.json",
+  "source_sha256": "2dc92adc863bd2d112a6b96ff490adad851c44ec8e51c3412f41109325a35ebc",
+  "plotted_values": 2100,
+  "excluded_from_plot": "extension candidates outside the 21 shared values",
+  "style": "squares solid, full dashed, light horizontal grid",
+  "script_sha256": "17b5578d48957ae90d439ae4fc46c4eaaca568904b94be697176eeb5a858e5c3"
+}

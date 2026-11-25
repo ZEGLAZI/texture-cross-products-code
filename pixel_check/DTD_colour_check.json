@@ -1,0 +1,32 @@
+{
+  "corpus": "DTD",
+  "images": 5640,
+  "verified_pixel_hashes": 5640,
+  "blocks": {
+    "F7": {
+      "coordinates": 5329800,
+      "different": 68855,
+      "max_absolute": 2.83984375,
+      "mean_absolute": 3.465719871921089e-05,
+      "differing_images": 5613
+    },
+    "F8": {
+      "coordinates": 2842560,
+      "different": 19476,
+      "max_absolute": 0.005859375,
+      "mean_absolute": 6.296952382664442e-07,
+      "differing_images": 4208
+    },
+    "rgb": {
+      "coordinates": 360960,
+      "different": 0,
+      "max_absolute": 0.0,
+      "mean_absolute": 0.0,
+      "differing_images": 0
+    }
+  },
+  "torch": "2.5.1+cpu",
+  "threads": 2,
+  "batch": 8,
+  "cpu_kernels": "AVX2"
+}

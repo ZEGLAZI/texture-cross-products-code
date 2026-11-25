@@ -1,0 +1,68 @@
+{
+  "status": "passed",
+  "checks": [
+    {
+      "check": "blocked path PAA_Textures_Manuscript.pdf",
+      "status": "passed",
+      "observed": "Unreviewed document: PAA_Textures_Manuscript.pdf"
+    },
+    {
+      "check": "blocked path ESM_1.pdf",
+      "status": "passed",
+      "observed": "Unreviewed document: ESM_1.pdf"
+    },
+    {
+      "check": "blocked path source/main.tex",
+      "status": "passed",
+      "observed": "Excluded publication path: source/main.tex"
+    },
+    {
+      "check": "blocked path reference_20261121/IVC_Supplement.pdf",
+      "status": "passed",
+      "observed": "Excluded publication path: reference_20261121/IVC_Supplement.pdf"
+    },
+    {
+      "check": "blocked path reproduction/historical/revision/code/displays_revision.py",
+      "status": "passed",
+      "observed": "Excluded publication path: reproduction/historical/revision/code/displays_revision.py"
+    },
+    {
+      "check": "blocked path new_archive.zip",
+      "status": "passed",
+      "observed": "Unreviewed archive: new_archive.zip"
+    },
+    {
+      "check": "blocked path unreviewed.docx",
+      "status": "passed",
+      "observed": "Unreviewed document: unreviewed.docx"
+    },
+    {
+      "check": "blocked path template.dtx",
+      "status": "passed",
+      "observed": "Unreviewed document: template.dtx"
+    },
+    {
+      "check": "six approved numerical plots and three JSON snapshots permitted",
+      "status": "passed"
+    },
+    {
+      "check": "one clean initial commit accepted",
+      "status": "passed"
+    },
+    {
+      "check": "staged but uncommitted bytes refused",
+      "status": "passed",
+      "observed": "Staged files differ from the committed release"
+    },
+    {
+      "check": "multiple commits refused",
+      "status": "passed",
+      "observed": "Initial-upload check requires exactly one fresh root commit and no other history"
+    },
+    {
+      "check": "deleted unreviewed file retained in old history refused",
+      "status": "passed",
+      "observed": "Initial-upload check requires exactly one fresh root commit and no other history"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "release": "HSMT-PR-2026-11-19-r4",
+  "date": "2026-11-19",
+  "archive": "HSMT_PR_Donnees_et_code.zip",
+  "title": "Cross-block similarity products for texture recognition with colour–texture descriptors and frozen DINOv2 features",
+  "numerical_requirements": "requirements-replay.txt",
+  "entry_point": "reproduce.py",
+  "manifest": "SHA256SUMS",
+  "matched_design": "cross_representation/protocol.md",
+  "matched_results": "cross_representation/results/representation_comparison.csv",
+  "post_hoc_regime_comparison": "cross_representation/results/regime_change.json",
+  "diagonal_matching_protocol": "cross_representation/scale_protocol.md",
+  "diagonal_matching_summary": "cross_representation/scale_results/scale_comparison.csv",
+  "selected_penalties": "cross_representation/scale_results/selected_penalties.csv"
+}

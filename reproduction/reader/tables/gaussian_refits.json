@@ -1,0 +1,12 @@
+{
+  "DTD": {
+    "test_appearances": 18800,
+    "validation_cells": 240,
+    "prediction_differences": 0
+  },
+  "Clothing": {
+    "test_appearances": 6330,
+    "validation_cells": 3600,
+    "prediction_differences": 0
+  }
+}

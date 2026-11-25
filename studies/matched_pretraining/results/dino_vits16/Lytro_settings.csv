@@ -1,0 +1,2 @@
+fold,fit_images,test_appearances,lambda_S,lambda_Q,mean_diag_S,mean_diag_Q,matched_factor,unit_block_diagonal_S_error,unit_block_diagonal_Q_error
+FMD_to_Lytro,1000,1000,1.0,1.0,0.6923076923076922,0.8461538461538461,0.818181818181818,6.661338147750939e-16,9.992007221626409e-16

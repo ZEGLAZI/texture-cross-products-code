@@ -1,0 +1,6 @@
+contrast,gain_pp,low,high
+DINO_gain_minus_handcrafted_fixed,-1.5,-3.0000000000000004,6.938893903907228e-17
+DINO_gain_minus_handcrafted_matched,-1.5999999999999996,-3.1000000000000005,-0.09999999999999988
+DINO_gain_minus_handcrafted_selected,-1.5,-3.0000000000000004,6.938893903907228e-17
+primary_captures,0.0,0.0,0.0
+sensitivity_blocks_of_5,0.0,0.0,0.0

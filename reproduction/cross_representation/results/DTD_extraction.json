@@ -1,0 +1,20 @@
+{
+  "corpus": "DTD",
+  "source": "209c4f04fb0d63a869f7ea5c18d61dc7d8196c88cb1cb4a53bf3b0607146685c",
+  "weights": "b938bf1bc15cd2ec0feacfe3a1bb553fe8ea9ca46a7e1d8d00217f29aef60cd9",
+  "commit": "e1277af2ba9496fbadf7aec6eba56e8d882d1e35",
+  "device": "cpu",
+  "torch": "2.5.1+cpu",
+  "pillow": "13.0.0",
+  "numpy": "2.3.5",
+  "layers": [
+    2,
+    5,
+    11
+  ],
+  "fp32": true,
+  "script": "e692a7d1c2301f02ae16556697f1e728e963f729d455ae4d716782cf146a764a",
+  "manifest": "8351a1c76ada0f550df787e010257fd7dcb9ffb06e54b6ea17fb7733860e82e5",
+  "images": 5640,
+  "output_sha256": "a82bfad1854e6dc441150b801caed7cab8a1a9961ce4562821bb684c31c775fb"
+}

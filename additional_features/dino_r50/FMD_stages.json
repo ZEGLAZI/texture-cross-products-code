@@ -1,0 +1,11 @@
+{
+  "model": "dino_r50",
+  "images": 1000,
+  "source_and_resized_hashes_checked": 1000,
+  "checkpoint": "156f8c4166a23dc2951ae811e39d76a06269c565932edf647c0187e65cd7aa7c",
+  "array_sha256": {
+    "layer2": "fa0792e327aebad9ebebe62fca112b713bed02900f5a2fba034e24bd13d17460",
+    "layer3": "ab9bea5c9dc2ceae0b4b291742385c95f11f0b833cd238dab1afb46b96c27b87",
+    "layer4": "b3bef5b19ace0561db4e07c6365ac9b14e27faad3fd94a3f78a42b47c45c0bfe"
+  }
+}

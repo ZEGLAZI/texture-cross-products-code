@@ -1,0 +1,11 @@
+{
+  "estimate_pp": 1.9420588372201275,
+  "test_products": 654,
+  "direct_resampling_95pct_pp": [
+    -0.7178423055439183,
+    4.671021854489595
+  ],
+  "alternate_seed": 11202026,
+  "empirical_bootstrap_sd_pp": 1.3721486998027557,
+  "analytic_bootstrap_sd_pp": 1.3678208299639818
+}

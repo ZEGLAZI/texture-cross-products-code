@@ -1,0 +1,28 @@
+{
+  "requêtes": {
+    "daisy": 3313,
+    "sunflower": 1592,
+    "dandelion_text": 1159,
+    "dandelion_section": 452,
+    "dandelion_species": 7
+  },
+  "medias_eligibles": 4524,
+  "par_classe": {
+    "pâquerette": {
+      "photos": 3224,
+      "observations": 3052,
+      "credits": 2685
+    },
+    "pissenlit": {
+      "photos": 315,
+      "observations": 308,
+      "credits": 272
+    },
+    "tournesol": {
+      "photos": 985,
+      "observations": 952,
+      "credits": 853
+    }
+  },
+  "sha_candidats": "a5640172de31fba0c1f973a78041bb8fae1942f9e34085d774617f4fb794b787"
+}

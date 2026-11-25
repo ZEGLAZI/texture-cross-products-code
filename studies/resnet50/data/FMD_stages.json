@@ -1,0 +1,31 @@
+{
+  "dataset": "FMD",
+  "images": 1000,
+  "checkpoint_sha256": "11ad3fa62ca79e40addfd354a8ec4b7c75143b3038b8d2a807fbc68deab379ca",
+  "stages": [
+    "layer2",
+    "layer3",
+    "layer4"
+  ],
+  "channels": [
+    512,
+    1024,
+    2048
+  ],
+  "pooled_arrays_sha256": [
+    "9ad9d473cc4c8461dbb253ed27cbf8242e0904096cb29e69b83fa18318620aaa",
+    "ad4bdb6d74086eb28093f8f255c6c0b34cfe695b14357f18f154531cad5f1d17",
+    "5847afedbe2dc744bf70f746fb5e3fa5bfadd4fd707ab300c0f63cdd0a3fc77b"
+  ],
+  "torch": "2.5.1+cpu",
+  "torchvision": "0.20.1+cpu",
+  "Pillow": "13.0.0",
+  "numpy": "2.3.5",
+  "batch": 16,
+  "threads": 6,
+  "device": "cpu",
+  "dtype": "float32",
+  "file_sha_checks": 1000,
+  "pixel_sha_checks": 1000,
+  "classification_head_check": "passed"
+}

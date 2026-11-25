@@ -1,0 +1,32 @@
+{
+  "classes": {
+    "pissenlit": {
+      "retenues": 270,
+      "rejets_de_medias_avant_plafond": {
+        "image_proche_ou_identique": 2,
+        "crédit_déjà_retenu": 37
+      }
+    },
+    "tournesol": {
+      "retenues": 400,
+      "rejets_de_medias_avant_plafond": {
+        "crédit_déjà_retenu": 33
+      }
+    },
+    "pâquerette": {
+      "retenues": 400,
+      "rejets_de_medias_avant_plafond": {
+        "image_proche_ou_identique": 2,
+        "crédit_déjà_retenu": 24
+      }
+    }
+  },
+  "photos": 1070,
+  "credits_distincts": 1070,
+  "observations_distinctes": 1070,
+  "reference": 7430,
+  "d_min_anterieur": 8,
+  "d_min_lot": 8,
+  "sha_manifeste": "4adfa1500a708763158593aba7c0852b7f72b768e00a4b6281c8d9310b4c78db",
+  "sha_candidats": "a5640172de31fba0c1f973a78041bb8fae1942f9e34085d774617f4fb794b787"
+}

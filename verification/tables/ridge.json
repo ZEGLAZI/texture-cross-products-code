@@ -1,0 +1,2152 @@
+{
+  "status": "passed",
+  "checked_utc": "2026-11-25T15:29:00.123248+00:00",
+  "new_numeric_tables": 5,
+  "numeric_values_checked": 232,
+  "numeric_mismatches": 0,
+  "failed_numeric_checks": [],
+  "additional_checks": {
+    "selection_counts": true,
+    "S42_examples": true,
+    "S41_selected_labels_changed_542": true,
+    "S41_common_labels_changed_2": true,
+    "old_split6_outer_reproduced": true,
+    "all_test_predictions_saved": true,
+    "archived_predictions_reproduced": true,
+    "dense_independent_solver_agrees": true
+  },
+  "counts": {
+    "predicted_labels": 940000,
+    "archived_labels_compared": 376000,
+    "archived_label_mismatches": 0,
+    "dense_solver_labels_compared": 188000,
+    "dense_solver_label_mismatches": 0
+  },
+  "selection_counts": {
+    "choices": 100,
+    "changed_from_six": 75,
+    "searches_with_tied_maxima": 17,
+    "lower_extensions": 3,
+    "upper_extensions": 0,
+    "searched_validation_values": 2144
+  },
+  "implementation": "Reconstructed from v3 PDF and existing feature definitions; original dense script was absent.",
+  "environment": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "scipy": "1.17.0"
+  },
+  "uncertainty": {
+    "draws": 100000,
+    "seed": 19112026,
+    "source": "unchanged summarize_pixel_check.py"
+  },
+  "checks": [
+    {
+      "table": "4",
+      "row": "H",
+      "field": "common_gain",
+      "observed": 1.4148936170212767,
+      "published": 1.41,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "H",
+      "field": "six_gain",
+      "observed": 2.234042553191489,
+      "published": 2.23,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "H",
+      "field": "squares",
+      "observed": 41.07978723404255,
+      "published": 41.08,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "H",
+      "field": "full",
+      "observed": 42.962765957446805,
+      "published": 42.96,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "H",
+      "field": "dense_gain",
+      "observed": 1.8829787234042556,
+      "published": 1.88,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "H",
+      "field": "low",
+      "observed": 1.2946808510638301,
+      "published": 1.29,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "H",
+      "field": "high",
+      "observed": 2.4710172872340417,
+      "published": 2.47,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "R",
+      "field": "common_gain",
+      "observed": 0.8457446808510639,
+      "published": 0.85,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "R",
+      "field": "six_gain",
+      "observed": 0.7180851063829788,
+      "published": 0.72,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "R",
+      "field": "squares",
+      "observed": 77.29255319148936,
+      "published": 77.29,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "R",
+      "field": "full",
+      "observed": 78.01063829787236,
+      "published": 78.01,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "R",
+      "field": "dense_gain",
+      "observed": 0.7180851063829788,
+      "published": 0.72,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "R",
+      "field": "low",
+      "observed": 0.47952127659574484,
+      "published": 0.48,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "R",
+      "field": "high",
+      "observed": 0.9537234042553193,
+      "published": 0.95,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "DR",
+      "field": "common_gain",
+      "observed": 0.5212765957446809,
+      "published": 0.52,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "DR",
+      "field": "six_gain",
+      "observed": 0.20744680851063826,
+      "published": 0.21,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "DR",
+      "field": "squares",
+      "observed": 78.43617021276596,
+      "published": 78.44,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "DR",
+      "field": "full",
+      "observed": 78.7287234042553,
+      "published": 78.73,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "DR",
+      "field": "dense_gain",
+      "observed": 0.2925531914893617,
+      "published": 0.29,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "DR",
+      "field": "low",
+      "observed": 0.053989361702127675,
+      "published": 0.05,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "DR",
+      "field": "high",
+      "observed": 0.5327127659574469,
+      "published": 0.53,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "DV",
+      "field": "common_gain",
+      "observed": 1.351063829787234,
+      "published": 1.35,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "DV",
+      "field": "six_gain",
+      "observed": -0.21276595744680857,
+      "published": -0.21,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "DV",
+      "field": "squares",
+      "observed": 76.39893617021276,
+      "published": 76.4,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "DV",
+      "field": "full",
+      "observed": 76.27659574468086,
+      "published": 76.28,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "DV",
+      "field": "dense_gain",
+      "observed": -0.1223404255319149,
+      "published": -0.12,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "DV",
+      "field": "low",
+      "observed": -0.39335106382978724,
+      "published": -0.39,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "DV",
+      "field": "high",
+      "observed": 0.14920212765957444,
+      "published": 0.15,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "D",
+      "field": "common_gain",
+      "observed": 0.9308510638297873,
+      "published": 0.93,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "D",
+      "field": "six_gain",
+      "observed": -0.04787234042553198,
+      "published": -0.05,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "D",
+      "field": "squares",
+      "observed": 82.30851063829788,
+      "published": 82.31,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "D",
+      "field": "full",
+      "observed": 82.15425531914893,
+      "published": 82.15,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "D",
+      "field": "dense_gain",
+      "observed": -0.15425531914893617,
+      "published": -0.15,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "D",
+      "field": "low",
+      "observed": -0.4617021276595745,
+      "published": -0.46,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "4",
+      "row": "D",
+      "field": "high",
+      "observed": 0.15132978723404253,
+      "published": 0.15,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_01",
+      "field": "H_S",
+      "observed": -0.5,
+      "published": -0.5,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_01",
+      "field": "H_Q",
+      "observed": -0.5,
+      "published": -0.5,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_01",
+      "field": "R_S",
+      "observed": -0.25,
+      "published": -0.25,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_01",
+      "field": "R_Q",
+      "observed": -2.0,
+      "published": -2.0,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_01",
+      "field": "DR_S",
+      "observed": -0.75,
+      "published": -0.75,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_01",
+      "field": "DR_Q",
+      "observed": -1.5,
+      "published": -1.5,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_01",
+      "field": "DV_S",
+      "observed": -2.25,
+      "published": -2.25,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_01",
+      "field": "DV_Q",
+      "observed": -1.0,
+      "published": -1.0,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_01",
+      "field": "D_S",
+      "observed": -1.25,
+      "published": -1.25,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_01",
+      "field": "D_Q",
+      "observed": -0.25,
+      "published": -0.25,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_02",
+      "field": "H_S",
+      "observed": -0.75,
+      "published": -0.75,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_02",
+      "field": "H_Q",
+      "observed": -0.5,
+      "published": -0.5,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_02",
+      "field": "R_S",
+      "observed": -1.0,
+      "published": -1.0,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_02",
+      "field": "R_Q",
+      "observed": -1.25,
+      "published": -1.25,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_02",
+      "field": "DR_S",
+      "observed": -0.75,
+      "published": -0.75,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_02",
+      "field": "DR_Q",
+      "observed": -1.0,
+      "published": -1.0,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_02",
+      "field": "DV_S",
+      "observed": -1.25,
+      "published": -1.25,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_02",
+      "field": "DV_Q",
+      "observed": -1.25,
+      "published": -1.25,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_02",
+      "field": "D_S",
+      "observed": -1.25,
+      "published": -1.25,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_02",
+      "field": "D_Q",
+      "observed": -1.25,
+      "published": -1.25,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_03",
+      "field": "H_S",
+      "observed": -0.5,
+      "published": -0.5,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_03",
+      "field": "H_Q",
+      "observed": -0.5,
+      "published": -0.5,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_03",
+      "field": "R_S",
+      "observed": -1.0,
+      "published": -1.0,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_03",
+      "field": "R_Q",
+      "observed": -1.0,
+      "published": -1.0,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_03",
+      "field": "DR_S",
+      "observed": -1.5,
+      "published": -1.5,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_03",
+      "field": "DR_Q",
+      "observed": -1.0,
+      "published": -1.0,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_03",
+      "field": "DV_S",
+      "observed": -1.25,
+      "published": -1.25,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_03",
+      "field": "DV_Q",
+      "observed": -1.25,
+      "published": -1.25,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_03",
+      "field": "D_S",
+      "observed": -1.0,
+      "published": -1.0,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_03",
+      "field": "D_Q",
+      "observed": -0.75,
+      "published": -0.75,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_04",
+      "field": "H_S",
+      "observed": -0.25,
+      "published": -0.25,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_04",
+      "field": "H_Q",
+      "observed": -0.5,
+      "published": -0.5,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_04",
+      "field": "R_S",
+      "observed": -0.5,
+      "published": -0.5,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_04",
+      "field": "R_Q",
+      "observed": -0.5,
+      "published": -0.5,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_04",
+      "field": "DR_S",
+      "observed": -0.75,
+      "published": -0.75,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_04",
+      "field": "DR_Q",
+      "observed": -0.75,
+      "published": -0.75,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_04",
+      "field": "DV_S",
+      "observed": -1.75,
+      "published": -1.75,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_04",
+      "field": "DV_Q",
+      "observed": -1.5,
+      "published": -1.5,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_04",
+      "field": "D_S",
+      "observed": -1.75,
+      "published": -1.75,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_04",
+      "field": "D_Q",
+      "observed": -0.75,
+      "published": -0.75,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_05",
+      "field": "H_S",
+      "observed": -0.5,
+      "published": -0.5,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_05",
+      "field": "H_Q",
+      "observed": -0.75,
+      "published": -0.75,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_05",
+      "field": "R_S",
+      "observed": -0.75,
+      "published": -0.75,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_05",
+      "field": "R_Q",
+      "observed": -1.0,
+      "published": -1.0,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_05",
+      "field": "DR_S",
+      "observed": -1.0,
+      "published": -1.0,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_05",
+      "field": "DR_Q",
+      "observed": -1.25,
+      "published": -1.25,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_05",
+      "field": "DV_S",
+      "observed": -1.0,
+      "published": -1.0,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_05",
+      "field": "DV_Q",
+      "observed": -1.0,
+      "published": -1.0,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_05",
+      "field": "D_S",
+      "observed": -2.5,
+      "published": -2.5,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_05",
+      "field": "D_Q",
+      "observed": -1.0,
+      "published": -1.0,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_06",
+      "field": "H_S",
+      "observed": -0.5,
+      "published": -0.5,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_06",
+      "field": "H_Q",
+      "observed": -1.0,
+      "published": -1.0,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_06",
+      "field": "R_S",
+      "observed": -0.75,
+      "published": -0.75,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_06",
+      "field": "R_Q",
+      "observed": -0.5,
+      "published": -0.5,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_06",
+      "field": "DR_S",
+      "observed": -1.5,
+      "published": -1.5,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_06",
+      "field": "DR_Q",
+      "observed": -2.5,
+      "published": -2.5,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_06",
+      "field": "DV_S",
+      "observed": -1.5,
+      "published": -1.5,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_06",
+      "field": "DV_Q",
+      "observed": -1.5,
+      "published": -1.5,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_06",
+      "field": "D_S",
+      "observed": -1.25,
+      "published": -1.25,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_06",
+      "field": "D_Q",
+      "observed": -1.75,
+      "published": -1.75,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_07",
+      "field": "H_S",
+      "observed": -0.75,
+      "published": -0.75,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_07",
+      "field": "H_Q",
+      "observed": -0.5,
+      "published": -0.5,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_07",
+      "field": "R_S",
+      "observed": -0.5,
+      "published": -0.5,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_07",
+      "field": "R_Q",
+      "observed": -0.5,
+      "published": -0.5,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_07",
+      "field": "DR_S",
+      "observed": -1.0,
+      "published": -1.0,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_07",
+      "field": "DR_Q",
+      "observed": -1.5,
+      "published": -1.5,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_07",
+      "field": "DV_S",
+      "observed": -0.75,
+      "published": -0.75,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_07",
+      "field": "DV_Q",
+      "observed": -0.5,
+      "published": -0.5,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_07",
+      "field": "D_S",
+      "observed": -1.0,
+      "published": -1.0,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_07",
+      "field": "D_Q",
+      "observed": -0.75,
+      "published": -0.75,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_08",
+      "field": "H_S",
+      "observed": -0.25,
+      "published": -0.25,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_08",
+      "field": "H_Q",
+      "observed": -0.25,
+      "published": -0.25,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_08",
+      "field": "R_S",
+      "observed": -0.75,
+      "published": -0.75,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_08",
+      "field": "R_Q",
+      "observed": -0.75,
+      "published": -0.75,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_08",
+      "field": "DR_S",
+      "observed": -2.0,
+      "published": -2.0,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_08",
+      "field": "DR_Q",
+      "observed": -1.25,
+      "published": -1.25,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_08",
+      "field": "DV_S",
+      "observed": -1.25,
+      "published": -1.25,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_08",
+      "field": "DV_Q",
+      "observed": -3.0,
+      "published": -3.0,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_08",
+      "field": "D_S",
+      "observed": -2.5,
+      "published": -2.5,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_08",
+      "field": "D_Q",
+      "observed": -2.0,
+      "published": -2.0,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_09",
+      "field": "H_S",
+      "observed": -0.25,
+      "published": -0.25,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_09",
+      "field": "H_Q",
+      "observed": -0.75,
+      "published": -0.75,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_09",
+      "field": "R_S",
+      "observed": -0.5,
+      "published": -0.5,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_09",
+      "field": "R_Q",
+      "observed": -1.25,
+      "published": -1.25,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_09",
+      "field": "DR_S",
+      "observed": -1.0,
+      "published": -1.0,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_09",
+      "field": "DR_Q",
+      "observed": -2.25,
+      "published": -2.25,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_09",
+      "field": "DV_S",
+      "observed": -1.75,
+      "published": -1.75,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_09",
+      "field": "DV_Q",
+      "observed": -1.5,
+      "published": -1.5,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_09",
+      "field": "D_S",
+      "observed": -0.75,
+      "published": -0.75,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_09",
+      "field": "D_Q",
+      "observed": -0.5,
+      "published": -0.5,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_10",
+      "field": "H_S",
+      "observed": -0.25,
+      "published": -0.25,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_10",
+      "field": "H_Q",
+      "observed": -0.25,
+      "published": -0.25,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_10",
+      "field": "R_S",
+      "observed": -1.25,
+      "published": -1.25,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_10",
+      "field": "R_Q",
+      "observed": -1.0,
+      "published": -1.0,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_10",
+      "field": "DR_S",
+      "observed": -1.0,
+      "published": -1.0,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_10",
+      "field": "DR_Q",
+      "observed": -1.0,
+      "published": -1.0,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_10",
+      "field": "DV_S",
+      "observed": -1.75,
+      "published": -1.75,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_10",
+      "field": "DV_Q",
+      "observed": -1.0,
+      "published": -1.0,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_10",
+      "field": "D_S",
+      "observed": -1.0,
+      "published": -1.0,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S38",
+      "row": "DTD_10",
+      "field": "D_Q",
+      "observed": -4.0,
+      "published": -4.0,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "DINO pair 0.1",
+      "field": "six",
+      "observed": 0.48404255319148937,
+      "published": 0.48,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "DINO pair 0.1",
+      "field": "six_low",
+      "observed": 0.09654255319148936,
+      "published": 0.1,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "DINO pair 0.1",
+      "field": "six_high",
+      "observed": 0.8746018949468054,
+      "published": 0.87,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "DINO pair 0.1",
+      "field": "dense",
+      "observed": 0.4787234042553191,
+      "published": 0.48,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "DINO pair 0.1",
+      "field": "dense_low",
+      "observed": 0.042287234042553135,
+      "published": 0.04,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "DINO pair 0.1",
+      "field": "dense_high",
+      "observed": 0.9156914893617021,
+      "published": 0.92,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "DINO pair 1",
+      "field": "six",
+      "observed": 1.25,
+      "published": 1.25,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "DINO pair 1",
+      "field": "six_low",
+      "observed": 0.6107704454787234,
+      "published": 0.61,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "DINO pair 1",
+      "field": "six_high",
+      "observed": 1.8973420877659513,
+      "published": 1.9,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "DINO pair 1",
+      "field": "dense",
+      "observed": 1.2446808510638296,
+      "published": 1.24,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "DINO pair 1",
+      "field": "dense_low",
+      "observed": 0.6029255319148935,
+      "published": 0.6,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "DINO pair 1",
+      "field": "dense_high",
+      "observed": 1.879787234042553,
+      "published": 1.88,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "DINO pair 10",
+      "field": "six",
+      "observed": 1.1914893617021276,
+      "published": 1.19,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "DINO pair 10",
+      "field": "six_low",
+      "observed": 0.5776579122340425,
+      "published": 0.58,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "DINO pair 10",
+      "field": "six_high",
+      "observed": 1.8143617021276595,
+      "published": 1.81,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "DINO pair 10",
+      "field": "dense",
+      "observed": 1.1861702127659575,
+      "published": 1.19,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "DINO pair 10",
+      "field": "dense_low",
+      "observed": 0.5916215093085107,
+      "published": 0.59,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "DINO pair 10",
+      "field": "dense_high",
+      "observed": 1.798404255319149,
+      "published": 1.8,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "ResNet pair 0.1",
+      "field": "six",
+      "observed": -0.09574468085106383,
+      "published": -0.1,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "ResNet pair 0.1",
+      "field": "six_low",
+      "observed": -0.35585106382978726,
+      "published": -0.36,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "ResNet pair 0.1",
+      "field": "six_high",
+      "observed": 0.16316572473403948,
+      "published": 0.16,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "ResNet pair 0.1",
+      "field": "dense",
+      "observed": -0.010638297872340403,
+      "published": -0.01,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "ResNet pair 0.1",
+      "field": "dense_low",
+      "observed": -0.3852401928191489,
+      "published": -0.39,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "ResNet pair 0.1",
+      "field": "dense_high",
+      "observed": 0.37074634308510024,
+      "published": 0.37,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "ResNet pair 1",
+      "field": "six",
+      "observed": -0.18617021276595744,
+      "published": -0.19,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "ResNet pair 1",
+      "field": "six_low",
+      "observed": -0.7150274268617022,
+      "published": -0.72,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "ResNet pair 1",
+      "field": "six_high",
+      "observed": 0.3393617021276596,
+      "published": 0.34,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "ResNet pair 1",
+      "field": "dense",
+      "observed": -0.101063829787234,
+      "published": -0.1,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "ResNet pair 1",
+      "field": "dense_low",
+      "observed": -0.6410912566489362,
+      "published": -0.64,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "ResNet pair 1",
+      "field": "dense_high",
+      "observed": 0.4428191489361703,
+      "published": 0.44,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "ResNet pair 10",
+      "field": "six",
+      "observed": -0.28723404255319146,
+      "published": -0.29,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "ResNet pair 10",
+      "field": "six_low",
+      "observed": -0.8381657247340426,
+      "published": -0.84,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "ResNet pair 10",
+      "field": "six_high",
+      "observed": 0.25904255319148944,
+      "published": 0.26,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "ResNet pair 10",
+      "field": "dense",
+      "observed": -0.20212765957446813,
+      "published": -0.2,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "ResNet pair 10",
+      "field": "dense_low",
+      "observed": -0.7444165558510638,
+      "published": -0.74,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "ResNet pair 10",
+      "field": "dense_high",
+      "observed": 0.3424210438829756,
+      "published": 0.34,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "Supervised / DINOv2 0.1",
+      "field": "six",
+      "observed": 0.36702127659574474,
+      "published": 0.37,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "Supervised / DINOv2 0.1",
+      "field": "six_low",
+      "observed": 0.04547872340425535,
+      "published": 0.05,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "Supervised / DINOv2 0.1",
+      "field": "six_high",
+      "observed": 0.685904255319149,
+      "published": 0.69,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "Supervised / DINOv2 0.1",
+      "field": "dense",
+      "observed": 0.4734042553191489,
+      "published": 0.47,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "Supervised / DINOv2 0.1",
+      "field": "dense_low",
+      "observed": 0.0625,
+      "published": 0.06,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "Supervised / DINOv2 0.1",
+      "field": "dense_high",
+      "observed": 0.8819148936170212,
+      "published": 0.88,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "Supervised / DINOv2 1",
+      "field": "six",
+      "observed": 0.851063829787234,
+      "published": 0.85,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "Supervised / DINOv2 1",
+      "field": "six_low",
+      "observed": 0.3037234042553192,
+      "published": 0.3,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "Supervised / DINOv2 1",
+      "field": "six_high",
+      "observed": 1.3965425531914892,
+      "published": 1.4,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "Supervised / DINOv2 1",
+      "field": "dense",
+      "observed": 0.9574468085106382,
+      "published": 0.96,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "Supervised / DINOv2 1",
+      "field": "dense_low",
+      "observed": 0.39609707446808506,
+      "published": 0.4,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "Supervised / DINOv2 1",
+      "field": "dense_high",
+      "observed": 1.5186170212765957,
+      "published": 1.52,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "Supervised / DINOv2 10",
+      "field": "six",
+      "observed": 0.8244680851063829,
+      "published": 0.82,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "Supervised / DINOv2 10",
+      "field": "six_low",
+      "observed": 0.25531914893617014,
+      "published": 0.26,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "Supervised / DINOv2 10",
+      "field": "six_high",
+      "observed": 1.3935305851063837,
+      "published": 1.39,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "Supervised / DINOv2 10",
+      "field": "dense",
+      "observed": 0.9308510638297873,
+      "published": 0.93,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "Supervised / DINOv2 10",
+      "field": "dense_low",
+      "observed": 0.3595744680851065,
+      "published": 0.36,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S39",
+      "row": "Supervised / DINOv2 10",
+      "field": "dense_high",
+      "observed": 1.5057646276595753,
+      "published": 1.51,
+      "decimals": 2,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "H",
+      "field": "native_S",
+      "observed": 251.3509384517626,
+      "published": 251.4,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "H",
+      "field": "native_Q",
+      "observed": 367.84665970317093,
+      "published": 367.8,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "H",
+      "field": "matched_Q",
+      "observed": 324.4332069136307,
+      "published": 324.4,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "H",
+      "field": "extended_S",
+      "observed": 0.0,
+      "published": 0.0,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "H",
+      "field": "extended_Q",
+      "observed": 0.0,
+      "published": 0.0,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "H",
+      "field": "cap_tied_S",
+      "observed": 0.0,
+      "published": 0.0,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "H",
+      "field": "cap_tied_Q",
+      "observed": 0.0,
+      "published": 0.0,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "R",
+      "field": "native_S",
+      "observed": 454.31583700814156,
+      "published": 454.3,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "R",
+      "field": "native_Q",
+      "observed": 581.2271821898885,
+      "published": 581.2,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "R",
+      "field": "matched_Q",
+      "observed": 515.5712741561531,
+      "published": 515.6,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "R",
+      "field": "extended_S",
+      "observed": 0.0,
+      "published": 0.0,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "R",
+      "field": "extended_Q",
+      "observed": 0.0,
+      "published": 0.0,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "R",
+      "field": "cap_tied_S",
+      "observed": 0.0,
+      "published": 0.0,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "R",
+      "field": "cap_tied_Q",
+      "observed": 0.0,
+      "published": 0.0,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "DR",
+      "field": "native_S",
+      "observed": 423.48154045163056,
+      "published": 423.5,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "DR",
+      "field": "native_Q",
+      "observed": 550.9080069343115,
+      "published": 550.9,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "DR",
+      "field": "matched_Q",
+      "observed": 488.5461768452077,
+      "published": 488.5,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "DR",
+      "field": "extended_S",
+      "observed": 0.0,
+      "published": 0.0,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "DR",
+      "field": "extended_Q",
+      "observed": 1.0,
+      "published": 1.0,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "DR",
+      "field": "cap_tied_S",
+      "observed": 0.0,
+      "published": 0.0,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "DR",
+      "field": "cap_tied_Q",
+      "observed": 1.0,
+      "published": 1.0,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "DV",
+      "field": "native_S",
+      "observed": 330.47597657075005,
+      "published": 330.5,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "DV",
+      "field": "native_Q",
+      "observed": 471.11979629684754,
+      "published": 471.1,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "DV",
+      "field": "matched_Q",
+      "observed": 418.4875630774462,
+      "published": 418.5,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "DV",
+      "field": "extended_S",
+      "observed": 0.0,
+      "published": 0.0,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "DV",
+      "field": "extended_Q",
+      "observed": 1.0,
+      "published": 1.0,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "DV",
+      "field": "cap_tied_S",
+      "observed": 0.0,
+      "published": 0.0,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "DV",
+      "field": "cap_tied_Q",
+      "observed": 0.0,
+      "published": 0.0,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "D",
+      "field": "native_S",
+      "observed": 315.51470263236286,
+      "published": 315.5,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "D",
+      "field": "native_Q",
+      "observed": 452.35506379096586,
+      "published": 452.4,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "D",
+      "field": "matched_Q",
+      "observed": 401.65083880320844,
+      "published": 401.7,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "D",
+      "field": "extended_S",
+      "observed": 0.0,
+      "published": 0.0,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "D",
+      "field": "extended_Q",
+      "observed": 1.0,
+      "published": 1.0,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "D",
+      "field": "cap_tied_S",
+      "observed": 0.0,
+      "published": 0.0,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S40",
+      "row": "D",
+      "field": "cap_tied_Q",
+      "observed": 1.0,
+      "published": 1.0,
+      "decimals": 1,
+      "matches_rounding": true
+    },
+    {
+      "table": "S41",
+      "row": "Earlier r4",
+      "field": "lambda_0.1_pct",
+      "observed": 36.284389369495756,
+      "published": 36.2844,
+      "decimals": 4,
+      "matches_rounding": true
+    },
+    {
+      "table": "S41",
+      "row": "Earlier r4",
+      "field": "lambda_1_pct",
+      "observed": 36.37206764866339,
+      "published": 36.3721,
+      "decimals": 4,
+      "matches_rounding": true
+    },
+    {
+      "table": "S41",
+      "row": "Earlier r4",
+      "field": "margin_pp",
+      "observed": -0.08767827916763005,
+      "published": -0.0877,
+      "decimals": 4,
+      "matches_rounding": true
+    },
+    {
+      "table": "S41",
+      "row": "Earlier r4",
+      "field": "selected_lambda",
+      "observed": 1.0,
+      "published": 1.0,
+      "decimals": 4,
+      "matches_rounding": true
+    },
+    {
+      "table": "S41",
+      "row": "Reference",
+      "field": "lambda_0.1_pct",
+      "observed": 36.39077234821916,
+      "published": 36.3908,
+      "decimals": 4,
+      "matches_rounding": true
+    },
+    {
+      "table": "S41",
+      "row": "Reference",
+      "field": "lambda_1_pct",
+      "observed": 36.37206764866339,
+      "published": 36.3721,
+      "decimals": 4,
+      "matches_rounding": true
+    },
+    {
+      "table": "S41",
+      "row": "Reference",
+      "field": "margin_pp",
+      "observed": 0.018704699555771587,
+      "published": 0.0187,
+      "decimals": 4,
+      "matches_rounding": true
+    },
+    {
+      "table": "S41",
+      "row": "Reference",
+      "field": "selected_lambda",
+      "observed": 0.1,
+      "published": 0.1,
+      "decimals": 4,
+      "matches_rounding": true
+    }
+  ],
+  "invocation_mode": "tables",
+  "full_recalculates_by_default": true,
+  "resume_requested": false,
+  "historical_release_verification": {
+    "mode": "public_numerical_subset",
+    "original_manifest_entries": 796,
+    "files_verified": 795,
+    "unchanged_files_verified": 792,
+    "adapted_files_verified": 3,
+    "excluded_publication_files": [
+      "historical/revision/code/displays_revision.py"
+    ],
+    "original_payload_is_complete_and_byte_identical": false,
+    "manifest_sha256": "7fa27470dab59573e0933bf1ade04cea903c04483756e9ab5744022350c03283",
+    "public_change_record_sha256": "522462fcfbad14c6bfbcb3ad8da4a289c8e3df024cef49c99b20e74c90a1781b",
+    "historical_archive_identifier_sha256": "ad1a3c2cda703498ca2bca2e2f5fa6718ad071931a0d5dbd8869c4f46dfbf385",
+    "zip_digest_measured_in_this_check": false
+  }
+}

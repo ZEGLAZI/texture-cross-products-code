@@ -1,0 +1,31 @@
+{
+  "dataset": "DTD",
+  "images": 5640,
+  "checkpoint_sha256": "11ad3fa62ca79e40addfd354a8ec4b7c75143b3038b8d2a807fbc68deab379ca",
+  "stages": [
+    "layer2",
+    "layer3",
+    "layer4"
+  ],
+  "channels": [
+    512,
+    1024,
+    2048
+  ],
+  "pooled_arrays_sha256": [
+    "56ad7bdcb20fcb6c03c57b32771ebd95da378355f0f8ca5fed14493325725a14",
+    "125f147d5b17c6fe3f6c488bb265f1ac0833c760e34aa255cc37a299c49a71bf",
+    "8c6e792f6eb2c5cd12d1dfecb908cc7dee416218b4529b192c97b25d0927ddd8"
+  ],
+  "torch": "2.5.1+cpu",
+  "torchvision": "0.20.1+cpu",
+  "Pillow": "13.0.0",
+  "numpy": "2.3.5",
+  "batch": 16,
+  "threads": 6,
+  "device": "cpu",
+  "dtype": "float32",
+  "file_sha_checks": 5640,
+  "pixel_sha_checks": 5640,
+  "classification_head_check": "passed"
+}

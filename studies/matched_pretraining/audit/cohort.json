@@ -1,0 +1,29 @@
+{
+  "counts": {
+    "annotated_photos": 44096,
+    "other_or_missing_pattern": 1893,
+    "ambiguous_catalogue_role": 9921,
+    "no_manual_mask": 19528,
+    "inconsistent_product": 5396,
+    "mask_square_below_65": 540,
+    "historical_match_products": 0,
+    "duplicate_product_pairs": 7,
+    "photos_removed_with_duplicate_products": 130,
+    "repeated_crop_within_product": 1,
+    "view_cap": 1313,
+    "product_cap": 2957,
+    "retained_photos": 2417,
+    "retained_products": 1873
+  },
+  "previous_pixels_available": {
+    "FMD": 1000,
+    "Lytro": 1000,
+    "DTD": 5640,
+    "KTH": 4752,
+    "Clothing": 194
+  },
+  "prior_exact_keys": 12585,
+  "historical_matches": {},
+  "omitted_classes": [],
+  "manifest_sha256": "6597c2f6740c5be220bdcc698a64798d0b0e8773da97af83ab621045bdcec956"
+}

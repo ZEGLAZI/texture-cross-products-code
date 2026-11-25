@@ -1,0 +1,20 @@
+{
+  "etude": "HSMT sur KTH-TIPS2-b, comparaison de la relation figée sur les fleurs",
+  "date": "2026-11-18",
+  "archive": "https://www.csc.kth.se/cvap/databases/kth-tips/kth-tips2-b_col_200x200.tar",
+  "sha256_archive": "b2f70055f916af92be3761d868fb386944ec4e1473b71ebe39765d69ad358c1f",
+  "population": "Toutes les 4752 images, 11 catégories équilibrées, 4 spécimens par catégorie, 9 échelles et 12 vues. Redimensionnement bicubique RGB en 224 x 224 pour tous. Une photographie est l'unité de décision.",
+  "plis": "Principal 3 vers 1, ABC vers D puis les trois autres lettres en rotation, un spécimen inédit de chacune des 11 catégories au test. Sensibilité 1 vers 3, même cycle de quatre lettres. Retirer uniquement les images d'apprentissage qui dupliquent exactement des pixels d'une image test. L'identité physique correspond à la paire (catégorie, lettre).",
+  "fige": "Le frontal HSMT, la décomposition en trois blocs, les coefficients de chaque terme, la régularisation ridge lambda=1 et la décision argmax sans décalage proviennent du modèle fleurs. Les moyennes et écarts types F7/F8 et les coefficients du classifieur des 11 matériaux sont estimés exclusivement sur l'apprentissage de chaque pli.",
+  "bras": {
+    "deux_liens": "(s/2+w/2+c+s*w/4+w*c/2)/3.25",
+    "un_lien": "(s/2+w/2+c+w*c/2)/3.25; même diviseur, mêmes trois termes principaux",
+    "additif": "(s/2+w/2+c)/2; fusion additive historique",
+    "sans_interaction": "(s/2+w/2+c)/3.25; même diviseur, contrôle d'échelle",
+    "clbp": "Guo et al., CLBP_S/M/C riu2, P=24, R=3, histogramme conjoint global. Plus proche voisin chi carré (lecture publiée) et noyau de Hellinger avec le même ridge lambda=1.",
+    "oclbp": "Bello-Cerezo et al., OCLBP RGB-RGB rotation-invariant, histogrammes intra R,G,B à rayons 1,2,3; inter RG,RB,GB à rayon 1, huit voisins entiers, 432 coordonnées. Plus proche voisin L1 (lecture publiée) et même ridge de Hellinger lambda=1."
+  },
+  "mesure": "Rappel macro sur 11 catégories, moyenne des quatre plis. Différences appariées. Deux contrastes principaux: HSMT deux liens moins un lien; HSMT deux liens moins CLBP avec le même ridge. Contrôle OCLBP couleur avec le même ridge, lectures natives et additifs présentés intégralement.",
+  "incertitude": "Bootstrap apparié stratifié dans chacune des 11 catégories, rééchantillonner 4 spécimens physiques avec remise, 50000 tirages, seed 20261118. En 1 vers 3, moyenner d'abord les trois tests par spécimen. Pour la paire de contrastes principaux également IC simultanés par Bonferroni. Incertitude conditionnelle aux prédictions des modèles ajustés, avec quatre spécimens par matériau. Rapports par pli et par matériau.",
+  "portee": "KTH-TIPS2-b a déjà servi au projet historique; cette étude évalue la formule à deux interactions fixée sur les fleurs. Aucune sélection de paramètre sur les résultats KTH de cette comparaison."
+}

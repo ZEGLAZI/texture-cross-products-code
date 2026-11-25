@@ -1,0 +1,36 @@
+{
+  "F7": {
+    "dimensions": [
+      211,
+      1,
+      21,
+      45
+    ],
+    "identical_values": 199395,
+    "total_values": 199395,
+    "maximum_absolute_difference": 0.0,
+    "images_with_a_difference": 0
+  },
+  "F8": {
+    "dimensions": [
+      211,
+      3,
+      21,
+      8
+    ],
+    "identical_values": 106344,
+    "total_values": 106344,
+    "maximum_absolute_difference": 0.0,
+    "images_with_a_difference": 0
+  },
+  "rgb": {
+    "dimensions": [
+      211,
+      64
+    ],
+    "identical_values": 13504,
+    "total_values": 13504,
+    "maximum_absolute_difference": 0.0,
+    "images_with_a_difference": 0
+  }
+}

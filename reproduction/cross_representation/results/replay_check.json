@@ -1,0 +1,21 @@
+{
+  "scope": "Second numerical replay from the prepared package inputs in the same runtime. Predictions and selected settings were checked both for the original run and the repeated fits. The archive includes derived data and also permits a separate pixel-level extraction from public images.",
+  "checks": [
+    "DTD all predictions, settings and summary values match",
+    "KTH all predictions, settings and summary values match",
+    "All HSMT fixed-kernel refits match"
+  ],
+  "datasets": {
+    "DTD": {
+      "images_extracted": 5640,
+      "test_appearances": 18800,
+      "folds": 10
+    },
+    "KTH": {
+      "images_extracted": 4752,
+      "test_appearances": 4752,
+      "folds": 4
+    }
+  },
+  "exactly_matching_historical_DTD_full_field_CLS_test_appearances": 18800
+}

@@ -1,0 +1,11 @@
+{
+  "model": "dino_vits16",
+  "images": 4752,
+  "source_and_resized_hashes_checked": 4752,
+  "checkpoint": "1566d50496f27f52f07fea6094fa29b2fdd6fae89da65bdd3ebc3b24ef6b7eb7",
+  "array_sha256": {
+    "layer2": "45c656da2c2de4211371d53cd7f1f7ede17970bfcb32b48084d3175789e86ab0",
+    "layer3": "7f0a65e1c1d7e30defdea1953b454d005181be36a2b54c013bb96af5c2ddfc62",
+    "layer4": "095806a02782a64a47b1fdbc7568490a08e90afc3dc845e12f7a4031df04596e"
+  }
+}

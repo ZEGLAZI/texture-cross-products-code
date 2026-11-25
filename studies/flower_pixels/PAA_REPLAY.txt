@@ -1,0 +1,18 @@
+NUMERICAL REPLAY ENTRY POINT
+
+Run from the package root, with the supplied additional_features/ directory:
+
+    python replay_paa.py --mode tables
+    python replay_paa.py --mode full
+
+Tables mode recalculates summaries from stored decisions. Full mode also repeats
+the designated classifier fits from released descriptors. Neither opens article
+or supplement PDFs, nor claims fresh extraction of every encoder from pixels.
+Generated reports and logs are written under runs/.
+
+The historical numerical files are already supplied under reproduction/.
+The original manifest is preserved, with explicit public-variant exceptions for
+an excluded manuscript-prose renderer and adapted documentation/integrity code.
+Older documentation may mention extracting data_and_code_r4.zip; omit that step.
+Provider archives for optional pixel reconstruction remain external inputs.
+See the current package-root README.md for installation and supported commands.

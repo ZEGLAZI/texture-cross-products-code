@@ -1,0 +1,469 @@
+{
+  "split_representation_fits": 20,
+  "inner_scores_compared": 240,
+  "predictions_compared": 188000,
+  "splits": [
+    {
+      "split": "DTD_01",
+      "representation": "H",
+      "test_appearances": 1880,
+      "selections": [
+        1.0,
+        0.1
+      ],
+      "inner_scores": 12,
+      "predictions_compared": 9400,
+      "original_selections": [
+        1.0,
+        0.1
+      ],
+      "different_test_labels": {
+        "H_S": 0,
+        "H_tuned_S": 0,
+        "H_Q": 0,
+        "H_tuned_Q": 0,
+        "H_matched_Q": 0
+      },
+      "max_grid_difference_pp": 0.10638297872340718
+    },
+    {
+      "split": "DTD_01",
+      "representation": "D",
+      "test_appearances": 1880,
+      "selections": [
+        0.1,
+        0.1
+      ],
+      "inner_scores": 12,
+      "predictions_compared": 9400,
+      "original_selections": [
+        0.1,
+        0.1
+      ],
+      "different_test_labels": {
+        "D_S": 0,
+        "D_tuned_S": 0,
+        "D_Q": 0,
+        "D_tuned_Q": 0,
+        "D_matched_Q": 0
+      },
+      "max_grid_difference_pp": 0.0
+    },
+    {
+      "split": "DTD_02",
+      "representation": "H",
+      "test_appearances": 1880,
+      "selections": [
+        0.1,
+        0.1
+      ],
+      "inner_scores": 12,
+      "predictions_compared": 9400,
+      "original_selections": [
+        0.1,
+        0.1
+      ],
+      "different_test_labels": {
+        "H_S": 0,
+        "H_tuned_S": 2,
+        "H_Q": 1,
+        "H_tuned_Q": 2,
+        "H_matched_Q": 1
+      },
+      "max_grid_difference_pp": 0.10638297872340718
+    },
+    {
+      "split": "DTD_02",
+      "representation": "D",
+      "test_appearances": 1880,
+      "selections": [
+        0.001,
+        0.001
+      ],
+      "inner_scores": 12,
+      "predictions_compared": 9400,
+      "original_selections": [
+        0.001,
+        0.001
+      ],
+      "different_test_labels": {
+        "D_S": 0,
+        "D_tuned_S": 0,
+        "D_Q": 0,
+        "D_tuned_Q": 0,
+        "D_matched_Q": 0
+      },
+      "max_grid_difference_pp": 0.0
+    },
+    {
+      "split": "DTD_03",
+      "representation": "H",
+      "test_appearances": 1880,
+      "selections": [
+        1.0,
+        0.1
+      ],
+      "inner_scores": 12,
+      "predictions_compared": 9400,
+      "original_selections": [
+        1.0,
+        0.1
+      ],
+      "different_test_labels": {
+        "H_S": 1,
+        "H_tuned_S": 1,
+        "H_Q": 1,
+        "H_tuned_Q": 2,
+        "H_matched_Q": 0
+      },
+      "max_grid_difference_pp": 0.05319148936170359
+    },
+    {
+      "split": "DTD_03",
+      "representation": "D",
+      "test_appearances": 1880,
+      "selections": [
+        0.1,
+        0.1
+      ],
+      "inner_scores": 12,
+      "predictions_compared": 9400,
+      "original_selections": [
+        0.1,
+        0.1
+      ],
+      "different_test_labels": {
+        "D_S": 0,
+        "D_tuned_S": 0,
+        "D_Q": 0,
+        "D_tuned_Q": 0,
+        "D_matched_Q": 0
+      },
+      "max_grid_difference_pp": 0.0
+    },
+    {
+      "split": "DTD_04",
+      "representation": "H",
+      "test_appearances": 1880,
+      "selections": [
+        1.0,
+        1.0
+      ],
+      "inner_scores": 12,
+      "predictions_compared": 9400,
+      "original_selections": [
+        1.0,
+        1.0
+      ],
+      "different_test_labels": {
+        "H_S": 1,
+        "H_tuned_S": 1,
+        "H_Q": 1,
+        "H_tuned_Q": 1,
+        "H_matched_Q": 1
+      },
+      "max_grid_difference_pp": 0.05910165484633301
+    },
+    {
+      "split": "DTD_04",
+      "representation": "D",
+      "test_appearances": 1880,
+      "selections": [
+        0.1,
+        0.1
+      ],
+      "inner_scores": 12,
+      "predictions_compared": 9400,
+      "original_selections": [
+        0.1,
+        0.1
+      ],
+      "different_test_labels": {
+        "D_S": 0,
+        "D_tuned_S": 0,
+        "D_Q": 0,
+        "D_tuned_Q": 0,
+        "D_matched_Q": 0
+      },
+      "max_grid_difference_pp": 0.0
+    },
+    {
+      "split": "DTD_05",
+      "representation": "H",
+      "test_appearances": 1880,
+      "selections": [
+        0.1,
+        0.1
+      ],
+      "inner_scores": 12,
+      "predictions_compared": 9400,
+      "original_selections": [
+        0.1,
+        0.1
+      ],
+      "different_test_labels": {
+        "H_S": 1,
+        "H_tuned_S": 0,
+        "H_Q": 1,
+        "H_tuned_Q": 2,
+        "H_matched_Q": 0
+      },
+      "max_grid_difference_pp": 0.05319148936170914
+    },
+    {
+      "split": "DTD_05",
+      "representation": "D",
+      "test_appearances": 1880,
+      "selections": [
+        0.001,
+        0.1
+      ],
+      "inner_scores": 12,
+      "predictions_compared": 9400,
+      "original_selections": [
+        0.001,
+        0.1
+      ],
+      "different_test_labels": {
+        "D_S": 0,
+        "D_tuned_S": 0,
+        "D_Q": 0,
+        "D_tuned_Q": 0,
+        "D_matched_Q": 0
+      },
+      "max_grid_difference_pp": 0.0
+    },
+    {
+      "split": "DTD_06",
+      "representation": "H",
+      "test_appearances": 1880,
+      "selections": [
+        0.1,
+        0.1
+      ],
+      "inner_scores": 12,
+      "predictions_compared": 9400,
+      "original_selections": [
+        1.0,
+        0.1
+      ],
+      "different_test_labels": {
+        "H_S": 2,
+        "H_tuned_S": 542,
+        "H_Q": 1,
+        "H_tuned_Q": 3,
+        "H_matched_Q": 0
+      },
+      "max_grid_difference_pp": 0.10638297872340163
+    },
+    {
+      "split": "DTD_06",
+      "representation": "D",
+      "test_appearances": 1880,
+      "selections": [
+        0.01,
+        0.01
+      ],
+      "inner_scores": 12,
+      "predictions_compared": 9400,
+      "original_selections": [
+        0.01,
+        0.01
+      ],
+      "different_test_labels": {
+        "D_S": 0,
+        "D_tuned_S": 0,
+        "D_Q": 0,
+        "D_tuned_Q": 0,
+        "D_matched_Q": 0
+      },
+      "max_grid_difference_pp": 0.0
+    },
+    {
+      "split": "DTD_07",
+      "representation": "H",
+      "test_appearances": 1880,
+      "selections": [
+        1.0,
+        0.1
+      ],
+      "inner_scores": 12,
+      "predictions_compared": 9400,
+      "original_selections": [
+        1.0,
+        0.1
+      ],
+      "different_test_labels": {
+        "H_S": 2,
+        "H_tuned_S": 2,
+        "H_Q": 0,
+        "H_tuned_Q": 4,
+        "H_matched_Q": 0
+      },
+      "max_grid_difference_pp": 0.10638297872340718
+    },
+    {
+      "split": "DTD_07",
+      "representation": "D",
+      "test_appearances": 1880,
+      "selections": [
+        0.1,
+        0.1
+      ],
+      "inner_scores": 12,
+      "predictions_compared": 9400,
+      "original_selections": [
+        0.1,
+        0.1
+      ],
+      "different_test_labels": {
+        "D_S": 0,
+        "D_tuned_S": 0,
+        "D_Q": 0,
+        "D_tuned_Q": 0,
+        "D_matched_Q": 0
+      },
+      "max_grid_difference_pp": 0.0
+    },
+    {
+      "split": "DTD_08",
+      "representation": "H",
+      "test_appearances": 1880,
+      "selections": [
+        1.0,
+        1.0
+      ],
+      "inner_scores": 12,
+      "predictions_compared": 9400,
+      "original_selections": [
+        1.0,
+        1.0
+      ],
+      "different_test_labels": {
+        "H_S": 1,
+        "H_tuned_S": 1,
+        "H_Q": 1,
+        "H_tuned_Q": 1,
+        "H_matched_Q": 0
+      },
+      "max_grid_difference_pp": 0.05319148936170359
+    },
+    {
+      "split": "DTD_08",
+      "representation": "D",
+      "test_appearances": 1880,
+      "selections": [
+        0.01,
+        0.01
+      ],
+      "inner_scores": 12,
+      "predictions_compared": 9400,
+      "original_selections": [
+        0.01,
+        0.01
+      ],
+      "different_test_labels": {
+        "D_S": 0,
+        "D_tuned_S": 0,
+        "D_Q": 0,
+        "D_tuned_Q": 0,
+        "D_matched_Q": 0
+      },
+      "max_grid_difference_pp": 0.0
+    },
+    {
+      "split": "DTD_09",
+      "representation": "H",
+      "test_appearances": 1880,
+      "selections": [
+        0.1,
+        0.1
+      ],
+      "inner_scores": 12,
+      "predictions_compared": 9400,
+      "original_selections": [
+        0.1,
+        0.1
+      ],
+      "different_test_labels": {
+        "H_S": 1,
+        "H_tuned_S": 2,
+        "H_Q": 0,
+        "H_tuned_Q": 2,
+        "H_matched_Q": 0
+      },
+      "max_grid_difference_pp": 0.05319148936170914
+    },
+    {
+      "split": "DTD_09",
+      "representation": "D",
+      "test_appearances": 1880,
+      "selections": [
+        0.01,
+        0.01
+      ],
+      "inner_scores": 12,
+      "predictions_compared": 9400,
+      "original_selections": [
+        0.01,
+        0.01
+      ],
+      "different_test_labels": {
+        "D_S": 0,
+        "D_tuned_S": 0,
+        "D_Q": 0,
+        "D_tuned_Q": 0,
+        "D_matched_Q": 0
+      },
+      "max_grid_difference_pp": 0.0
+    },
+    {
+      "split": "DTD_10",
+      "representation": "H",
+      "test_appearances": 1880,
+      "selections": [
+        1.0,
+        1.0
+      ],
+      "inner_scores": 12,
+      "predictions_compared": 9400,
+      "original_selections": [
+        1.0,
+        1.0
+      ],
+      "different_test_labels": {
+        "H_S": 3,
+        "H_tuned_S": 3,
+        "H_Q": 1,
+        "H_tuned_Q": 1,
+        "H_matched_Q": 1
+      },
+      "max_grid_difference_pp": 0.10638297872340163
+    },
+    {
+      "split": "DTD_10",
+      "representation": "D",
+      "test_appearances": 1880,
+      "selections": [
+        0.1,
+        0.001
+      ],
+      "inner_scores": 12,
+      "predictions_compared": 9400,
+      "original_selections": [
+        0.1,
+        0.001
+      ],
+      "different_test_labels": {
+        "D_S": 0,
+        "D_tuned_S": 0,
+        "D_Q": 0,
+        "D_tuned_Q": 0,
+        "D_matched_Q": 0
+      },
+      "max_grid_difference_pp": 0.0
+    }
+  ],
+  "different_test_labels": 594,
+  "source": "freshly extracted descriptors"
+}

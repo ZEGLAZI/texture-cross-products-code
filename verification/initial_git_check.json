@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "exit_code": 0,
+  "output": "Verified 1238 files against SHA256SUMS.\nReviewed document inventory: 6 standalone numerical plots; 51 JSON data snapshot members.\nAll files match the reviewed code/data distribution; no excluded document path or unlisted file was found.\nGit index matches this distribution; checked paths in 1 local commit(s).\n",
+  "error": "",
+  "files": 1239,
+  "local_only": true,
+  "remote_configured": false,
+  "commits": 1
+}

@@ -1,0 +1,193 @@
+{
+  "split_representation_fits": 8,
+  "inner_scores_compared": 96,
+  "predictions_compared": 47520,
+  "splits": [
+    {
+      "split": "KTH_a",
+      "representation": "H",
+      "test_appearances": 1188,
+      "selections": [
+        0.01,
+        0.01
+      ],
+      "inner_scores": 12,
+      "predictions_compared": 5940,
+      "original_selections": [
+        0.01,
+        0.01
+      ],
+      "different_test_labels": {
+        "H_S": 0,
+        "H_tuned_S": 0,
+        "H_Q": 0,
+        "H_tuned_Q": 0,
+        "H_matched_Q": 0
+      },
+      "max_grid_difference_pp": 2.220446049250313e-14
+    },
+    {
+      "split": "KTH_a",
+      "representation": "D",
+      "test_appearances": 1188,
+      "selections": [
+        1.0,
+        1.0
+      ],
+      "inner_scores": 12,
+      "predictions_compared": 5940,
+      "original_selections": [
+        1.0,
+        1.0
+      ],
+      "different_test_labels": {
+        "D_S": 0,
+        "D_tuned_S": 0,
+        "D_Q": 0,
+        "D_tuned_Q": 0,
+        "D_matched_Q": 0
+      },
+      "max_grid_difference_pp": 0.0
+    },
+    {
+      "split": "KTH_b",
+      "representation": "H",
+      "test_appearances": 1188,
+      "selections": [
+        0.001,
+        0.001
+      ],
+      "inner_scores": 12,
+      "predictions_compared": 5940,
+      "original_selections": [
+        0.001,
+        0.001
+      ],
+      "different_test_labels": {
+        "H_S": 0,
+        "H_tuned_S": 0,
+        "H_Q": 0,
+        "H_tuned_Q": 0,
+        "H_matched_Q": 0
+      },
+      "max_grid_difference_pp": 1.1102230246251565e-14
+    },
+    {
+      "split": "KTH_b",
+      "representation": "D",
+      "test_appearances": 1188,
+      "selections": [
+        10.0,
+        10.0
+      ],
+      "inner_scores": 12,
+      "predictions_compared": 5940,
+      "original_selections": [
+        10.0,
+        10.0
+      ],
+      "different_test_labels": {
+        "D_S": 0,
+        "D_tuned_S": 0,
+        "D_Q": 0,
+        "D_tuned_Q": 0,
+        "D_matched_Q": 0
+      },
+      "max_grid_difference_pp": 0.0
+    },
+    {
+      "split": "KTH_c",
+      "representation": "H",
+      "test_appearances": 1188,
+      "selections": [
+        0.001,
+        1.0
+      ],
+      "inner_scores": 12,
+      "predictions_compared": 5940,
+      "original_selections": [
+        0.001,
+        1.0
+      ],
+      "different_test_labels": {
+        "H_S": 0,
+        "H_tuned_S": 0,
+        "H_Q": 0,
+        "H_tuned_Q": 0,
+        "H_matched_Q": 0
+      },
+      "max_grid_difference_pp": 2.220446049250313e-14
+    },
+    {
+      "split": "KTH_c",
+      "representation": "D",
+      "test_appearances": 1188,
+      "selections": [
+        0.001,
+        0.001
+      ],
+      "inner_scores": 12,
+      "predictions_compared": 5940,
+      "original_selections": [
+        0.001,
+        0.001
+      ],
+      "different_test_labels": {
+        "D_S": 0,
+        "D_tuned_S": 0,
+        "D_Q": 0,
+        "D_tuned_Q": 0,
+        "D_matched_Q": 0
+      },
+      "max_grid_difference_pp": 0.0
+    },
+    {
+      "split": "KTH_d",
+      "representation": "H",
+      "test_appearances": 1188,
+      "selections": [
+        0.001,
+        0.001
+      ],
+      "inner_scores": 12,
+      "predictions_compared": 5940,
+      "original_selections": [
+        0.001,
+        0.001
+      ],
+      "different_test_labels": {
+        "H_S": 0,
+        "H_tuned_S": 0,
+        "H_Q": 0,
+        "H_tuned_Q": 0,
+        "H_matched_Q": 0
+      },
+      "max_grid_difference_pp": 0.028058361391691822
+    },
+    {
+      "split": "KTH_d",
+      "representation": "D",
+      "test_appearances": 1188,
+      "selections": [
+        1.0,
+        1.0
+      ],
+      "inner_scores": 12,
+      "predictions_compared": 5940,
+      "original_selections": [
+        1.0,
+        1.0
+      ],
+      "different_test_labels": {
+        "D_S": 0,
+        "D_tuned_S": 0,
+        "D_Q": 0,
+        "D_tuned_Q": 0,
+        "D_matched_Q": 0
+      },
+      "max_grid_difference_pp": 0.0
+    }
+  ],
+  "different_test_labels": 0,
+  "source": "freshly extracted descriptors"
+}

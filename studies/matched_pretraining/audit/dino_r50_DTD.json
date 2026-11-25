@@ -1,0 +1,6 @@
+{
+  "dataset": "DTD",
+  "folds": 10,
+  "validation_scores": 120,
+  "matched_test_labels": 94000
+}

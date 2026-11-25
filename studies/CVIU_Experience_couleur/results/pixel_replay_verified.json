@@ -1,0 +1,99 @@
+{
+  "source_images": 12392,
+  "external_images_with_both_representations": 2000,
+  "array_values_differing": 0,
+  "details": {
+    "DTD_palettes.npz": {
+      "values": {
+        "coordinates": 1804800,
+        "differing": 0
+      }
+    },
+    "DTD_pairs.npz": {
+      "values": {
+        "coordinates": 4263840,
+        "differing": 0
+      }
+    },
+    "KTH_palettes.npz": {
+      "values": {
+        "coordinates": 1520640,
+        "differing": 0
+      }
+    },
+    "KTH_pairs.npz": {
+      "values": {
+        "coordinates": 3592512,
+        "differing": 0
+      }
+    },
+    "FMD_palettes.npz": {
+      "values": {
+        "coordinates": 320000,
+        "differing": 0
+      }
+    },
+    "FMD_pairs.npz": {
+      "values": {
+        "coordinates": 756000,
+        "differing": 0
+      }
+    },
+    "FMD_features.npz": {
+      "F7": {
+        "coordinates": 945000,
+        "differing": 0
+      },
+      "F8": {
+        "coordinates": 504000,
+        "differing": 0
+      },
+      "patch3": {
+        "coordinates": 384000,
+        "differing": 0
+      },
+      "patch6": {
+        "coordinates": 384000,
+        "differing": 0
+      },
+      "patch12": {
+        "coordinates": 384000,
+        "differing": 0
+      }
+    },
+    "Lytro_palettes.npz": {
+      "values": {
+        "coordinates": 320000,
+        "differing": 0
+      }
+    },
+    "Lytro_pairs.npz": {
+      "values": {
+        "coordinates": 756000,
+        "differing": 0
+      }
+    },
+    "Lytro_features.npz": {
+      "F7": {
+        "coordinates": 945000,
+        "differing": 0
+      },
+      "F8": {
+        "coordinates": 504000,
+        "differing": 0
+      },
+      "patch3": {
+        "coordinates": 384000,
+        "differing": 0
+      },
+      "patch6": {
+        "coordinates": 384000,
+        "differing": 0
+      },
+      "patch12": {
+        "coordinates": 384000,
+        "differing": 0
+      }
+    }
+  }
+}

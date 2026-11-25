@@ -1,0 +1,6 @@
+{
+  "dataset": "KTH",
+  "folds": 4,
+  "validation_scores": 144,
+  "matched_test_labels": 23760
+}

@@ -1,0 +1,8406 @@
+{
+  "total": 1803,
+  "page": 6,
+  "records": [
+    {
+      "id": 352991434,
+      "date": "2026-04-24",
+      "compte": 8527777,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644132990,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644132990/square.jpg",
+          "attribution": "(c) jimena_miguel, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 644132998,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644132998/square.jpg",
+          "attribution": "(c) jimena_miguel, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 644133064,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644133064/square.jpg",
+          "attribution": "(c) jimena_miguel, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 644132964,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644132964/square.jpg",
+          "attribution": "(c) jimena_miguel, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 644133045,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644133045/square.jpg",
+          "attribution": "(c) jimena_miguel, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 644133003,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644133003/square.jpg",
+          "attribution": "(c) jimena_miguel, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 644132980,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644132980/square.jpg",
+          "attribution": "(c) jimena_miguel, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 644132991,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644132991/square.jpg",
+          "attribution": "(c) jimena_miguel, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352991716,
+      "date": "2026-04-24",
+      "compte": 10001626,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644133819,
+          "license_code": "cc0",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644133819/square.jpg",
+          "attribution": "no rights reserved"
+        },
+        {
+          "id": 644134118,
+          "license_code": "cc0",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644134118/square.jpg",
+          "attribution": "no rights reserved"
+        },
+        {
+          "id": 644134425,
+          "license_code": "cc0",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644134425/square.jpg",
+          "attribution": "no rights reserved"
+        },
+        {
+          "id": 644135224,
+          "license_code": "cc0",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644135224/square.jpg",
+          "attribution": "no rights reserved"
+        },
+        {
+          "id": 644135561,
+          "license_code": "cc0",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644135561/square.jpg",
+          "attribution": "no rights reserved"
+        }
+      ]
+    },
+    {
+      "id": 352996899,
+      "date": "2026-04-24",
+      "compte": 7139087,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644142557,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644142557/square.jpg",
+          "attribution": "(c) Adrian Matala, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 644143181,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644143181/square.jpg",
+          "attribution": "(c) Adrian Matala, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 644143588,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644143588/square.jpg",
+          "attribution": "(c) Adrian Matala, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 644143837,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644143837/square.jpg",
+          "attribution": "(c) Adrian Matala, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 352999329,
+      "date": "2026-04-24",
+      "compte": 10412567,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644146993,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644146993/square.jpg",
+          "attribution": "(c) jonene_ward, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353028308,
+      "date": "2026-04-24",
+      "compte": 9166933,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644195543,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644195543/square.jpg",
+          "attribution": "(c) Porzeczka, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 644195668,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644195668/square.jpg",
+          "attribution": "(c) Porzeczka, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353030398,
+      "date": "2026-04-24",
+      "compte": 9166933,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644199430,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644199430/square.jpg",
+          "attribution": "(c) Porzeczka, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353059757,
+      "date": "2026-04-24",
+      "compte": 952626,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644242001,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644242001/square.jpg",
+          "attribution": "(c) Michaela Sonnleitner, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353064517,
+      "date": "2026-04-24",
+      "compte": 10413395,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644260808,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644260808/square.jpg",
+          "attribution": "(c) aidang123, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353079223,
+      "date": "2026-04-24",
+      "compte": 8033325,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644286553,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644286553/square.jpg",
+          "attribution": "(c) wbrucew, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353080423,
+      "date": "2026-04-24",
+      "compte": 985739,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644288441,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644288441/square.jpg",
+          "attribution": "(c) brigospo, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353080991,
+      "date": "2026-04-24",
+      "compte": 949372,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644289546,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644289546/square.jpg",
+          "attribution": "(c) Laurel J. Ramseyer, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 644289650,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644289650/square.jpg",
+          "attribution": "(c) Laurel J. Ramseyer, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353080995,
+      "date": "2026-04-24",
+      "compte": 3254292,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644289591,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644289591/square.jpg",
+          "attribution": "(c) Seprűs Péter, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353081625,
+      "date": "2026-04-24",
+      "compte": 3254292,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644290801,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644290801/square.jpg",
+          "attribution": "(c) Seprűs Péter, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353088894,
+      "date": "2026-04-24",
+      "compte": 949372,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644303352,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644303352/square.jpg",
+          "attribution": "(c) Laurel J. Ramseyer, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353135139,
+      "date": "2026-04-24",
+      "compte": 10411590,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644385641,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644385641/square.jpg",
+          "attribution": "(c) trenikovak, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353137557,
+      "date": "2026-04-24",
+      "compte": 3898826,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644389323,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644389323/square.jpg",
+          "attribution": "(c) Kozmo, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 644389312,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644389312/square.jpg",
+          "attribution": "(c) Kozmo, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353154974,
+      "date": "2026-04-25",
+      "compte": 2095147,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644419902,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644419902/square.jpg",
+          "attribution": "(c) esther, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353155832,
+      "date": "2026-04-25",
+      "compte": 5302,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644421269,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644421269/square.jpg",
+          "attribution": "(c) Colin Meurk, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 353182474,
+      "date": "2026-04-24",
+      "compte": 8718,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644469684,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644469684/square.jpg",
+          "attribution": "(c) Steve Sullivan, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353193611,
+      "date": "2026-04-24",
+      "compte": 468531,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644489953,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644489953/square.jpg",
+          "attribution": "(c) David F. Fraser, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353261254,
+      "date": "2026-04-24",
+      "compte": 3686134,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645146330,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645146330/square.jpg",
+          "attribution": "(c) Teresa May, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353307902,
+      "date": "2026-04-24",
+      "compte": 10409028,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644687747,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644687747/square.jpg",
+          "attribution": "(c) hoopoe-paul, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353357435,
+      "date": "2026-04-25",
+      "compte": 5157805,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644766468,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644766468/square.jpg",
+          "attribution": "(c) marianna_vasile, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353365334,
+      "date": "2026-04-25",
+      "compte": 6840721,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644778442,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644778442/square.jpg",
+          "attribution": "(c) Eibel Thomas, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353377632,
+      "date": "2026-04-25",
+      "compte": 6895185,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644796626,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644796626/square.jpg",
+          "attribution": "(c) amama, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353406062,
+      "date": "2026-04-25",
+      "compte": 667286,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644840730,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644840730/square.jpg",
+          "attribution": "(c) georges3, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 353407612,
+      "date": "2026-04-25",
+      "compte": 10447328,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644843061,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644843061/square.jpg",
+          "attribution": "(c) LUC WEBER, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353422703,
+      "date": "2026-04-25",
+      "compte": 4118353,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644866563,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644866563/square.jpg",
+          "attribution": "(c) this-kid-is-not-alright, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353436815,
+      "date": "2026-04-25",
+      "compte": 10435828,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644888571,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644888571/square.jpg",
+          "attribution": "(c) adnildrahctirp, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353440491,
+      "date": "2026-04-25",
+      "compte": 10433014,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644894854,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644894854/square.jpg",
+          "attribution": "(c) ivikiwi, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353464923,
+      "date": "2026-04-25",
+      "compte": 10417025,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644933977,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644933977/square.jpg",
+          "attribution": "(c) kmace44, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353473151,
+      "date": "2026-04-25",
+      "compte": 2769177,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644946567,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644946567/square.jpg",
+          "attribution": "(c) RikeF, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 644946579,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644946579/square.jpg",
+          "attribution": "(c) RikeF, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353473990,
+      "date": "2026-04-25",
+      "compte": 4663422,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644948192,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644948192/square.jpg",
+          "attribution": "(c) sumskavila, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353486178,
+      "date": "2026-04-25",
+      "compte": 2306967,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644966385,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644966385/square.jpg",
+          "attribution": "(c) ina22, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353486729,
+      "date": "2026-04-25",
+      "compte": 8028243,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644967461,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644967461/square.jpg",
+          "attribution": "(c) goldan76, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353501637,
+      "date": "2026-04-25",
+      "compte": 9319488,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644991861,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644991861/square.jpg",
+          "attribution": "(c) Michele Reuter-Ludivig, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 644991965,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644991965/square.jpg",
+          "attribution": "(c) Michele Reuter-Ludivig, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353505284,
+      "date": "2026-04-25",
+      "compte": 10425755,
+      "statut": "research",
+      "annotations": [
+        [
+          9,
+          20
+        ],
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          39
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644997829,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644997829/square.jpg",
+          "attribution": "(c) fili14, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353505910,
+      "date": "2026-04-25",
+      "compte": 5602016,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 644999138,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644999138/square.jpg",
+          "attribution": "(c) anniengel, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353510550,
+      "date": "2026-04-25",
+      "compte": 8058859,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645006095,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645006095/square.jpg",
+          "attribution": "(c) Alexander Fauck, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353521882,
+      "date": "2026-04-25",
+      "compte": 7292077,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645024559,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645024559/square.jpg",
+          "attribution": "(c) gpylades, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353530806,
+      "date": "2026-04-25",
+      "compte": 481680,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645037906,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645037906/square.jpg",
+          "attribution": "(c) Yves Krippel, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 645038272,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645038272/square.jpg",
+          "attribution": "(c) Yves Krippel, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353550131,
+      "date": "2026-04-25",
+      "compte": 10435821,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645067778,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645067778/square.jpg",
+          "attribution": "(c) Оля Мартинюк, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353580892,
+      "date": "2026-04-25",
+      "compte": 4991071,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645116640,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645116640/square.jpg",
+          "attribution": "(c) bartab, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353588035,
+      "date": "2026-04-25",
+      "compte": 3805776,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645128162,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645128162/square.jpg",
+          "attribution": "(c) Alexandr Stanislavschi, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 353594851,
+      "date": "2026-04-25",
+      "compte": 81949,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645138646,
+          "license_code": "cc-by-nc-sa",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645138646/square.jpg",
+          "attribution": "(c) Tamsin Carlisle, some rights reserved (CC BY-NC-SA)"
+        }
+      ]
+    },
+    {
+      "id": 353607771,
+      "date": "2026-04-25",
+      "compte": 4313659,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645160033,
+          "license_code": "cc0",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645160033/square.jpg",
+          "attribution": "no rights reserved"
+        }
+      ]
+    },
+    {
+      "id": 353614530,
+      "date": "2026-04-25",
+      "compte": 4313659,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645170737,
+          "license_code": "cc0",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645170737/square.jpg",
+          "attribution": "no rights reserved"
+        }
+      ]
+    },
+    {
+      "id": 353621523,
+      "date": "2026-04-25",
+      "compte": 7831423,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645181513,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645181513/square.jpg",
+          "attribution": "(c) Lorena Halužan, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353635271,
+      "date": "2026-04-25",
+      "compte": 6956757,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645204510,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645204510/square.jpg",
+          "attribution": "(c) deufa, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353687156,
+      "date": "2026-04-25",
+      "compte": 6588893,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645291337,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645291337/square.jpg",
+          "attribution": "(c) stellarjaytb, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353688565,
+      "date": "2026-04-25",
+      "compte": 10450973,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645293702,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645293702/square.jpg",
+          "attribution": "(c) ignajlo, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353697526,
+      "date": "2026-04-25",
+      "compte": 10450361,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645309182,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645309182/square.jpg",
+          "attribution": "(c) sisson465, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353717195,
+      "date": "2026-04-25",
+      "compte": 10383604,
+      "statut": "research",
+      "annotations": [
+        [
+          9,
+          20
+        ],
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645341423,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645341423/square.jpg",
+          "attribution": "(c) Alesja, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353728383,
+      "date": "2026-04-25",
+      "compte": 9622759,
+      "statut": "research",
+      "annotations": [
+        [
+          9,
+          20
+        ],
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645359798,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645359798/square.jpg",
+          "attribution": "(c) Victoria M. ☆, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353730202,
+      "date": "2026-04-25",
+      "compte": 9178296,
+      "statut": "research",
+      "annotations": [
+        [
+          9,
+          20
+        ],
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          37
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645362891,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645362891/square.jpg",
+          "attribution": "(c) nikisev, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353730497,
+      "date": "2026-04-25",
+      "compte": 9208045,
+      "statut": "research",
+      "annotations": [
+        [
+          9,
+          20
+        ],
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          37
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645363419,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645363419/square.jpg",
+          "attribution": "(c) sarkafarka, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353731203,
+      "date": "2026-04-25",
+      "compte": 9622759,
+      "statut": "research",
+      "annotations": [
+        [
+          9,
+          20
+        ],
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645364719,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645364719/square.jpg",
+          "attribution": "(c) Victoria M. ☆, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353743915,
+      "date": "2026-04-24",
+      "compte": 8641,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645386406,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645386406/square.jpg",
+          "attribution": "(c) John Brew, some rights reserved (CC BY)"
+        },
+        {
+          "id": 645387147,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645387147/square.jpg",
+          "attribution": "(c) John Brew, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 353751345,
+      "date": "2026-04-13",
+      "compte": 2064903,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645390820,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645390820/square.jpg",
+          "attribution": "(c) M. Squire, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 353761742,
+      "date": "2026-04-25",
+      "compte": 10451353,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645418532,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645418532/square.jpg",
+          "attribution": "(c) Mateo Zermeno, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353801695,
+      "date": "2026-04-25",
+      "compte": 9193160,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645488063,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645488063/square.jpg",
+          "attribution": "(c) dominikaf, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353803333,
+      "date": "2026-04-25",
+      "compte": 9193160,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645491215,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645491215/square.jpg",
+          "attribution": "(c) dominikaf, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353839232,
+      "date": "2026-04-25",
+      "compte": 3254292,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645553588,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645553588/square.jpg",
+          "attribution": "(c) Seprűs Péter, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353855826,
+      "date": "2026-04-25",
+      "compte": 3254292,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645584064,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645584064/square.jpg",
+          "attribution": "(c) Seprűs Péter, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353857257,
+      "date": "2026-04-25",
+      "compte": 2086885,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645588786,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645588786/square.jpg",
+          "attribution": "(c) Sierra Kross, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353861802,
+      "date": "2026-04-25",
+      "compte": 7597065,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645594138,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645594138/square.jpg",
+          "attribution": "(c) david_guo618, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353863413,
+      "date": "2026-04-25",
+      "compte": 10385230,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645596726,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645596726/square.jpg",
+          "attribution": "(c) WomblingALF, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353863743,
+      "date": "2026-04-25",
+      "compte": 10385230,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645597371,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645597371/square.jpg",
+          "attribution": "(c) WomblingALF, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353865142,
+      "date": "2026-04-25",
+      "compte": 10385230,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645599768,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645599768/square.jpg",
+          "attribution": "(c) WomblingALF, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353868574,
+      "date": "2026-04-25",
+      "compte": 3254292,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645610693,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645610693/square.jpg",
+          "attribution": "(c) Seprűs Péter, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353873058,
+      "date": "2026-04-25",
+      "compte": 3254292,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645613436,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645613436/square.jpg",
+          "attribution": "(c) Seprűs Péter, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353876574,
+      "date": "2026-04-25",
+      "compte": 445789,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645620130,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645620130/square.jpg",
+          "attribution": "(c) Tina Boville, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 645620273,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645620273/square.jpg",
+          "attribution": "(c) Tina Boville, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 645620369,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645620369/square.jpg",
+          "attribution": "(c) Tina Boville, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353877540,
+      "date": "2026-04-25",
+      "compte": 3254292,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645629576,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645629576/square.jpg",
+          "attribution": "(c) Seprűs Péter, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353882324,
+      "date": "2026-04-25",
+      "compte": 3254292,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645630927,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645630927/square.jpg",
+          "attribution": "(c) Seprűs Péter, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353920589,
+      "date": "2026-04-16",
+      "compte": 10382271,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645739863,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645739863/square.jpg",
+          "attribution": "(c) Amber Whiteman, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353976410,
+      "date": "2026-04-25",
+      "compte": 6105683,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645804107,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645804107/square.jpg",
+          "attribution": "(c) kmccracko, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 645808734,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645808734/square.jpg",
+          "attribution": "(c) kmccracko, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 353979640,
+      "date": "2026-04-25",
+      "compte": 10390313,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          40
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645807870,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645807870/square.jpg",
+          "attribution": "(c) raniafathi12, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354018201,
+      "date": "2026-04-26",
+      "compte": 10144531,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645879092,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645879092/square.jpg",
+          "attribution": "(c) Yara Asha, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 645879083,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645879083/square.jpg",
+          "attribution": "(c) Yara Asha, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 645879097,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645879097/square.jpg",
+          "attribution": "(c) Yara Asha, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 645879095,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645879095/square.jpg",
+          "attribution": "(c) Yara Asha, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 645879099,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645879099/square.jpg",
+          "attribution": "(c) Yara Asha, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 645879127,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645879127/square.jpg",
+          "attribution": "(c) Yara Asha, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354050620,
+      "date": "2026-04-26",
+      "compte": 4935353,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 645940034,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645940034/square.jpg",
+          "attribution": "(c) Rachel, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 645946904,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645946904/square.jpg",
+          "attribution": "(c) Rachel, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354121585,
+      "date": "2026-04-25",
+      "compte": 10454786,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 646066748,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646066748/square.jpg",
+          "attribution": "(c) rosasr, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354215680,
+      "date": "2026-04-26",
+      "compte": 4834289,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 646223153,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646223153/square.jpg",
+          "attribution": "(c) Frank Andresen, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354226093,
+      "date": "2026-04-24",
+      "compte": 4175203,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 646151115,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646151115/square.jpg",
+          "attribution": "(c) eva_brb, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354227254,
+      "date": "2026-04-24",
+      "compte": 10303782,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 646240881,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646240881/square.jpg",
+          "attribution": "(c) Natália Mjartanová, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354228057,
+      "date": "2026-04-25",
+      "compte": 4725019,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 646235042,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646235042/square.jpg",
+          "attribution": "(c) adinie, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 646243871,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646243871/square.jpg",
+          "attribution": "(c) adinie, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354254566,
+      "date": "2026-04-26",
+      "compte": 9192908,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 646283788,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646283788/square.jpg",
+          "attribution": "(c) Jana Horčičáková, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354263071,
+      "date": "2026-04-26",
+      "compte": 9703908,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 646296701,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646296701/square.jpg",
+          "attribution": "(c) przyrodniczamaja, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 646296772,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646296772/square.jpg",
+          "attribution": "(c) przyrodniczamaja, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 646296834,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646296834/square.jpg",
+          "attribution": "(c) przyrodniczamaja, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354273961,
+      "date": "2026-04-26",
+      "compte": 10441962,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 646314565,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646314565/square.jpg",
+          "attribution": "(c) jesappelletiti, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354362787,
+      "date": "2026-04-26",
+      "compte": 8195297,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 646459035,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646459035/square.jpg",
+          "attribution": "(c) Robin Witt, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354373136,
+      "date": "2026-04-26",
+      "compte": 10450254,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 646475803,
+          "license_code": "cc0",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646475803/square.jpg",
+          "attribution": "no rights reserved"
+        }
+      ]
+    },
+    {
+      "id": 354378981,
+      "date": "2026-04-26",
+      "compte": 8553765,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 646485479,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646485479/square.jpg",
+          "attribution": "(c) dmwprocyon_94, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354400518,
+      "date": "2026-04-26",
+      "compte": 10376133,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 646520045,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646520045/square.jpg",
+          "attribution": "(c) Maryline LAKH, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354407775,
+      "date": "2026-04-26",
+      "compte": 8378833,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 646531601,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646531601/square.jpg",
+          "attribution": "(c) PCzKsK, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 646531735,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646531735/square.jpg",
+          "attribution": "(c) PCzKsK, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354417429,
+      "date": "2026-04-26",
+      "compte": 1643612,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 646547106,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646547106/square.jpg",
+          "attribution": "(c) Mathias, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354430750,
+      "date": "2026-04-26",
+      "compte": 10116347,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 646568365,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646568365/square.jpg",
+          "attribution": "(c) Mark Bretherton, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 646568635,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646568635/square.jpg",
+          "attribution": "(c) Mark Bretherton, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354443918,
+      "date": "2026-04-26",
+      "compte": 10456112,
+      "statut": "research",
+      "annotations": [
+        [
+          9,
+          20
+        ],
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 646589911,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646589911/square.jpg",
+          "attribution": "(c) Hanoon, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 646590090,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646590090/square.jpg",
+          "attribution": "(c) Hanoon, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354477205,
+      "date": "2026-04-25",
+      "compte": 1417803,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 646644691,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646644691/square.jpg",
+          "attribution": "(c) Irina Mitine, some rights reserved (CC BY)"
+        },
+        {
+          "id": 646644848,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646644848/square.jpg",
+          "attribution": "(c) Irina Mitine, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 354502566,
+      "date": "2026-04-26",
+      "compte": 4118353,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 646687566,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646687566/square.jpg",
+          "attribution": "(c) this-kid-is-not-alright, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354503170,
+      "date": "2026-04-26",
+      "compte": 10458225,
+      "statut": "research",
+      "annotations": [
+        [
+          9,
+          20
+        ],
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 646688761,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646688761/square.jpg",
+          "attribution": "(c) Dominik Seketin, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354536605,
+      "date": "2026-04-26",
+      "compte": 3254292,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 646743230,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646743230/square.jpg",
+          "attribution": "(c) Seprűs Péter, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354568462,
+      "date": "2026-04-26",
+      "compte": 10459385,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 646793851,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646793851/square.jpg",
+          "attribution": "(c) owencockrum, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354585322,
+      "date": "2026-04-25",
+      "compte": 6648499,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          14
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 646822923,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646822923/square.jpg",
+          "attribution": "(c) twinklekarp, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354596353,
+      "date": "2026-04-26",
+      "compte": 5395559,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 646842241,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646842241/square.jpg",
+          "attribution": "(c) John Baines, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354619196,
+      "date": "2026-04-26",
+      "compte": 9154558,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 646879527,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646879527/square.jpg",
+          "attribution": "(c) Vera Szanto, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 646879545,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646879545/square.jpg",
+          "attribution": "(c) Vera Szanto, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354619357,
+      "date": "2026-04-18",
+      "compte": 6430273,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 646878570,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646878570/square.jpg",
+          "attribution": "(c) Ivan Jarolímek, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354622045,
+      "date": "2026-04-26",
+      "compte": 3546136,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 646884370,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646884370/square.jpg",
+          "attribution": "(c) krukes, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 646884477,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646884477/square.jpg",
+          "attribution": "(c) krukes, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354622988,
+      "date": "2026-04-25",
+      "compte": 10452533,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          14
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 646885779,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646885779/square.jpg",
+          "attribution": "(c) Tiernan Clark, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354635349,
+      "date": "2026-04-26",
+      "compte": 9351081,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 646883513,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646883513/square.jpg",
+          "attribution": "(c) Bob Kirkland, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354640709,
+      "date": "2026-04-25",
+      "compte": 2907079,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 646916766,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646916766/square.jpg",
+          "attribution": "(c) sillyjesse, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354651611,
+      "date": "2026-04-26",
+      "compte": 8196179,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 646935009,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646935009/square.jpg",
+          "attribution": "(c) Aleks, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 354709592,
+      "date": "2026-04-26",
+      "compte": 10459984,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 647036094,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647036094/square.jpg",
+          "attribution": "(c) J.E. Arndt and L. Federwisch, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 647036136,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647036136/square.jpg",
+          "attribution": "(c) J.E. Arndt and L. Federwisch, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354709875,
+      "date": "2026-04-25",
+      "compte": 9193303,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 647034439,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647034439/square.jpg",
+          "attribution": "(c) luckychris, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 647034434,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647034434/square.jpg",
+          "attribution": "(c) luckychris, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 647034436,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647034436/square.jpg",
+          "attribution": "(c) luckychris, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 647034617,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647034617/square.jpg",
+          "attribution": "(c) luckychris, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354719913,
+      "date": "2026-04-26",
+      "compte": 2538749,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 647055266,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647055266/square.jpg",
+          "attribution": "(c) erithi_avara, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 647055416,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647055416/square.jpg",
+          "attribution": "(c) erithi_avara, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354725160,
+      "date": "2026-04-25",
+      "compte": 2175033,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 647065107,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647065107/square.jpg",
+          "attribution": "(c) David Sandler, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 354833493,
+      "date": "2026-04-26",
+      "compte": 6602244,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 647253284,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647253284/square.jpg",
+          "attribution": "(c) andrew_lane_gordon_, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354839275,
+      "date": "2026-04-26",
+      "compte": 2054718,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 647263396,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647263396/square.jpg",
+          "attribution": "(c) Bruce Taylor, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354850577,
+      "date": "2026-04-26",
+      "compte": 10332370,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 647283266,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647283266/square.jpg",
+          "attribution": "(c) leiland, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354856211,
+      "date": "2026-04-26",
+      "compte": 9483889,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 647293163,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647293163/square.jpg",
+          "attribution": "(c) aletvinchuk, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354865829,
+      "date": "2026-04-26",
+      "compte": 8628379,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 647311887,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647311887/square.jpg",
+          "attribution": "(c) Joseph, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354902939,
+      "date": "2026-04-26",
+      "compte": 9648309,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 647379008,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647379008/square.jpg",
+          "attribution": "(c) emcl_, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 647380144,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647380144/square.jpg",
+          "attribution": "(c) emcl_, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354903373,
+      "date": "2026-04-26",
+      "compte": 10461589,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 647379604,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647379604/square.jpg",
+          "attribution": "(c) That Thespian Person 97, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354940797,
+      "date": "2026-04-26",
+      "compte": 7549907,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 647443775,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647443775/square.jpg",
+          "attribution": "(c) Leona Kustra, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 354963762,
+      "date": "2026-04-26",
+      "compte": 2014063,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 647487683,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647487683/square.jpg",
+          "attribution": "(c) Nicki Brockamp, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355028360,
+      "date": "2026-04-26",
+      "compte": 5604423,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 647598672,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647598672/square.jpg",
+          "attribution": "(c) bambi_0090, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355067269,
+      "date": "2026-04-25",
+      "compte": 10412970,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 647668921,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647668921/square.jpg",
+          "attribution": "(c) michalkaz, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355096298,
+      "date": "2026-04-26",
+      "compte": 912457,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 647715268,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647715268/square.jpg",
+          "attribution": "(c) warbler111, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355116106,
+      "date": "2026-04-27",
+      "compte": 9424978,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 647744035,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647744035/square.jpg",
+          "attribution": "(c) kiaraundblitz, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355120276,
+      "date": "2026-04-27",
+      "compte": 10463677,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 647750624,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647750624/square.jpg",
+          "attribution": "(c) Alex Lazar, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355120461,
+      "date": "2026-04-23",
+      "compte": 329176,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 647751158,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647751158/square.jpg",
+          "attribution": "(c) Justin Garwood, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355139974,
+      "date": "2026-04-27",
+      "compte": 9192439,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 647779065,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647779065/square.jpg",
+          "attribution": "(c) vojtech_zouhar, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355140736,
+      "date": "2026-04-27",
+      "compte": 10430304,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 647780207,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647780207/square.jpg",
+          "attribution": "(c) spicakovak, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355160415,
+      "date": "2026-04-27",
+      "compte": 9192439,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 647808657,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647808657/square.jpg",
+          "attribution": "(c) vojtech_zouhar, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355174688,
+      "date": "2026-04-26",
+      "compte": 6234682,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 647828685,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647828685/square.jpg",
+          "attribution": "(c) Олексій, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 647828779,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647828779/square.jpg",
+          "attribution": "(c) Олексій, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 647828852,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647828852/square.jpg",
+          "attribution": "(c) Олексій, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 647828957,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647828957/square.jpg",
+          "attribution": "(c) Олексій, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355182387,
+      "date": "2026-04-26",
+      "compte": 10458773,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 647840370,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647840370/square.jpg",
+          "attribution": "(c) ericka-4_b, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 647840476,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647840476/square.jpg",
+          "attribution": "(c) ericka-4_b, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 647840577,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647840577/square.jpg",
+          "attribution": "(c) ericka-4_b, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355204434,
+      "date": "2026-04-27",
+      "compte": 811473,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 647874571,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647874571/square.jpg",
+          "attribution": "(c) Piotr Panek, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 355206354,
+      "date": "2026-04-27",
+      "compte": 4975968,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 647877376,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647877376/square.jpg",
+          "attribution": "(c) Nuno Cruz, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 647877538,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647877538/square.jpg",
+          "attribution": "(c) Nuno Cruz, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355222321,
+      "date": "2026-04-27",
+      "compte": 10451418,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 647900948,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647900948/square.jpg",
+          "attribution": "(c) Boglárka Fauszt, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355269649,
+      "date": "2026-03-22",
+      "compte": 10428044,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 647972124,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647972124/square.jpg",
+          "attribution": "(c) stambecco_, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355295833,
+      "date": "2026-04-27",
+      "compte": 9346956,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 648010700,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648010700/square.jpg",
+          "attribution": "(c) lukas2_, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355316862,
+      "date": "2026-04-27",
+      "compte": 3352499,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 648028519,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648028519/square.jpg",
+          "attribution": "(c) Trevor Marshall, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355326239,
+      "date": "2026-04-27",
+      "compte": 3254292,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 648058717,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648058717/square.jpg",
+          "attribution": "(c) Seprűs Péter, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355335810,
+      "date": "2026-04-27",
+      "compte": 10465602,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 648072630,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648072630/square.jpg",
+          "attribution": "(c) schumachers, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355419482,
+      "date": "2026-04-26",
+      "compte": 9235272,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 648202400,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648202400/square.jpg",
+          "attribution": "(c) Valeria Garza, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355444961,
+      "date": "2026-04-27",
+      "compte": 273402,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 648240071,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648240071/square.jpg",
+          "attribution": "(c) Gino Brignoli, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 355463599,
+      "date": "2026-04-27",
+      "compte": 7832088,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 648270019,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648270019/square.jpg",
+          "attribution": "(c) umsintsi, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 355464904,
+      "date": "2026-04-26",
+      "compte": 10418023,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 648274137,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648274137/square.jpg",
+          "attribution": "(c) icviagiuseppemessinaclasse1h, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 648274272,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648274272/square.jpg",
+          "attribution": "(c) icviagiuseppemessinaclasse1h, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355477560,
+      "date": "2026-04-27",
+      "compte": 10344186,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 648292058,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648292058/square.jpg",
+          "attribution": "(c) lindsay_melia, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355515718,
+      "date": "2026-04-27",
+      "compte": 10468008,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 648353140,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648353140/square.jpg",
+          "attribution": "(c) Tomáš Chrastný, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355542760,
+      "date": "2026-04-24",
+      "compte": 6391018,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 647852021,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647852021/square.jpg",
+          "attribution": "(c) Samuele Papeschi, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 355551564,
+      "date": "2026-04-27",
+      "compte": 9183436,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 648412513,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648412513/square.jpg",
+          "attribution": "(c) Gábina Byrtusová, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 648412681,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648412681/square.jpg",
+          "attribution": "(c) Gábina Byrtusová, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355556906,
+      "date": "2026-04-27",
+      "compte": 10114047,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 648421298,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648421298/square.jpg",
+          "attribution": "(c) madi_ski, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355599315,
+      "date": "2026-04-26",
+      "compte": 10459984,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 648493698,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648493698/square.jpg",
+          "attribution": "(c) J.E. Arndt and L. Federwisch, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355610339,
+      "date": "2026-04-27",
+      "compte": 5288098,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 648463037,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648463037/square.jpg",
+          "attribution": "(c) Eva Fenwick, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355612756,
+      "date": "2026-04-25",
+      "compte": 4724645,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 648515871,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648515871/square.jpg",
+          "attribution": "(c) lastovka, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355625919,
+      "date": "2026-04-27",
+      "compte": 2082824,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 648523832,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648523832/square.jpg",
+          "attribution": "(c) Attila Lengyel, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355639281,
+      "date": "2026-04-27",
+      "compte": 5704376,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 648563315,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648563315/square.jpg",
+          "attribution": "(c) Lenka Saska, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355669008,
+      "date": "2026-04-27",
+      "compte": 9115876,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 648614978,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648614978/square.jpg",
+          "attribution": "(c) serhii_m, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 648615117,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648615117/square.jpg",
+          "attribution": "(c) serhii_m, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 648615251,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648615251/square.jpg",
+          "attribution": "(c) serhii_m, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 648615356,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648615356/square.jpg",
+          "attribution": "(c) serhii_m, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 648615496,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648615496/square.jpg",
+          "attribution": "(c) serhii_m, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355681040,
+      "date": "2026-04-25",
+      "compte": 3813240,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          14
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 648617810,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648617810/square.jpg",
+          "attribution": "(c) Małgorzata Śliż, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355681609,
+      "date": "2026-04-27",
+      "compte": 9943264,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 648637992,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648637992/square.jpg",
+          "attribution": "(c) takuit uino, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 648640171,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648640171/square.jpg",
+          "attribution": "(c) takuit uino, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355687871,
+      "date": "2026-04-27",
+      "compte": 9194786,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 648648385,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648648385/square.jpg",
+          "attribution": "(c) nina, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355689384,
+      "date": "2026-04-24",
+      "compte": 10459149,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 648650699,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648650699/square.jpg",
+          "attribution": "(c) Valentina Dvořáčková, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355691065,
+      "date": "2026-04-27",
+      "compte": 8184695,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 648653814,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648653814/square.jpg",
+          "attribution": "(c) langy01, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355698651,
+      "date": "2026-04-27",
+      "compte": 7564555,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 648667953,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648667953/square.jpg",
+          "attribution": "(c) tomo-m, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355703276,
+      "date": "2026-04-27",
+      "compte": 9328910,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 648614155,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648614155/square.jpg",
+          "attribution": "(c) astronautovic, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 648614134,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648614134/square.jpg",
+          "attribution": "(c) astronautovic, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 648614158,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648614158/square.jpg",
+          "attribution": "(c) astronautovic, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355770838,
+      "date": "2026-04-27",
+      "compte": 10470168,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 648796263,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648796263/square.jpg",
+          "attribution": "(c) santosramirez10, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355930425,
+      "date": "2026-04-27",
+      "compte": 9266110,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649081562,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649081562/square.jpg",
+          "attribution": "(c) 九二, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355950141,
+      "date": "2026-04-27",
+      "compte": 10377371,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649119277,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649119277/square.jpg",
+          "attribution": "(c) Matyáš Tomeček, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355978187,
+      "date": "2026-04-28",
+      "compte": 9143928,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649169618,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649169618/square.jpg",
+          "attribution": "(c) Dusan Hein, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 649169676,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649169676/square.jpg",
+          "attribution": "(c) Dusan Hein, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 649169721,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649169721/square.jpg",
+          "attribution": "(c) Dusan Hein, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 649169762,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649169762/square.jpg",
+          "attribution": "(c) Dusan Hein, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 649169823,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649169823/square.jpg",
+          "attribution": "(c) Dusan Hein, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 649169894,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649169894/square.jpg",
+          "attribution": "(c) Dusan Hein, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355978307,
+      "date": "2026-04-27",
+      "compte": 10430934,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649169764,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649169764/square.jpg",
+          "attribution": "(c) bruce_widmer, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355988574,
+      "date": "2026-04-26",
+      "compte": 632152,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649170603,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649170603/square.jpg",
+          "attribution": "(c) Noah Fenwick, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355988592,
+      "date": "2026-04-27",
+      "compte": 632152,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649170672,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649170672/square.jpg",
+          "attribution": "(c) Noah Fenwick, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 355991801,
+      "date": "2026-04-27",
+      "compte": 572980,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649194966,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649194966/square.jpg",
+          "attribution": "(c) Sandy Wolkenberg, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 355992723,
+      "date": "2026-04-27",
+      "compte": 572980,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649196289,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649196289/square.jpg",
+          "attribution": "(c) Sandy Wolkenberg, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 355994584,
+      "date": "2026-04-27",
+      "compte": 572980,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649200038,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649200038/square.jpg",
+          "attribution": "(c) Sandy Wolkenberg, some rights reserved (CC BY)"
+        },
+        {
+          "id": 649200013,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649200013/square.jpg",
+          "attribution": "(c) Sandy Wolkenberg, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 356024155,
+      "date": "2026-04-26",
+      "compte": 10352373,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649251894,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649251894/square.jpg",
+          "attribution": "(c) hochseehai, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 356055589,
+      "date": "2026-04-28",
+      "compte": 10472796,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649305639,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649305639/square.jpg",
+          "attribution": "(c) deniskopecky12, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 356134071,
+      "date": "2026-04-27",
+      "compte": 6751973,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649448370,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649448370/square.jpg",
+          "attribution": "(c) Helen Bovill, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 356149085,
+      "date": "2026-04-25",
+      "compte": 1807156,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649474992,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649474992/square.jpg",
+          "attribution": "(c) Pavel Kacl, some rights reserved (CC BY)"
+        }
+      ]
+    },
+    {
+      "id": 356149298,
+      "date": "2026-04-27",
+      "compte": 10364078,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649474765,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649474765/square.jpg",
+          "attribution": "(c) fox-star77, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 356151226,
+      "date": "2026-04-28",
+      "compte": 10462128,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649479372,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649479372/square.jpg",
+          "attribution": "(c) mossheart409, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 356152594,
+      "date": "2026-04-26",
+      "compte": 10469757,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649479388,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649479388/square.jpg",
+          "attribution": "(c) ursulaandres, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 356161493,
+      "date": "2026-04-25",
+      "compte": 10473752,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649498875,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649498875/square.jpg",
+          "attribution": "(c) Marija Trakoštanec, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 356164358,
+      "date": "2026-04-24",
+      "compte": 3175852,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649496447,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649496447/square.jpg",
+          "attribution": "(c) Krylenko VV, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 356164927,
+      "date": "2026-04-26",
+      "compte": 4311882,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649494700,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649494700/square.jpg",
+          "attribution": "(c) V. Lohr, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 649494698,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649494698/square.jpg",
+          "attribution": "(c) V. Lohr, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 649494695,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649494695/square.jpg",
+          "attribution": "(c) V. Lohr, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 649494739,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649494739/square.jpg",
+          "attribution": "(c) V. Lohr, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 356167656,
+      "date": "2026-04-27",
+      "compte": 9102525,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649510555,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649510555/square.jpg",
+          "attribution": "(c) ellaaj, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 356170021,
+      "date": "2026-04-22",
+      "compte": 7619605,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649514311,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649514311/square.jpg",
+          "attribution": "(c) Melanie Bell Edwards, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 356170112,
+      "date": "2026-04-28",
+      "compte": 2179089,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649517588,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649517588/square.jpg",
+          "attribution": "(c) Vlasta Loya, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 356170403,
+      "date": "2026-04-26",
+      "compte": 2493606,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649417656,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649417656/square.jpg",
+          "attribution": "(c) Leo Kuzmits, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 356176117,
+      "date": "2026-04-28",
+      "compte": 5585348,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649525621,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649525621/square.jpg",
+          "attribution": "(c) zoodave, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 356176950,
+      "date": "2026-04-24",
+      "compte": 3175852,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649522968,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649522968/square.jpg",
+          "attribution": "(c) Krylenko VV, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 356181898,
+      "date": "2026-04-28",
+      "compte": 10426246,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649538657,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649538657/square.jpg",
+          "attribution": "(c) juancruzusc, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 356186278,
+      "date": "2026-04-28",
+      "compte": 10424025,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649545704,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649545704/square.jpg",
+          "attribution": "(c) Herbs D9, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 356187571,
+      "date": "2026-04-27",
+      "compte": 10424732,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649548108,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649548108/square.jpg",
+          "attribution": "(c) lena0906, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 356189188,
+      "date": "2026-04-28",
+      "compte": 19823,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649551326,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649551326/square.jpg",
+          "attribution": "(c) Cory Whitney, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 356194782,
+      "date": "2026-04-28",
+      "compte": 7634265,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649561558,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649561558/square.jpg",
+          "attribution": "(c) seabirder, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 356214812,
+      "date": "2026-04-28",
+      "compte": 10067200,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649599294,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649599294/square.jpg",
+          "attribution": "(c) axo, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 356226503,
+      "date": "2026-04-27",
+      "compte": 8478120,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649616132,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649616132/square.jpg",
+          "attribution": "(c) András Schmotzer, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 649615947,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649615947/square.jpg",
+          "attribution": "(c) András Schmotzer, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 356238836,
+      "date": "2026-04-28",
+      "compte": 1479068,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649642654,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649642654/square.jpg",
+          "attribution": "(c) Andrey Efremov, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 649642727,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649642727/square.jpg",
+          "attribution": "(c) Andrey Efremov, some rights reserved (CC BY-NC)"
+        },
+        {
+          "id": 649642790,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649642790/square.jpg",
+          "attribution": "(c) Andrey Efremov, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 356257823,
+      "date": "2026-04-25",
+      "compte": 4724645,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649656315,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649656315/square.jpg",
+          "attribution": "(c) lastovka, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 356303586,
+      "date": "2026-04-28",
+      "compte": 10295245,
+      "statut": "research",
+      "annotations": [
+        [
+          9,
+          20
+        ],
+        [
+          12,
+          13
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649761658,
+          "license_code": "cc-by-nc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649761658/square.jpg",
+          "attribution": "(c) robertbogdon, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 356426535,
+      "date": "2026-04-26",
+      "compte": 247672,
+      "statut": "research",
+      "annotations": [
+        [
+          12,
+          13
+        ]
+      ],
+      "taxon": 55563,
+      "nom_taxon": "Bellis perennis",
+      "ancetres": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        47605,
+        47604,
+        632790,
+        461542,
+        1265661,
+        55564,
+        55563
+      ],
+      "photos": [
+        {
+          "id": 649989692,
+          "license_code": "cc-by",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649989692/square.jpg",
+          "attribution": "(c) Mel Whiting, some rights reserved (CC BY)"
+        }
+      ]
+    }
+  ]
+}

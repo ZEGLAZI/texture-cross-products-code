@@ -1,0 +1,115 @@
+{
+  "status": "passed",
+  "completed_utc": "2026-11-25T15:53:28.877589+00:00",
+  "scope": "Independent privacy audit of the manifest-listed code/data distribution; ignored local run outputs are outside this audit.",
+  "manifest_sha256": "d626e50cabf000370ca149fdef031c3c841fc3b113fbd48c9485f1f249b856de",
+  "manifest_file_count": 1238,
+  "total_distribution_files_including_manifest": 1239,
+  "failures": [],
+  "unlisted_distribution_paths": [],
+  "missing_distribution_paths": [],
+  "hash_mismatches": [],
+  "symlinks": [],
+  "embedded_git_paths": [],
+  "hashes_verified": 1238,
+  "removed_document_hashes_checked": 72,
+  "renamed_exact_copies_of_removed_documents": [],
+  "allowed_pdf_plots": [
+    {
+      "path": "reproduction/review2/figures/attributes.pdf",
+      "pages": 1,
+      "sha256": "d617ff4f6b62b4d190ca1bddeaee4ffa206e3f73904aa80a2add8f8a4a9aa2f1"
+    },
+    {
+      "path": "reproduction/review2/figures/centres.pdf",
+      "pages": 1,
+      "sha256": "55cc65e391798b1bf614fb7b1dc2b163330420c35f930311c9c8fe9850ed48b7"
+    },
+    {
+      "path": "reproduction/review2/figures/margins.pdf",
+      "pages": 1,
+      "sha256": "db00ca6d79d2e260fb992520cc47fa92366ab67e0d12e0a3c233c1e3216df610"
+    },
+    {
+      "path": "reproduction/review2/figures/selected_contrasts.pdf",
+      "pages": 1,
+      "sha256": "bc3c530d428e8b4680d4a264178b475836d1d763531db493aa7ca2301c4b1d1a"
+    },
+    {
+      "path": "studies/ridge_sensitivity/results/ridge_validation.pdf",
+      "pages": 1,
+      "sha256": "f6be89c8b3758173646b34d9e1f30644706af07220ca0af1e85b207c4cd88ff1"
+    },
+    {
+      "path": "studies/ridge_sensitivity/results/ridge_validation_publication.pdf",
+      "pages": 1,
+      "sha256": "8e6cd2f006d7ec2cebd884d38745472e0a4b5685b6b8f209db7b7710fbee11c5"
+    }
+  ],
+  "allowed_png_plots": [
+    {
+      "path": "studies/ridge_sensitivity/results/ridge_validation.png",
+      "width": 1683,
+      "height": 718
+    },
+    {
+      "path": "studies/ridge_sensitivity/results/ridge_validation_publication.png",
+      "width": 1261,
+      "height": 737
+    }
+  ],
+  "provider_json_archives": [
+    {
+      "path": "reproduction/historical/revision/provenance/inat2026/instantane_inaturalist.zip",
+      "json_members": 20,
+      "sha256": "1df1a5d7f4671bc8f1d28ee0c15848b66b222b48a6a97a052454b065ab47ecc3"
+    },
+    {
+      "path": "reproduction/historical/revision/provenance/plantnet/instantane_gbif.zip",
+      "json_members": 25,
+      "sha256": "f8d058d182730c43808f70d471a67851893c9dd81ecbfa6d4af01f2769b0f69b"
+    },
+    {
+      "path": "reproduction/historical/revision/results/cohort/instantane_inaturalist.zip",
+      "json_members": 6,
+      "sha256": "b59761f05d3bd2fc648aed7c97535341866a95e7cfdac70094cefc1a0185d6e6"
+    }
+  ],
+  "provider_json_archive_member_count": 51,
+  "npz_containers_checked": 586,
+  "numpy_array_members": 5132,
+  "text_scan": {
+    "text_files_checked": 632,
+    "python_files_parsed": 185,
+    "reference_prose_blocks": 177,
+    "unique_reference_40_word_sequences": 7768,
+    "matching_prose_sequences": [],
+    "latex_document_or_section_markers": [],
+    "private_editorial_material_markers": [],
+    "publication_filenames_in_text": [
+      "verification/release_gate_tests.json"
+    ],
+    "publication_filename_matches_classification": "Only synthetic negative-test cases in verification/release_gate_tests.json; no document bytes or prose are included."
+  },
+  "independent_initial_history_gate_tests": [
+    {
+      "check": "one_clean_root_commit",
+      "passed": true
+    },
+    {
+      "check": "reject_staged_uncommitted_bytes",
+      "passed": true,
+      "reason": "Staged files differ from the committed release"
+    },
+    {
+      "check": "reject_deleted_unreviewed_file_in_history",
+      "passed": true,
+      "reason": "Initial-upload check requires exactly one fresh root commit and no other history"
+    }
+  ],
+  "limitations": [
+    "This audit checks the prepared code/data snapshot and initial-upload gate; it does not erase earlier public downloads or private server history.",
+    "The six allowed PDF assets are standalone one-page numerical plots, not article or supplement documents."
+  ],
+  "removed_document_hash_scope": "Article/supplement/report PDFs and LaTeX project/source files, plus the manuscript-prose renderer; standalone scientific figure PDFs are excluded from this blocked-document hash set."
+}

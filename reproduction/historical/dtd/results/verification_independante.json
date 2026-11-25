@@ -1,0 +1,6 @@
+{
+  "partition": 1,
+  "train": 3753,
+  "test": 1880,
+  "decisions_identiques": 1880
+}

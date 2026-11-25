@@ -1,0 +1,47 @@
+{
+  "replicates": 999,
+  "seed": 20261121,
+  "observed": {
+    "replicate": -1,
+    "lambda_R_S": 0.1,
+    "R_fixed_S": 69.0,
+    "R_selected_S": 70.0,
+    "lambda_R_Q": 0.1,
+    "R_fixed_Q": 68.8,
+    "R_selected_Q": 69.4
+  },
+  "observed_shifts_pp": {
+    "T_R_minus_H": -0.4,
+    "T_R_minus_D": -0.4
+  },
+  "source_target_percentiles_pp": {
+    "T_R_minus_H": [
+      -3.3,
+      4.6
+    ],
+    "T_R_minus_D": [
+      -2.7,
+      2.2
+    ]
+  },
+  "penalty_counts": {
+    "lambda_R_S": {
+      "1.0": 215,
+      "0.1": 487,
+      "10.0": 0,
+      "0.01": 229,
+      "100.0": 0,
+      "0.001": 68
+    },
+    "lambda_R_Q": {
+      "1.0": 149,
+      "0.1": 458,
+      "10.0": 0,
+      "0.01": 316,
+      "100.0": 0,
+      "0.001": 76
+    }
+  },
+  "reference_labels_checked": 4000,
+  "literal_row_labels_checked": 8000
+}

@@ -1,0 +1,15 @@
+{
+  "unit": "exact hostname of original manifest URL",
+  "n_photos": 211,
+  "n_hosts": 74,
+  "n_partitions": 30,
+  "assignments_sha256": "586df04a664db6ad2051a9836d339859aeb45ec4e9763f296109ec71df5bc7cc",
+  "squares_mean": 57.20866095876094,
+  "crosses_mean": 51.33814043271422,
+  "delta_mean_pp": 5.870520526046727,
+  "delta_min_pp": 0.5002150964224654,
+  "delta_max_pp": 10.667454627741925,
+  "wins": 30,
+  "ties": 0,
+  "losses": 0
+}

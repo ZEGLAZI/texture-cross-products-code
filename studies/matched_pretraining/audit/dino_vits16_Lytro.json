@@ -1,0 +1,6 @@
+{
+  "dataset": "Lytro",
+  "folds": 1,
+  "validation_scores": 12,
+  "matched_test_labels": 5000
+}

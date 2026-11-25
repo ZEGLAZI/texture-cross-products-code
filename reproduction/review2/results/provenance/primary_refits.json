@@ -1,0 +1,1624 @@
+{
+  "DTD": {
+    "test_appearances": 18800,
+    "differences": {
+      "linear": 0,
+      "linear_squares": 0,
+      "linear_products": 0,
+      "full_quadratic": 0
+    },
+    "folds": [
+      {
+        "fold": "DTD_01",
+        "test_appearances": 1880,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "DTD_02",
+        "test_appearances": 1880,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "DTD_03",
+        "test_appearances": 1880,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "DTD_04",
+        "test_appearances": 1880,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "DTD_05",
+        "test_appearances": 1880,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "DTD_06",
+        "test_appearances": 1880,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "DTD_07",
+        "test_appearances": 1880,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "DTD_08",
+        "test_appearances": 1880,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "DTD_09",
+        "test_appearances": 1880,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "DTD_10",
+        "test_appearances": 1880,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      }
+    ]
+  },
+  "Clothing": {
+    "test_appearances": 6330,
+    "differences": {
+      "linear": 0,
+      "linear_squares": 0,
+      "linear_products": 0,
+      "full_quadratic": 0
+    },
+    "folds": [
+      {
+        "fold": "Textile_00_0",
+        "test_appearances": 43,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_00_1",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_00_2",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_00_3",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_00_4",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_01_0",
+        "test_appearances": 43,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_01_1",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_01_2",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_01_3",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_01_4",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_02_0",
+        "test_appearances": 43,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_02_1",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_02_2",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_02_3",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_02_4",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_03_0",
+        "test_appearances": 43,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_03_1",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_03_2",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_03_3",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_03_4",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_04_0",
+        "test_appearances": 43,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_04_1",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_04_2",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_04_3",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_04_4",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_05_0",
+        "test_appearances": 43,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_05_1",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_05_2",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_05_3",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_05_4",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_06_0",
+        "test_appearances": 43,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_06_1",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_06_2",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_06_3",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_06_4",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_07_0",
+        "test_appearances": 43,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_07_1",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_07_2",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_07_3",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_07_4",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_08_0",
+        "test_appearances": 43,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_08_1",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_08_2",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_08_3",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_08_4",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_09_0",
+        "test_appearances": 43,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_09_1",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_09_2",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_09_3",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_09_4",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_10_0",
+        "test_appearances": 43,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_10_1",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_10_2",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_10_3",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_10_4",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_11_0",
+        "test_appearances": 43,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_11_1",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_11_2",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_11_3",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_11_4",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_12_0",
+        "test_appearances": 43,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_12_1",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_12_2",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_12_3",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_12_4",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_13_0",
+        "test_appearances": 43,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_13_1",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_13_2",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_13_3",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_13_4",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_14_0",
+        "test_appearances": 43,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_14_1",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_14_2",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_14_3",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_14_4",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_15_0",
+        "test_appearances": 43,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_15_1",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_15_2",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_15_3",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_15_4",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_16_0",
+        "test_appearances": 43,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_16_1",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_16_2",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_16_3",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_16_4",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_17_0",
+        "test_appearances": 43,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_17_1",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_17_2",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_17_3",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_17_4",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_18_0",
+        "test_appearances": 43,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_18_1",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_18_2",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_18_3",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_18_4",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_19_0",
+        "test_appearances": 43,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_19_1",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_19_2",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_19_3",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_19_4",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_20_0",
+        "test_appearances": 43,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_20_1",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_20_2",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_20_3",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_20_4",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_21_0",
+        "test_appearances": 43,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_21_1",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_21_2",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_21_3",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_21_4",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_22_0",
+        "test_appearances": 43,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_22_1",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_22_2",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_22_3",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_22_4",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_23_0",
+        "test_appearances": 43,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_23_1",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_23_2",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_23_3",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_23_4",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_24_0",
+        "test_appearances": 43,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_24_1",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_24_2",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_24_3",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_24_4",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_25_0",
+        "test_appearances": 43,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_25_1",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_25_2",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_25_3",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_25_4",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_26_0",
+        "test_appearances": 43,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_26_1",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_26_2",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_26_3",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_26_4",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_27_0",
+        "test_appearances": 43,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_27_1",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_27_2",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_27_3",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_27_4",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_28_0",
+        "test_appearances": 43,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_28_1",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_28_2",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_28_3",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_28_4",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_29_0",
+        "test_appearances": 43,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_29_1",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_29_2",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_29_3",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      },
+      {
+        "fold": "Textile_29_4",
+        "test_appearances": 42,
+        "differences": {
+          "linear": 0,
+          "linear_squares": 0,
+          "linear_products": 0,
+          "full_quadratic": 0
+        }
+      }
+    ]
+  }
+}

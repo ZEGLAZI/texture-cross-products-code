@@ -1,0 +1,6 @@
+{
+  "protocole_initial_sha256": "be3a905353beef7d3a486196722206e5e2ae763858e630fd860af186b98958bb",
+  "statut": "Contrôle secondaire ajouté avant tout ajustement de classifieur sur DTD et toute consultation de ses scores. Les trois comparaisons principales restent celles du protocole initial.",
+  "methodes": {"Additif_diag_egal": "T/3.25, avec redimensionnement symétrique diagonal pour obtenir la même autosimilarité par image que HSMT.", "DINO_Additif_diag_egal": "(DINOv2+Additif_diag_egal)/2"},
+  "secondaires": ["HSMT - Additif_diag_egal", "DINO_HSMT - DINO_Additif_diag_egal"]
+}

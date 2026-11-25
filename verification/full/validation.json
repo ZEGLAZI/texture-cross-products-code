@@ -1,0 +1,417 @@
+{
+  "status": "passed",
+  "completed_utc": "2026-11-25T16:24:21.581611+00:00",
+  "tested_code_and_data_commit": "d69b4b190274933d31fc65768d1b5fc435ed72db",
+  "tested_code_and_data_tree": "84ef62d7584be591290dd98de6c17c37f3c5ee02",
+  "scope": "Numerical reproduction from released descriptor arrays and stored decisions",
+  "execution": {
+    "kind": "completed_full_numerical_suite_in_documented_segments",
+    "single_uninterrupted_default_full_invocation": false,
+    "public_full_command_reuses_prior_core_results_by_default": false,
+    "publication_documents_checked": false,
+    "fresh_pixel_extraction_in_this_validation": false,
+    "core": {
+      "started_utc": "2026-11-25T15:27:11Z",
+      "completed_report_utc": "2026-11-25T15:43:02.981313+00:00",
+      "fresh_full_core_executed": true,
+      "report_sha256": "721f890b9e90a15ebd8f4faf99344e555b268c172baabd9d60725d9f2ca90cc9",
+      "later_invocation_failure": "CNN reader expected a numerical ZIP that is distributed unpacked",
+      "transport_fix": "Read the verified unpacked numerical payload through ReleasedPayload",
+      "core_algorithms_and_inputs_changed_by_transport_fix": false
+    },
+    "remaining_historical_studies": {
+      "completed_report_utc": "2026-11-25T16:24:15.351298+00:00",
+      "fresh_remaining_fits_after_transport_fix": true,
+      "core_evidence_reused_explicitly": true,
+      "private_validation_harness_used": true,
+      "public_command_modified_to_skip_core": false
+    },
+    "dense_study": {
+      "completed_utc": "2026-11-25T16:04:11.874362+00:00",
+      "invocation_mode": "full",
+      "resume_requested": false,
+      "fresh_validation_selection_and_outer_fits": true
+    }
+  },
+  "historical_core": {
+    "numerical_output_files_compared": 72,
+    "reference_descriptor_refits": {
+      "DTD": {
+        "split_representation_fits": 20,
+        "validation_scores_compared": 240,
+        "prediction_comparisons": 188000,
+        "matches_distributed_reference_predictions": true,
+        "expected_label_differences_vs_earlier_feature_edition": 594
+      },
+      "KTH": {
+        "split_representation_fits": 8,
+        "validation_scores_compared": 96,
+        "prediction_comparisons": 47520,
+        "matches_distributed_reference_predictions": true,
+        "expected_label_differences_vs_earlier_feature_edition": 0
+      }
+    },
+    "block_subsets": {
+      "mode": "full",
+      "fits": 98,
+      "decisions_evaluated": 164864
+    },
+    "FMD_decisions": {
+      "refitted_test_labels": 1000,
+      "summarized_test_labels": 1000,
+      "correct_per_kernel": [
+        222,
+        222
+      ],
+      "same_label": 470,
+      "corrected": 9,
+      "newly_wrong": 9,
+      "changed_still_wrong": 12
+    }
+  },
+  "historical_components": {
+    "resnet50": {
+      "mode": "full",
+      "pooled_coordinates": 44412928,
+      "image_identities": 12392,
+      "validation_scores": 276,
+      "penalty_choices": 30,
+      "refitted_test_labels": 122760,
+      "independent_solver_test_labels": 20340,
+      "gains_rows": 27,
+      "contrasts_rows": 12,
+      "per_fold_rows": 135,
+      "source_target_paired_draws": 999,
+      "status": "passed"
+    },
+    "legacy_refits_and_simulation": {
+      "status": "passed",
+      "clothing": {
+        "test_rows": 6330,
+        "models": 7,
+        "sha256": "39da47e973f735f704ce175e9b9daa7f2b972b85528457b6a01af9c58fb90d6b"
+      },
+      "flower_source_transfer": {
+        "target_photos": [
+          750,
+          750,
+          1070,
+          711
+        ],
+        "exact_label_check": true
+      },
+      "external_restricted_refits": [
+        "Pl@ntNet",
+        "iNaturalist 2026",
+        "KTH specimens"
+      ],
+      "additional_flower_cohort": {
+        "photos": 420,
+        "integer_labels_and_indices_checked_in_1d_arrays": 5040,
+        "floating_point_values_checked": 15120
+      },
+      "radial_simulation_rows": 30
+    },
+    "kth_lbp": {
+      "images_verified_from_pixels": 0,
+      "kernels": {
+        "clbp": {
+          "matched_labels": 4752,
+          "mean_recall_pct": 65.3409090909091
+        },
+        "oclbp": {
+          "matched_labels": 4752,
+          "mean_recall_pct": 56.94444444444444
+        }
+      }
+    },
+    "flower_pixels": {
+      "fixed_Add": {
+        "original_recall_pct": 60.614530137814796,
+        "pixel_recall_pct": 60.614530137814796,
+        "different_labels": 0
+      },
+      "fixed_W": {
+        "original_recall_pct": 63.61365395879036,
+        "pixel_recall_pct": 63.61365395879036,
+        "different_labels": 1
+      },
+      "fixed_S": {
+        "original_recall_pct": 62.792631268795496,
+        "pixel_recall_pct": 62.792631268795496,
+        "different_labels": 0
+      },
+      "fixed_C": {
+        "original_recall_pct": 61.34250726769327,
+        "pixel_recall_pct": 61.34250726769327,
+        "different_labels": 0
+      },
+      "fixed_U": {
+        "original_recall_pct": 63.61365395879036,
+        "pixel_recall_pct": 63.61365395879036,
+        "different_labels": 0
+      },
+      "fixed_Q": {
+        "original_recall_pct": 63.65273607626874,
+        "pixel_recall_pct": 63.65273607626874,
+        "different_labels": 0
+      },
+      "selected_Add": {
+        "original_recall_pct": 60.614530137814796,
+        "pixel_recall_pct": 60.614530137814796,
+        "different_labels": 0
+      },
+      "selected_W": {
+        "original_recall_pct": 63.13597535008392,
+        "pixel_recall_pct": 63.13597535008392,
+        "different_labels": 0
+      },
+      "selected_S": {
+        "original_recall_pct": 63.619350017117995,
+        "pixel_recall_pct": 63.619350017117995,
+        "different_labels": 0
+      },
+      "selected_C": {
+        "original_recall_pct": 62.259885792539414,
+        "pixel_recall_pct": 62.47918403815345,
+        "different_labels": 1
+      },
+      "selected_U": {
+        "original_recall_pct": 63.0911971742779,
+        "pixel_recall_pct": 63.0911971742779,
+        "different_labels": 0
+      },
+      "selected_Q": {
+        "original_recall_pct": 68.46272928871441,
+        "pixel_recall_pct": 68.46272928871441,
+        "different_labels": 0
+      }
+    },
+    "transfer": {
+      "predicted_labels_compared": 181864,
+      "changed": 0,
+      "statistics_tables_checked": 7,
+      "source_grids_checked": 4
+    },
+    "colour": {
+      "newly_reextracted_images": 0,
+      "new_feature_coordinates_recompared": 0,
+      "different_feature_coordinates": null,
+      "native_coordinates_recompared": 0,
+      "predicted_label_comparisons": 1402632,
+      "different_labels": 0,
+      "model_fold_outputs": 1204,
+      "prior_RGB_labels_checked": 24552,
+      "tables_verified": [
+        "by_class.csv",
+        "by_fold.csv",
+        "complementarity.csv",
+        "enriched.csv",
+        "illumination.csv",
+        "lighting_pairs.csv",
+        "matched_illumination.csv",
+        "primary.csv",
+        "scores.csv"
+      ],
+      "independent_acquisition": {
+        "new_pixel_extractions_compared": 0,
+        "feature_coordinates_compared": 0,
+        "different_feature_coordinates": null,
+        "model_labels_compared": 13500,
+        "different_labels": 0,
+        "held_out_appearances": 2250,
+        "distinct_images": 3250
+      },
+      "weight_control": {
+        "label_comparisons": 27990,
+        "different_labels": 0,
+        "contrasts": 6
+      },
+      "kernel_contrast": {
+        "ordered_label_checks": 167940,
+        "different_labels": 0,
+        "intervals": 12,
+        "protocols": 6
+      }
+    },
+    "source_refit": {
+      "replicates": 999,
+      "seed": 20261121,
+      "original_T_pp": 0.0,
+      "refit_percentile95_pp": [
+        -3.2,
+        4.604999999999995
+      ],
+      "bootstrap_median_pp": 0.3,
+      "all_four_choose_one": 104,
+      "penalty_counts": {
+        "H_S": {
+          "1.0": 690,
+          "0.1": 73,
+          "10.0": 213,
+          "0.01": 9,
+          "100.0": 12,
+          "0.001": 2
+        },
+        "H_Q": {
+          "1.0": 598,
+          "0.1": 146,
+          "10.0": 183,
+          "0.01": 45,
+          "100.0": 9,
+          "0.001": 18
+        },
+        "D_S": {
+          "1.0": 395,
+          "0.1": 483,
+          "10.0": 0,
+          "0.01": 98,
+          "100.0": 0,
+          "0.001": 23
+        },
+        "D_Q": {
+          "1.0": 273,
+          "0.1": 465,
+          "10.0": 0,
+          "0.01": 218,
+          "100.0": 0,
+          "0.001": 43
+        }
+      },
+      "literal_prediction_comparisons": 16000,
+      "reference_prediction_comparisons": 8000
+    },
+    "matched_pretraining_and_garments": {
+      "summary_rows": {
+        "gains": 33,
+        "contrasts": 9,
+        "garment_classes": 90,
+        "garment_image_macro": 15
+      },
+      "paired_test_products": 654,
+      "independent_refits": {
+        "dino_r50_DTD": {
+          "dataset": "DTD",
+          "folds": 10,
+          "validation_scores": 120,
+          "matched_test_labels": 94000
+        },
+        "dino_r50_KTH": {
+          "dataset": "KTH",
+          "folds": 4,
+          "validation_scores": 144,
+          "matched_test_labels": 23760
+        },
+        "dino_r50_Lytro": {
+          "dataset": "Lytro",
+          "folds": 1,
+          "validation_scores": 12,
+          "matched_test_labels": 5000
+        },
+        "dino_vits16_DTD": {
+          "dataset": "DTD",
+          "folds": 10,
+          "validation_scores": 120,
+          "matched_test_labels": 94000
+        },
+        "dino_vits16_KTH": {
+          "dataset": "KTH",
+          "folds": 4,
+          "validation_scores": 144,
+          "matched_test_labels": 23760
+        },
+        "dino_vits16_Lytro": {
+          "dataset": "Lytro",
+          "folds": 1,
+          "validation_scores": 12,
+          "matched_test_labels": 5000
+        }
+      },
+      "status": "passed"
+    }
+  },
+  "dense_study": {
+    "numeric_values_checked": 232,
+    "numeric_mismatches": 0,
+    "counts": {
+      "predicted_labels": 940000,
+      "archived_labels_compared": 376000,
+      "archived_label_mismatches": 0,
+      "dense_solver_labels_compared": 188000,
+      "dense_solver_label_mismatches": 0
+    },
+    "selection_counts": {
+      "choices": 100,
+      "changed_from_six": 75,
+      "searches_with_tied_maxima": 17,
+      "lower_extensions": 3,
+      "upper_extensions": 0,
+      "searched_validation_values": 2144
+    },
+    "additional_checks": {
+      "selection_counts": true,
+      "S42_examples": true,
+      "S41_selected_labels_changed_542": true,
+      "S41_common_labels_changed_2": true,
+      "old_split6_outer_reproduced": true,
+      "all_test_predictions_saved": true,
+      "archived_predictions_reproduced": true,
+      "dense_independent_solver_agrees": true
+    }
+  },
+  "provenance": {
+    "groups_checked": 6,
+    "deterministic_examples_checked": 4,
+    "companion_feature_files_verified": 16
+  },
+  "historical_payload": {
+    "mode": "public_numerical_subset",
+    "original_manifest_entries": 796,
+    "files_verified": 795,
+    "unchanged_files_verified": 792,
+    "adapted_files_verified": 3,
+    "excluded_publication_files": [
+      "historical/revision/code/displays_revision.py"
+    ],
+    "original_payload_is_complete_and_byte_identical": false,
+    "manifest_sha256": "7fa27470dab59573e0933bf1ade04cea903c04483756e9ab5744022350c03283",
+    "public_change_record_sha256": "522462fcfbad14c6bfbcb3ad8da4a289c8e3df024cef49c99b20e74c90a1781b",
+    "historical_archive_identifier_sha256": "ad1a3c2cda703498ca2bca2e2f5fa6718ad071931a0d5dbd8869c4f46dfbf385",
+    "zip_digest_measured_in_this_check": false
+  },
+  "input_preservation": {
+    "retained_original_numerical_files_verified": 952,
+    "counts_by_extension": {
+      ".json": 233,
+      ".npz": 578,
+      ".csv": 141
+    },
+    "differences": [],
+    "algorithm_source_files_unchanged": 20,
+    "cnn_math_functions_ast_identical": [
+      "load_npz",
+      "acquisition",
+      "kernels",
+      "macro",
+      "classify",
+      "validation",
+      "choose",
+      "save_csv",
+      "fit_task"
+    ]
+  },
+  "tables_mode": {
+    "status": "passed",
+    "completed_utc": "2026-11-25T15:29:03.821065+00:00",
+    "historical_outputs_compared": 21,
+    "ridge_reference_values_checked": 232,
+    "classifier_refits_performed": false
+  },
+  "evidence_files": {
+    "historical_core.json": "721f890b9e90a15ebd8f4faf99344e555b268c172baabd9d60725d9f2ca90cc9",
+    "historical_full.json": "3c6d2736cfa87b7b3272681a02b88017eacb27924aa72c6ec20b9213fcb8e2e0",
+    "dense_full.json": "7e428a103ff58296b916a7833e979caf8783974ffa37ff3813659c4c4802b283",
+    "provenance_after_cleanup.json": "7e3f1050951ae0f67bcafc73e4604c03a91ffbf55f801e19bb4d4a9d0bb2e40d",
+    "input_preservation.json": "e660584cbfc82642a49ac78f70a75a024175cc6a9f68cee6ed7b2cddf31a802f"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "classes": {
+    "tournesol": {
+      "retenues": 77,
+      "exclusions": {
+        "compte_antérieur": 45,
+        "compte_déjà_retenu": 11
+      }
+    },
+    "pissenlit": {
+      "retenues": 152,
+      "exclusions": {
+        "compte_antérieur": 181,
+        "compte_déjà_retenu": 48,
+        "image_identique_ou_proche": 1
+      }
+    },
+    "pâquerette": {
+      "retenues": 191,
+      "exclusions": {
+        "compte_antérieur": 144,
+        "compte_déjà_retenu": 91,
+        "image_identique_ou_proche": 1
+      }
+    }
+  },
+  "n": 420,
+  "comptes": 420,
+  "references": 9211,
+  "min_distance_anterieure": 8,
+  "min_distance_interne": 12,
+  "sha_manifeste": "0aee90bb8c96500bbcbe2d92b34a91f0349d1738ef7aae68d3bc6ed5c95140bd"
+}

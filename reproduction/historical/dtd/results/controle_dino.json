@@ -1,0 +1,10 @@
+{
+  "DINOv2_M13": {
+    "n": 3760,
+    "cos_min": 0.999715527687028,
+    "cos_mediane": 0.9999999999972256,
+    "cos_sous_0_99": 0,
+    "poids_M13_sha256": "b938bf1bc15cd2ec0feacfe3a1bb553fe8ea9ca46a7e1d8d00217f29aef60cd9",
+    "provenance": "Comparaison entre le calcul DINOv2 courant entièrement refait et le calcul M13 antérieur sur train1 et val1, pour contrôle numérique."
+  }
+}

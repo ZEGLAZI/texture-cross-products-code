@@ -1,0 +1,18 @@
+{
+  "range": [
+    1.2698476470989815,
+    4.316104958750405
+  ],
+  "bound_and_in_range": 2366,
+  "wide_at_min": 5588,
+  "old_at_max": 0,
+  "matched_native_indices": 355318,
+  "n": 355320,
+  "per_image_bound_fraction_quantiles": [
+    0.0,
+    0.3968253968253968,
+    0.6507936507936508,
+    0.8253968253968254,
+    1.0
+  ]
+}

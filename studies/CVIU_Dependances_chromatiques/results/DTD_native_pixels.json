@@ -1,0 +1,21 @@
+{
+  "corpus": "DTD",
+  "images": 5640,
+  "blocks": {
+    "F7": {
+      "coordinates": 5329800,
+      "different": 0,
+      "max_abs": 0.0
+    },
+    "F8": {
+      "coordinates": 2842560,
+      "different": 0,
+      "max_abs": 0.0
+    },
+    "rgb": {
+      "coordinates": 360960,
+      "different": 0,
+      "max_abs": 0.0
+    }
+  }
+}
