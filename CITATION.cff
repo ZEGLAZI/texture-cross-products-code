@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use these computational materials, please cite this software release."
 type: software
-title: "Texture recognition with cross-products of block similarities: code and reproducibility data"
+title: "Colour–texture recognition with a three-block descriptor and cross-products of block similarities: code and reproducibility data"
 version: 1.0.0
 doi: "10.5281/zenodo.24541280"
 date-released: "2026-11-25"

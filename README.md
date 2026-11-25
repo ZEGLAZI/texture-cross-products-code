@@ -1,4 +1,4 @@
-# Texture recognition with cross-products of block similarities
+# Colour–texture recognition with a three-block descriptor and cross-products of block similarities
 
 Research code, derived descriptors, predictions and numerical reproducibility
 materials by **Oussama ZEGLAZI and Mohammed RZIZA**.
@@ -14,8 +14,8 @@ Release **1.0.0** is archived on Zenodo and corresponds to the
 [GitHub release v1.0.0](https://github.com/ZEGLAZI/texture-cross-products-code/releases/tag/v1.0.0).
 Please cite the archived version as:
 
-Zeglazi, O., & Rziza, M. (2026). *Texture recognition with cross-products of
-block similarities: code and reproducibility data* (Version 1.0.0)
+Zeglazi, O., & Rziza, M. (2026). *Colour–texture recognition with a three-block descriptor and
+cross-products of block similarities: code and reproducibility data* (Version 1.0.0)
 [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.24541280](https://doi.org/10.5281/zenodo.24541280).
 
 ## Start here
