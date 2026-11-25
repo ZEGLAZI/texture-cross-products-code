@@ -1,0 +1,24 @@
+{
+  "title": "Texture recognition with cross-products of block similarities: code and reproducibility data",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "creators": [
+    {
+      "name": "Zeglazi, Oussama"
+    },
+    {
+      "name": "Rziza, Mohammed"
+    }
+  ],
+  "description": "<p>Research code and derived data for numerical reproduction of texture-recognition experiments involving block similarities and their cross-products. The archive includes derived descriptors, split definitions, per-example predictions, numerical verification scripts and recorded validation reports.</p><p>Use the root README for installation, integrity checks and the supported numerical replay commands. Optional reconstruction from source images requires separately obtained provider datasets and model weights. The unpublished manuscript and supplementary document are not included.</p><p>This archive does not introduce a repository-wide reuse licence. Existing component-specific licences and third-party terms remain applicable; consult the Data provenance and licences section of README.md and the included third-party licence notices. The Zenodo rights category Other (Not Open) records this absence of an additional blanket licence; the archive files remain publicly accessible.</p>",
+  "access_right": "open",
+  "license": "other-closed",
+  "keywords": [
+    "texture recognition",
+    "block similarities",
+    "cross-products",
+    "kernel methods",
+    "reproducibility"
+  ],
+  "language": "eng"
+}

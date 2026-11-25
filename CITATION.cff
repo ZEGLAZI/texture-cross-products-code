@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use these computational materials, please cite this software release."
+type: software
+title: "Texture recognition with cross-products of block similarities: code and reproducibility data"
+version: 1.0.0
+authors:
+  - family-names: Zeglazi
+    given-names: Oussama
+  - family-names: Rziza
+    given-names: Mohammed
+abstract: >-
+  Research code, derived descriptors, split definitions, predictions and
+  numerical verification materials for texture-recognition experiments
+  involving block similarities and their cross-products. The manuscript and
+  supplementary document are not included. Existing component-specific
+  licences and third-party terms remain applicable; this archive does not
+  introduce a repository-wide reuse licence.
+repository-code: "https://github.com/ZEGLAZI/texture-cross-products-code"
+url: "https://github.com/ZEGLAZI/texture-cross-products-code"
+license-url: "https://github.com/ZEGLAZI/texture-cross-products-code/blob/main/README.md#data-provenance-and-licences"
+keywords:
+  - texture recognition
+  - block similarities
+  - cross-products
+  - kernel methods
+  - reproducibility
